@@ -23,7 +23,7 @@ Paragraph lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm
 1. Item 2
 1. Item 3
 
-**Bold**, _Italic_, [Link Text](/path/to/page.html)
+**Bold**, _Italic_, [Link Text](/path/to/page.html), [Plain English Paper Example](/plain-english-papers.html)
 
 E<sub>Newton</sub> = 1/2 m<sub>0</sub>v<sup>2</sup>
 
