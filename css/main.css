@@ -15,8 +15,10 @@ html, body { height: 100%; }
 body {
   background-color: #FFF;
   font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
-  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    line-height: 1.5;
 }
 
 h1 { font-size: 24px; }
@@ -80,8 +82,7 @@ math {
 
 .site {
   font-size: 115%;
-  text-align: justify;
-  width: 42em;
+  max-width: 830px;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
