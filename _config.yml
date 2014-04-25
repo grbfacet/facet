@@ -1,3 +1,5 @@
 name: Gary's Physics Site
 markdown: redcarpet
 pygments: false
+encoding: utf-8
+exclude: [Gemfile, Gemfile.lock, .gitignore, README.md]
