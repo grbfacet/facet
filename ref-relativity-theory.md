@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 What happens when we apply this expansion to EEinstein =  m0√(1/(1-(v/c)2))c2? Let’s rewrite this as
 
-	EEinstein = m0c2γ(β) where γ(β) = (1 – β2)1/2 and β= v/c 
+	E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>γ(β) where γ(β) = (1 – β2)<sup>1/2</sup> and β= v/c 
 
 and let’s expand γ(β) using Mr Taylor’s expansion
 if you know some calculus check the math, we will just give the result
