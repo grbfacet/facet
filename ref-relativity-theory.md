@@ -8,17 +8,17 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 What happens when we apply this expansion to EEinstein =  m0√(1/(1-(v/c)2))c2? Let’s rewrite this as
 
-	E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>γ(β) where γ(β) = (1 – β2)<sup>1/2</sup> and β= v/c 
+E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>γ(β) where γ(β) = (1 – β2)<sup>1/2</sup> and β= v/c 
 
 and let’s expand γ(β) using Mr Taylor’s expansion
 if you know some calculus check the math, we will just give the result
 
-	γ(β) = = (1 – β2)1/2 = 1 + 1/2β2 + 3/8β4 + ?β6 + …
+γ(β) = = (1 – β2)1/2 = 1 + 1/2β2 + 3/8β4 + ?β6 + …
 
 Now let’s plug in β = 0.01, ie, v = 0.01c = 3000km/sec = 1860mi/sec
 
-	γ(0.01) = 1 + 0.5x0.001. + 0.375x0.00001 + ?x0.0000001 + …
-	γ(0.01) ≈ 1.0050375?
+γ(0.01) = 1 + 0.5x0.001. + 0.375x0.00001 + ?x0.0000001 + …
+γ(0.01) ≈ 1.0050375?
 
 This tells us that the first two terms (1 and 0.005) dominate all the rest (actually, the first term 
 inertia of the motion is 
