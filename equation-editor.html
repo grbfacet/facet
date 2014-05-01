@@ -1,0 +1,114 @@
+---
+layout: default
+title: Equation Editor
+---
+
+<style>
+.visual {
+	margin-bottom: 2em;
+	padding: 1em;
+	border: 1px solid #999;
+}
+
+.toolbar {
+	border: 1px solid #999;
+	border-bottom: 0;
+	padding: 0.5em;
+	background: #EEE;
+}
+
+.nothing {
+	color: #CCC;
+	font-style: italic;
+}
+
+textarea {
+	display: block;
+	width: 100%;
+	border: 1px solid #999;
+	padding: 10px;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	resize: none;
+}
+</style>
+
+<script>
+(function(global) {
+	function toArray(arr) {
+		return Array.prototype.slice.call(arr);
+	}
+	
+	if (!window.getSelection) {
+		alert('Sorry. Modifying text is unsupported. Upgrade to a newer/better browser.');
+		return;
+	}
+
+	var EqEditor = {},
+		root, visual, source;
+
+	EqEditor.wrapSelectionWithTag = function(tagname) {
+		var
+			newEl = document.createElement(tagname),
+			sel = window.getSelection(),
+			// range = document.createRange()
+			range = sel.getRangeAt(0)
+		;
+		
+		newEl.appendChild(document.createTextNode(range.toString()))
+		
+		range.deleteContents()
+		range.insertNode(newEl);
+	}
+
+	EqEditor.applyTagToSelection = function(tag) {
+		EqEditor.wrapSelectionWithTag(tag);
+		
+		EqEditor.updateSource(visual.innerHTML);
+	};
+
+	EqEditor.updateSource = function(content) {
+		source.value = content;
+	};
+	
+	EqEditor.updateVisual = function(content) {
+		content = content.toString();
+
+		if (content.length === 0) {
+			content = '<span class="nothing">(Nothing)</span>';
+		}
+
+		visual.innerHTML = content;
+	};
+
+	EqEditor.init = function() {
+		root = document.querySelector('.equation-editor');
+		visual = root.querySelector('.visual');
+		source = root.querySelector('.source');
+		
+		source.addEventListener('keyup', function(ev) {
+			EqEditor.updateVisual(this.value);
+		}, false);
+		
+		EqEditor.updateVisual(source.value);
+	};
+
+	global.EqEditor = EqEditor;
+})(this);
+
+window.addEventListener('DOMContentLoaded', EqEditor.init, false);
+</script>
+
+<div class="equation-editor">
+	<h2>Visual</h2>
+
+	<div class="toolbar">
+		<button onclick="EqEditor.applyTagToSelection('sup')" type="button">Sup</button>
+		<button onclick="EqEditor.applyTagToSelection('sub')" type="button">Sub</button>
+	</div>
+
+	<div class="visual"></div>
+
+	<h2>Source</h2>
+	<textarea class="source" rows="10" cols="40"></textarea>
+</div>
