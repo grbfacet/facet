@@ -1,6 +1,6 @@
 According to Einstein the energy of an object is 
 
-	E<sub>Einstein</sub> = mc<sup>2</sup>
+<math>E<sub>Einstein</sub> = mc<sup>2</sup></math>
 
 Where
 
