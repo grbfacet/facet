@@ -5,7 +5,7 @@ title: Test 2
 
 According to Einstein the energy of an object is 
 
-<math mode="display" xmlns="http://www.w3.org/1998/Math/MathML">E<sub>Einstein</sub> = mc<sup>2</sup></math>
+<span class="eq">E<sub>Einstein</sub> = mc<sup>2</sup></span>
 
 Where
 
