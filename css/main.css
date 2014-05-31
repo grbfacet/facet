@@ -181,3 +181,13 @@ math {
 .post pre.terminal code {
   background-color: #333;
 }
+
+/*////////////////////////////*/
+
+.eq:before {
+    content: "\A0\A0\A0\A0";
+}
+
+.visual .eq:before {
+    content: none;
+}

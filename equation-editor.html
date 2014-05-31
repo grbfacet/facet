@@ -81,12 +81,25 @@ textarea {
 		visual.innerHTML = content;
 	};
 
+	EqEditor.wrapWithEqTag = function(content) {
+		if (content.indexOf('class="eq"') === -1) {
+			content = '<span class="eq">' + content + '</span>';
+		}
+
+		return content;
+	}
+
 	EqEditor.init = function() {
 		root = document.querySelector('.equation-editor');
 		visual = root.querySelector('.visual');
 		source = root.querySelector('.source');
 		
 		source.addEventListener('keyup', function(ev) {
+			// Wrap with equation tag if one isn't present
+			if (this.value.length !== 0) {
+				this.value = EqEditor.wrapWithEqTag(this.value);
+			}
+
 			EqEditor.updateVisual(this.value);
 		}, false);
 		
