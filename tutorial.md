@@ -1,13 +1,10 @@
 ---
 layout: default
-title: tutorial
+title: Background physics tutorial for the energy doubling paper
 ---
 
 
-
-Background physics tutorial for the energy doubling paper
-
-Overview: 
+#### Overview: 
 
 This is a review of some of the physics behind the research paper. You can read it in order as a tutorial. When you read the paper exposition there are links into the relevant sections in this tutorial. 
 
@@ -22,7 +19,7 @@ The term “classical” as in “classical physics” or “classical mechanics
 
 In western culture at large, “classical” as a historical term refers to the Greco-Roman era two millennia ago. In western culture at large the term “modern” has a multitude of historical period references. Perhaps a good example of the confusion possible about this adjective is when we consider that the modernist period in English literature ended sometime before World War II, followed by the post-modernist period which also has had its zenith and is essentially over today. In other uses in western culture, the term “modern” often refers generally to a time that began with the Renaissance, creating the three western periods classical, medieval and modern. In physics the term “modern” is also used in contradictory ways but one important usage is when it is said that modern physics began with Newton. 
 
-Aside: Calculus and modern physics
+#### Aside: Calculus and modern physics
 
 Although we will not do any calculus in this physics tutorial it will be helpful to understand what calculus, invented by Newton, did for physics. Newton’s calculus is the mathematics of change and accumulation. Modern physics began with Newton’s invention of calculus. From, at least, the ancient Greeks, people had tried to understand change but until there was a mathematical tool available to describe change quantitatively, the study of change was essentially limited. 
 
@@ -34,7 +31,7 @@ When the two points of reference differ by some kind of quantitative measure we 
 
 Now let’s look at the idea of accumulation. If something has a rate of change, 30 mph, 60% per year, or 20 miles per gallon we can apply that over a specific amount of the denominator quantity. If we drive at 30 miles per hour and we do that for six hours we accumulate 180 miles traveled. If we hold the stock for three years at a rate of increase of 60% per year the stock will accumulate an increase of 180% (we ignore compounding here). If we want to travel (accumulate) 400 miles at a gas usage rate of 20 mpg it will take 20 gallons of gas. If gas sells at the rate of $3.00 per gallon we will accumulate a gas cost of $60 for our 400 mile trip. 
 
-Change and accumulation 
+##### Change and accumulation 
 
 Rate of change and accumulation are two sides of the same coin, if you have one, you have the other. This is what’s known as the fundamental theorem of calculus, that differential calculus is the inverse of integral calculus. Let’s now talk about calculus. In the examples we have given, we might call them difference calculations, calculations based on a constant rate of change over a fixed amount of change. For example 30 mph was a rate of change and if we applied it over 3 hours we would cover 90 miles. But in real life a car’s speed is constantly changing, a stock price is moving up and down at a changing rate and even our gas mileage varies somewhat with driving conditions which is exemplified in the citation of city and highway gas usage rates provided on all new car stickers. 
 
@@ -44,7 +41,7 @@ These are examples of change and accumulation taken from familiar daily life. Wh
 
 Notice all these examples from modern physics involve quantitative rates of change and accumulation and hence require the use of differential and integral calculus. None of this is possible without Newton’s invention. Leibniz is also credited with inventing the calculus and we won’t go into that controversial bit of history. Here we simply side with Newton because the scientific tradition of applying the calculus to problems of science indisputably begins with Newton. If we were primarily interested in the mathematics and philosophy of infinitesimals instead of physics we would put emphasis on Leibniz’s contributions to understanding the mathematical theory of the calculus. For Newton calculus was simply a tool to get on with physics. For Leibniz, calculus was a philosophical and mathematical idea.
 
-Instantaneous rate of change 
+##### Instantaneous rate of change 
 
 What Newton did was work out the mathematics of instantaneous rate of change, differential calculus, and the mathematics of accumulation of a quantity whose rate of change varies from instant to instant, integral calculus. What is an instantaneous rate of change? It is thought of as the limit of a smaller and smaller amount of change. We can measure the average change of a stock price over each year, over each month, over each day, over each hour, minute or second. In fact some computer trading programs work on price changes measured in thousandths of a second. We can imagine a similar limiting process for the speed of a car or anything else that has change that can be measured with numbers. 
 
@@ -81,7 +78,8 @@ Suppose we want to know how far the object falls in one or two or ten seconds? I
 
 Now if you’re Newton and if you are playing around with numbers like this you might notice if you take the first number in the pair, the seconds falling number and square it and divide by two and multiply by the acceleration of gravity (10 m/s per second) you get the second number! That is you would have discovered 
 
-d = 1/2gt2, where g = 10 m/sec per second. 
+<span class="eq">d = 1/2gt<sup>2</sup>, where g = 10 m/sec per second.</span>
+ 
 
 We started with s, speed, 
 
@@ -89,14 +87,22 @@ s = gt and we “integrated” that formula over time.
 
 If we were Newton, we might have wondered about integrating the new formula involving t2 over time and we would find we get the result 
 
+<span class="eq">1/3 x 1/2gt<sup>3</sup> and if we integrated that we would get</span>
+
+<span class="eq">1/4 x 1/3 x 1/2gt<sup>4</sup>.</span>
+
 1/3 x 1/2gt3 and if we integrated that we would get 
 1/4 x 1/3 x 1/2gt4. 
 
 We would have found that the integral of gtn over t is 
 
+<span class="eq">1/(n+1)gt<sup>n+1</sup>.</span>
+
 1/(n+1)gtn+1. 
 
 Differentiation is going the opposite direction. Just from a mathematical point of view, if you have a formula for the accumulation of distance and you want to know how fast you are accumulating you go the opposite way. If you accumulate kxn after x units of total accumulation then at that moment you are accumulating at the rate of 
+
+<span class="eq">nkx<sup>n-1</sup>.</span>
 
 nkxn-1. 
 
