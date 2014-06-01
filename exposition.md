@@ -5,6 +5,7 @@ title: The Plain English exposition of the Beam Energy Doubling research paper
 
 
 Here is our suggestion for how to approach the energy doubling paper. It is based on the fact that the exposition, like the research paper, contains a lot of interconnected information and you will need to go over the information repeatedly to make those connections:
+
 1.	If you don’t like reading from a computer screen, there are three documents we recommend you print off before you begin so you can make notes and so it will be easier to switch back and forth between them
 a.	This document – the plain English exposition of the beam energy doubling paper.
 b.	The research paper.[link]
