@@ -7,8 +7,10 @@ According to Einstein the energy of an object is
 
 <span class="eq">E<sub>Einstein</sub> = mc<sup>2</sup></span>
 
-Where
+<span class="eq">γ = 1/(1-β<sup>2</sup>)<sup>1/2</sup></span>
 
+Where
+m = m0γ
 	m = m0γ and
 	γ = 1/(1-β2)1/2 and 
 β = v/c. 
