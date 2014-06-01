@@ -580,7 +580,7 @@ If you have followed the math in the tutorial you should have a sense of how thi
 
 ### To summarize:
 
-We noted that the Linac produced bunches of 1.8 x 10<sup>10</sup>electrons with 42GeV of energy per electron. This is the equivalent of the energy of a baseball thrown at 93 mph. Since the Linac was producing 60 bunches per second one might imagine what it would be like to have 60 major league baseball pitchers each one hitting us with a fastball every second.
+We noted that the Linac produced bunches of 1.8 x 10<sup>10</sup>electrons with 42 GeV of energy per electron. This is the equivalent of the energy of a baseball thrown at 93 mph. Since the Linac was producing 60 bunches per second one might imagine what it would be like to have 60 major league baseball pitchers each one hitting us with a fastball every second.
 
 According to Newtonian theory the energy of motion of an object is 
 
@@ -610,7 +610,7 @@ Writing it all out without the gamma and beta
 
 <span class="eq">m = m<sub>0</sub>/(1 – (v/c)<sup>2</sup>)<sup>1/2</sup>.</span>
 
-When v = 0, when the particle is not moving, m = m<su(b>0</sub>, the rest mass.
+When v = 0, when the particle is not moving, m = m<sub>0</sub>, the rest mass.
 
 When v approaches c, m and hence E become infinitely large.
 
