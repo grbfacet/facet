@@ -58,7 +58,7 @@ E<sub>Newton</sub> = 1/2 m<sub>0</sub>v<sup>2</sup>
       </mrow>
     </mfrac>
   </mrow>
-  <!-- <annotation encoding="TeX">
+  <annotation encoding="TeX">
      x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
   </annotation>
   <annotation encoding="StarMath 5.0">
