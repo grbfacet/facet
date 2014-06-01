@@ -120,8 +120,11 @@ The reader is probably familiar with the use of prefixes on units of measure in 
 Going up in multiples, 
 
 k for kilo indicates 10<sup>3</sup> = 1000 (thousand), 
+
 M for mega indicates 10<sup>6</sup> = 1,000,000 (million), 
+
 G for giga indicates 10<sup>9</sup> = 1,000,000,000 (billion) and 
+
 T for tera indicates 10<sup>12</sup> = 1,000,000,000,000 (trillion). 
 
 Sometimes in particle physics literature a few decades ago B was also used for a billion. 
@@ -130,8 +133,11 @@ The scale of energy reached by particles in current particle accelerators is in 
 There is a corresponding series of notations for fractions of a unit. 
 
 1 m = 1 meter. 
+
 1 mm (one millimeter) = 10<sup>-3</sup> m = one thousandth of a meter. 
+
 1 µm (one micrometer, where µ is the Greek letter mu) =10<sup>-6</sup> m = 1 millionth of a meter.
+
 1 nm (one nanometer) = 10<sup>-9</sup> m = 1 billionth meter. 
 
 And further steps of one thousandth are pico (10<sup>-12</sup>) , femto (10<sup>-15</sup>) , atta (10<sup>-18</sup>).
