@@ -84,22 +84,6 @@ Suppose we want to know how far the object falls in one or two or ten seconds? I
 
 <span class="eq">...,</span>
 
-
-2-20,
-
-3-45,
-
-4-80,
-
-5-125,
-
-6-180,
-
-7-245,
-
-8-320,
-… 
-
 Now if you’re Newton and if you are playing around with numbers like this you might notice if you take the first number in the pair, the seconds falling number and square it and divide by two and multiply by the acceleration of gravity (10 m/s per second) you get the second number! That is you would have discovered 
 
 <span class="eq">d = 1/2gt<sup>2</sup>, where g = 10 m/sec per second.</span>
@@ -129,16 +113,16 @@ Differentiation is going the opposite direction. Just from a mathematical point 
 Newton’s achievements in physics were staggering but without his achievement of the calculus none of what we know as physics today would have been possible because physics, the laws governing the material world, almost always involve relations between changing and accumulating variables. And that is calculus. It is interesting to note that Archimedes actually developed the beginnings of integral calculus. Two events buried Archimedes great discovery, his killing by a Roman soldier and the predominance that was given over time to Aristotle’s ideas. Aristotle had theories about everything but Archimedes only focused on basic inanimate natural phenomena and was seen as a narrow specialist and posterity mistakenly accepted Aristotle’s judgment over Archimedes. The reason for this was probably that Aristotle was a generalist and tried to come up with a consistent logical theory of everything. Today we tend the other way and compartmentalize knowledge. 
 
 
-Aside: Units of measure prefixes indicate powers of ten:
+### Aside: Units of measure prefixes indicate powers of ten:
 
 The reader is probably familiar with the use of prefixes on units of measure in the metric system to indicate multiples or fractions of the unit in powers of ten. The meter, a unit of length (about 3 ft), is abbreviated with the letter “m”. Just like we say 7 ft, we also say 13.2 m. Unlike the English system of measure we indicate 1000 meters as 1 km (one kilometer) and we indicate 1/1000th of a meter as 1 mm (one millimeter).  
 
 Going up in multiples, 
 
-k for kilo indicates 103 = 1000 (thousand), 
-M for mega indicates 106 = 1,000,000 (million), 
-G for giga indicates 109 = 1,000,000,000 (billion) and 
-T for tera indicates 1012 = 1,000,000,000,000 (trillion). 
+k for kilo indicates 10<sup>3</sup> = 1000 (thousand), 
+M for mega indicates 10<sup>6</sup> = 1,000,000 (million), 
+G for giga indicates 10<sup>9</sup> = 1,000,000,000 (billion) and 
+T for tera indicates 10<sup>12</sup> = 1,000,000,000,000 (trillion). 
 
 Sometimes in particle physics literature a few decades ago B was also used for a billion. 
 The scale of energy reached by particles in current particle accelerators is in the 100 GeV to 10 TeV range.  We explain the eV energy unit below.
@@ -146,14 +130,14 @@ The scale of energy reached by particles in current particle accelerators is in 
 There is a corresponding series of notations for fractions of a unit. 
 
 1 m = 1 meter. 
-1 mm (one millimeter) = 10-3m = one thousandth of a meter. 
-1 µm (one micrometer, where µ is the Greek letter mu) =10-6m = 1 millionth of a meter.
-1 nm (one nanometer) = 10-9m = 1 billionth meter. 
+1 mm (one millimeter) = 10<sup>-3</sup> m = one thousandth of a meter. 
+1 µm (one micrometer, where µ is the Greek letter mu) =10<sup>-6</sup> m = 1 millionth of a meter.
+1 nm (one nanometer) = 10<sup>-9</sup> m = 1 billionth meter. 
 
-And further steps of one thousandth are pico (10-12) , femto (10-15) , atta (10-18).
+And further steps of one thousandth are pico (10<sup>-12</sup>) , femto (10<sup>-15</sup>) , atta (10<sup>-18</sup>).
 
 
-Force, energy, work, potential energy, energy of motion (kinetic energy), electric potential and all that… 
+### Force, energy, work, potential energy, energy of motion (kinetic energy), electric potential and all that… 
 
 One of the challenges of understanding physics is keeping in mind several interrelated concepts simultaneously. This problem is not restricted to physics. To understand such things as economic and biological systems the interplay of many concepts occurs. The ability to think in abstract ideas is widely believed to be a skill possessed only by humans. Perhaps other animals can form abstract ideas but what does seem to be unique to us is the ability to think not only about abstract ideas but to go a level further and think in terms of abstract relations between abstract ideas. For example, force, mass and acceleration are abstract ideas. Newton’s famous 2nd law, F = ma, is an abstract relation between three abstract concepts. To understand his law we first have to understand each of the three component ideas and then we have to understand the relationship the law expresses. And we will see that some of Einstein’s relativistic concepts and relations are even more complex. So we want to spend a little time emphasizing the differences and relations between several basic concepts involved with understanding objects in motion. 
 
