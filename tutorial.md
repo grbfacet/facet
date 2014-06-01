@@ -210,11 +210,11 @@ Relativity effects only begin to become important when particles reach, say 10 p
 
 4000 times jet speed is pretty fast, a bullet or a baseball with that speed could do a lot of damage but they are very heavy compared to an electron so how can we get a sense of the 42 GeV electron energy? Remember our 4000 times jet speed was an electron accelerated only by one 1.5 volt AA battery. To get to 42 GeV we need 
 
-<span class="eq">42 x 109/1.5 ≈ 3,000,000,000</span> 
+<span class="eq">42 x 10<sup>9</sup>/1.5 ≈ 3,000,000,000</span> 
 
 AA batteries connected in series. 
 
-42GeV takes our electron very close to the speed of light as we will show later. 
+42 GeV takes our electron very close to the speed of light as we will show later. 
 
 There is something we should clarify here. When you put an AA battery in, say, a little radio, the electrons flow through the circuit but they don’t flow at the speed, 4000 times jet speed, we calculated above. They would only move that fast in a vacuum. In a circuit the electrons are constantly bumping into atoms in the wires. The electric potential starts to accelerate them and before they can go more than a few atomic sizes they hit an atom and are deflected only to start accelerating again and then to hit another atom. These collisions happens at very high rate and the net overall flow of the electrons, called their “drift” speed along the wire, is very slow, in the range of a meter per hour. 
 
