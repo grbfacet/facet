@@ -344,7 +344,7 @@ This is a complicated unintuitive looking formula but we can tease out a feeling
 
 First, it says the mass of a moving body depends on only two things: its rest mass, m<sub>0</sub>, and the ratio of its speed to the speed of light, v/c. If v can never exceed c as relativity says, then the ratio v/c will always be smaller than 1. (Actually relativity only says you cannot accelerate an object from a speed less than c to a speed greater than c. It does not rule out the creation of a particle “born” with a speed greater than c. At present, such particles called “tachyons” have never been observed.) Further, no matter what situation we might be considering for the object, its rest mass, m<sub>0</sub>, and c will always be unchanged, those are what we call physical constants. All electrons have exactly the same rest mass no matter what their motion. In all situations, the speed of light is the same (this is the basis of relativity theory). What determines the inertial mass of a moving object is simply its speed, v. 
 
-Now let’s look at some values for v. If the body is standing still, v = 0 and if you plug v = 0 into the mass formula and do the math you will see that m = m<sup>0</sup>; m standing still is the rest mass exactly as we wanted (more on this below). Now let’s go to another extreme value, what happens when v = c? We plug that in and we get infinity for the mass. Normal particles can’t exceed c by pushing because no matter how hard and how long you push to make it go faster as you get closer and closer to c all you are doing is adding to its mass energy (inertia) and less and less to its speed. Between the extremes of v = 0 and v = c we can see the mass formula predicts a positive number for the mass. 
+Now let’s look at some values for v. If the body is standing still, v = 0 and if you plug v = 0 into the mass formula and do the math you will see that m = m<sub>0</sub>; m standing still is the rest mass exactly as we wanted (more on this below). Now let’s go to another extreme value, what happens when v = c? We plug that in and we get infinity for the mass. Normal particles can’t exceed c by pushing because no matter how hard and how long you push to make it go faster as you get closer and closer to c all you are doing is adding to its mass energy (inertia) and less and less to its speed. Between the extremes of v = 0 and v = c we can see the mass formula predicts a positive number for the mass. 
 
 You may wonder how light itself can travel at the speed, c? It can because for photons, light particles, 
 
@@ -366,7 +366,7 @@ Now let’s have a look at what happens between v = 0 and v = c. What about v = 
 
 The inertia is only increased by one half of a millionth even at a speed of 18.6 mi/sec ( 30 km/sec), hardly a large amount. It’s no wonder no one noticed in Newton’s time. 
 
-Calculation: Now let’s work backwards to find out how fast m0 must be going to double its inertia. We want 
+Calculation: Now let’s work backwards to find out how fast m<sub>0</sub> must be going to double its inertia. We want 
 
 <span class="eq">m = m<sub>0</sub>/(1- (v/c)<sup>2</sup>)<sup>1/2</sup> = 2m<sub>0</sub>.</span> 
 
@@ -396,105 +396,115 @@ Thus our initial little electron bunch 12µm long with all the electrons at same
 
 We stated above that Newtonian theory is an approximation to relativity theory. But when we look at the two formulas for energy, 
 
-ENewton = 1/2 m0v2 and 
+<span class="eq">E<sub>Newton</sub> = 1/2 m<sub>0</sub>v<sup>2</sup> and</span> 
 
-EEinstein = m0c2/(1-(v/c)2)1/2. 
+<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>/(1-(v/c)<sup>2</sup>)<sup>1/2</sup>.</span> 
 
 It’s not at all obvious that the first is an approximation to the second. The way to make this more precise is that we want to see that the second one looks more and more like the first one when v/c gets smaller and smaller. We already noted that at v =0 EEinstein does not equal 0 but ENewton does equal 0. So what is that about? We can use a Taylor series expansion of EEinstein to explore this issue. 
 
 The Taylor series expansion of a function
 A function of a variable x can be expressed as an infinite sum of terms:
 
-	f(x) = f(0) + f’(0)x + (1/2)f’’(0)x2 + (1/2x3)f’’’(0)x3 + (1/2x3x4)f(4)(0)x4 + …
+<span class="eq">f(x) = f(0) + f’(0)x + (1/2)f’’(0)x<sup>2</sup> + (1/2x3)f<sup>(3)</sup>(0)x<sup>3</sup> + (1/2x3x4)f<sup>(4)</sup>(0)x<sup>4</sup> + …</span>
 
 The nice thing for us about Mr. Taylor’s series can be seen if you consider a case where x is much smaller than 1 and close to 0. When you take a number smaller than 1 and near zero and calculate it’s powers (multiples of itself), those powers rapidly get much smaller. If 
 
-x = 0.1, then 
-x2 = 0.01, 
-x3 = 0.001, 
-… 
-x8 = 0.00000001, 
-…. 
+<span class="eq">x = 0.1, then</span>
 
-And this means as you go further out in the sum of the series those terms are getting small very fast whenever the f(n)(0) terms stay relatively small because they are multiplied by two rapidly shrinking numbers, the 1/n! and the xn factors. This in turn means that f(x) is given by good approximation by just the first few terms of the series when x is small. If we know the limits of our measurement precision we can actually specify where to meaningfully cut off the series sum. 
+<span class="eq">x<sup>2</sup> = 0.01,</span>
 
-Calculation: Let’s apply the series to something fairly simple. Consider a formula like 
+<span class="eq">x<sup>3</sup> = 0.001,</span>
 
-	f(x) = (1 + x)1/2.
+<span class="eq">… </span>
+
+<span class="eq">x<sup>8</sup> = 0.00000001,</span>
+
+<span class="eq">… .
+
+And this means as you go further out in the sum of the series those terms are getting small very fast whenever the f<sup>(n)</sup>(0) terms stay relatively small because they are multiplied by two rapidly shrinking numbers, the 1/n! and the x<sup>n</sup> factors. This in turn means that f(x) is given by good approximation by just the first few terms of the series when x is small. If we know the limits of our measurement precision we can actually specify where to meaningfully cut off the series sum. 
+
+Calculation: Let’s apply the series to something fairly simple to see how it works. Consider a formula like 
+
+<span class="eq">f(x) = (1 + x)<sup>1/2.</sup></span>
 
 The first term in the series, f(0) means to replace x with 0 in the formula giving
 
-	f(0) = (1 + 0)1/2 = 11/2  = 1.
+<span class="eq">f(0) = (1 + 0)<sup>1/2</sup> = 1<sup>1/2</sup>  = 1.</span>
 
 From calculus f’(x) the first derivative of f(x) is given by
 
-	f’(x) = d/dx(1 + x)1/2 = ½(1 + x)-1/2 and thus
-	f’(0) = 1/2(1 + 0)-1/2 = ½(1)-1/2 = ½.
+<span class="eq">f’(x) = d/dx(1 + x)<sup>1/2</sup> = ½(1 + x)<sup>-1/2</sup> and thus</span>
+	
+<span class="eq">f’(0) = ½(1 + 0)<sup>-1/2</sup> = ½(1)<sup>-1/2</sup> = ½.</span>
 
 Going one more term
 
-	f’’(x) = d/dx(1/2(1+x)-1/2) = (1/2)(-1/2)(1+x)-3/2 and thus
-	f’’(0) = (1/2)(-1/2)(1) = -1/4.
+<span class="eq">f’’(x) = d/dx(1/2(1+x)<sup>-1/2</sup>) = (1/2)(-1/2)(1+x)<sup>-3/2</sup> and thus</span>
 
-Then the first three terms of the Taylor series for (1 + x)1/2 are
+<span class="eq">f’’(0) = (1/2)(-1/2)(1) = -1/4.</span>
 
-	f(x) ≈ 1 + ½ x – ¼ x2 .
+Then the first three terms of the Taylor series for (1 + x)<sup>1/2</sup> are
+
+<span class="eq">f(x) ≈ 1 + ½ x – ¼ x<sup>2</sup> .</span>
 
 For x = 0.1 according to Mr. Taylor,
 
-	f(0.1) ≈  1 + ½ x 0.1 – ¼ x (0.1)2 = 1 + 0.05 - 0.0025 = 1.0475.
+<span class="eq">f(0.1) ≈  1 + ½ x 0.1 – ¼ x (0.1)<sup>2</sup> = 1 + 0.05 - 0.0025 = 1.0475.</span>
 
-But plugging in the original formula, f(x) = (1 + x)1/2 and using a calculator good to several decimal places
+But plugging in the original formula, f(x) = (1 + x)<sup>1/2</sup>and using a calculator good to several decimal places
 
-f(0.1) =  (1 + 0.1)1/2 = √(1.1) = 1.0488.
+<span class="eq">f(0.1) =  (1 + 0.1)<sup>1/2</sup> = √(1.1) = 1.0488.</span>
 
 The error between the approximation by three terms of the Taylor series and the calculator (“true”) value is
 
-1.0488 – 1.0475 = 0.0013 
+<span class="eq">1.0488 – 1.0475 = 0.0013</span> 
 
 or about one part in a thousand and we only took the first three terms of the Taylor expansion. If we added more terms the error would rapidly get smaller. End calculation. 
 
 
 What happens when we apply the Taylor expansion to 
 
-EEinstein = m0c2/(1-(v/c)2)1/2 ? 
+<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>/(1-(v/c)<sup>2</sup>)<sup>1/2</sup> ?</span> 
 
 Calculation: Let’s rewrite this as
 
-	EEinstein = m0c2γ(β) where γ(β) = 1/(1 – β2)1/2 and β= v/c 
+<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>γ(β) where γ(β) = 1/(1 – β<sup>2</sup>)<sup>1/2</sup> and β= v/c</span> 
 
 and let’s expand γ(β) using Mr. Taylor’s expansion. If you know some calculus check the math, we will just give the result
 
-	γ(β) = (1 – β2)-1/2 = 1 + 1/2β2 + 1/4β4 + …
+<span class="eq">γ(β) = (1 – β<sup>2</sup>)<sup>-1/2</sup> = 1 + 1/2β<sup>2</sup> + 1/4β<sup>4</sup> + …</span>
 
 Now let’s plug in 
 
-β = 0.01, i.e., 
-v = 0.01c = 3000km/sec = 1860mi/sec.
+<span class="eq">β = 0.01, i.e.,</span> 
 
-	γ(0.01) = 1 + 0.5x0.0001. + 0.25x0.00000001 + …
-	γ(0.01) ≈ 1.0000500025. End of calculation.
+<span class="eq">v = 0.01c = 3000km/sec = 1860mi/sec.</span>
+
+<span class="eq">γ(0.01) = 1 + 0.5 x 0.0001. + 0.25 x 0.00000001 + …</span>
+
+<span class="eq">γ(0.01) ≈ 1.0000500025. End of calculation.</span>
 
 This tells us that the first two terms (1 and 0.00005) dominate all the rest (actually, the first term dominates the second but we include the second term for a reason soon to be seen.) To good approximation for v a small fraction of c, we get
 
-	γ(β) ≈ 1 + 1/2β2.
+<span class="eq">γ(β) ≈ 1 + 1/2β<sup>2</sup>.</span>
 
- Let’s put this back in EEinstein:
+Let’s put this back in EEinstein:
 
-	EEinstein = m0c2γ ≈ m0c2 (1 + 1/2β2 ) =  m0c2 + 1/2 m0v2.
+<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>γ ≈ m<sub>0</sub>c<sup>2</sup> (1 + 1/2β<sup>2</sup> ) =  m<sub>0</sub>c<sup>2</sup> + 1/2 m<sub>0</sub>v<sup>2</sup>.</span>
 
 We can rewrite that as
 
-	EEinstein ≈ m0c2 + ENewton ! 
+<span class="eq">E<sub>Einstein</sub> ≈ m<sub>0</sub>c<sup>2</sup> + E<sub>Newton</sub> ! </span>
 
-This tells us when a body is standing still, i.e. when v = 0, i.e. when ENewton = 0 that EEinstein = m0c2. This is the best way to understand the idea that mass and energy are inter-convertible. Given that c2 is a very big number it tells us that a small amount of mass might be convertible into a large amount of energy and that is the basis of the nuclear reactions of fission (atomic bomb, nuclear reactors) and fusion ( hydrogen bomb and the energy released by a star’s “burning” of hydrogen and other elements). When a uranium atom fissions into parts the sum of the weights of the parts is less than the weight of the original atom and that tiny missing weight is converted to very rapid motion of the results of the break up (fission) of the uranium atom. 
+This tells us when a body is standing still, i.e. when v = 0, i.e. when E<sub>Newton</sub> = 0 that E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>. This is the best way to understand the idea that mass and energy are inter-convertible. Given that c<sup>2</sup> is a very big number it tells us that a small amount of mass might be convertible into a large amount of energy and that is the basis of the nuclear reactions of fission (atomic bomb, nuclear reactors) and fusion ( hydrogen bomb and the energy released by a star’s “burning” of hydrogen and other elements). When a uranium atom fissions into parts the sum of the weights of the parts is less than the weight of the original atom and that tiny missing weight is converted to very rapid motion of the results of the break up (fission) of the uranium atom. 
 
 For most processes we study, rocket ships, accelerated electrons, etc the first term, the rest energy term is unchanged in the process as we are not changing the particle composition of, say the electron, we are only accelerating it so that term is the same before and after acceleration and we are left with the difference is only in the terms that involve a power of the velocity so we can rewrite 
 
-	EEinstein of motion = ENewton + 1/4 m0c2β4
-			= 1/2 m0v2 + 1/4 m0v4/c2 + even smaller terms when v/c is small.
+<span class="eq">E<sub>Einstein</sub> of motion = E<sub>Newton</sub> + 1/4 m<sub>0</sub>c<sup>2</sup>β<sup>4</sup></span>
 
-Since the second term (the v4/c2 term) is very small for ordinary velocities observable in, say, Newton’s time, all measurements would have agreed with Newton’s theory within the measurement precision of his time. Thus, his theory passed every test and was believed to be “true”. It was only with advances in technology in the 19th century that measurements begin to indicate something was not right but it took about half a century for Einstein to figure out what was wrong and come up with his theory of relativity which agreed with Newton at low velocities but differed at high velocities and explained the anomalies that had been noticed. 
+<span class="eq">= 1/2 m<sub>0</sub>v<sup>2</sup> + 1/4 m<sub>0</sub>v<sup>4</sup>/c<sup>2</sup> + even smaller terms when v/c is small.</span>
+
+Since the second term (the v<sup>4</sup>/c<sup>2</sup> term) is very small for ordinary velocities observable in, say, Newton’s time, all measurements would have agreed with Newton’s theory within the measurement precision of his time. Thus, his theory passed every test and was believed to be “true”. It was only with advances in technology in the 19th century that measurements begin to indicate something was not right but it took about half a century for Einstein to figure out what was wrong and come up with his theory of relativity which agreed with Newton at low velocities but differed at high velocities and explained the anomalies that had been noticed. 
 
 Actually, Einstein’s theory was there for anyone to see as far back as the 1860s hidden in the new Maxwell’s unified theory of Electricity and Magnetism but to see it one had to throw off some very natural assumptions made by Newton and see the world in a way that disagrees with ordinary human experience. That was the genius of Einstein to make that leap. (Actually, at the time the anomaly was considered a flaw in Maxwell’s theory, not Newton’s. It was Einstein that turned the picture around and said Maxwell was right and Newton had it wrong.)
 
@@ -504,7 +514,7 @@ We have developed some examples and described various ways of thinking about rel
 
 Physicists commonly help their thinking by considering extreme cases. We did that when we looked at the mass formula for the extreme cases of v equal 0, c and 2c. George Gamow wrote a nice little book for lay people about a mythical Mr. Tompkins. Gamow’s approach was to wonder what ordinary daily experience would be like if the speed of light was slower, 10 miles per hour! Mr. Tompkins needs to go shopping and hops on his bike and starts to peddle. At first his speed picks up rapidly but as he gets to around 7 mph it begins to be a little harder to peddle faster. We noted at v = 0.87c the mass of an object doubles. If c is 10 mph then Mr. Tompkins is peddling a system (bike + himself) that weighs twice as much when he reaches 8.7 mph (87% of his c). And it quickly gets worse as he peddles harder and harder barely increasing his speed with more and more effort but he continues to feel heavier and heavier.
 
-Relativity and plasma acceleration of electron bunches
+### Relativity and plasma acceleration of electron bunches
 
 Particle accelerators get particles very near the speed of light and behavior is very different there than at speeds we are used to in daily life. We showed above that even for speeds many miles per second the difference between the Newtonian and the relativistic behavior is almost indistinguishable. Now we want to have a look at near the speed of light where the particles in our accelerators operate. We have explained elsewhere that the plasma acceleration experiment involved bunch of electrons 12 µm long. The electrons at the front of the bunch gave up energy to create the ionized plasma and the plasma created the electric field which in turn accelerated electrons at the back of the bunch. 
 
