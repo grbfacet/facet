@@ -171,7 +171,7 @@ One eV is a unit of energy. One e is a unit of charge; it is the amount of charg
 
 An AA battery creates a 1.5 volt potential between it’s + and - ends. A single electron accelerated freely (“freely” is an important qualification explained later) would acquire an energy of motion of 1.5 eV. Energy of motion is called kinetic energy and is given in low velocity situations, far from the speed of light, by the Newtonian formula 
 
-<span class="eq">ENewton = ½ m<sub>0</sub>v<sup>2</sup>,</span> 
+<span class="eq">E<sub>Newton</sub> = ½ m<sub>0</sub>v<sup>2</sup>,</span> 
 
 which is an approximation to the very famous and correct relativistic formula E<sub>Einstein</sub> = mc<sup>2</sup>.
 E<sub>Newton</sub> is the Newtonian kinetic energy of motion, m<sub>0</sub> is the particle’s mass and v is the particle’s velocity.
@@ -202,15 +202,15 @@ since 1 J = 1 kg-m<sup>2</sup>/sec<sup>2</sup>, J/kg = m<sup>2</sup>/sec<sup>2</
 
 An electron accelerated freely by a 1.5 volt AA battery would reach a speed of 450 miles per second which is about 4000 times the speed of a passenger jet plane.  But this is still only about one quarter of a percent of the speed of light so the use of the Newtonian approximation 
 
-ENewton = ½ m0v2 
+<span class="eq">E<sub>Newton</sub> = ½ m<sub>0</sub>v<sup>2</sup></span> 
 
 is OK as we will prove later. 
 
-Relativity effects only begin to become important when particles reach, say 10 percent, at least, of the speed of light. As is explained elsewhere, the Newtonian formula, ENewton = ½ m0v2, begins to make a significant error only when we approach these “relativistic” speeds. 
+Relativity effects only begin to become important when particles reach, say 10 percent, at least, of the speed of light. As is explained elsewhere, the Newtonian formula, E<sub>Newton</sub> = ½ m<sub>0</sub>v<sup>2</sup>, begins to make a significant error only when we approach these “relativistic” speeds. 
 
 4000 times jet speed is pretty fast, a bullet or a baseball with that speed could do a lot of damage but they are very heavy compared to an electron so how can we get a sense of the 42 GeV electron energy? Remember our 4000 times jet speed was an electron accelerated only by one 1.5 volt AA battery. To get to 42 GeV we need 
 
-42 x 109/1.5 ≈ 3,000,000,000 
+<span class="eq">42 x 109/1.5 ≈ 3,000,000,000</span> 
 
 AA batteries connected in series. 
 
