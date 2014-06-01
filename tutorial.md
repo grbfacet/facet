@@ -119,7 +119,7 @@ The reader is probably familiar with the use of prefixes on units of measure in 
 
 Going up in multiples, 
 
-k for kilo indicates 10<sup>3</sup> = 1000 (thousand), 
+<span class="eq">k for kilo indicates 10<sup>3</sup> = 1000 (thousand),</span> 
 
 M for mega indicates 10<sup>6</sup> = 1,000,000 (million), 
 
