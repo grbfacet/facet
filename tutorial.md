@@ -66,7 +66,24 @@ It turns out that Earth’s gravity near the surface changes the speed of an obj
 
 Suppose we want to know how far the object falls in one or two or ten seconds? If it was falling at a steady speed we can easily do the math, but its speed is constantly changing, constantly increasing. How do we calculate the distance it falls? This is a question of accumulation, integral calculus: accumulation of distance over a period of time with a non-constant speed (steadily increasing in this case). We want to integrate, add together, the amount of distance traveled over the whole time. We could imagine approximating an answer by saying in the first second it averaged 5 m/s so it fell 5 meters. In the next second it fell at an average of 15 m/s so it fell 15 meters. Add that to the 5 for the first second and it has now fallen 20 meters. In the third second it averages 25 m/s so it falls another 25 meters for a total of 45 meters after three seconds. If we keep doing the math we get the sequence 
 
-1-5,
+<span class="eq">1-5,</span>
+
+<span class="eq">2-20,</span>
+
+<span class="eq">3-45,</span>
+
+<span class="eq">4-80,</span>
+
+<span class="eq">5-125,</span>
+
+<span class="eq">6-180,</span>
+
+<span class="eq">7-245,</span>
+
+<span class="eq">8-320,</span>
+
+<span class="eq">...,</span>
+
 
 2-20,
 
@@ -94,7 +111,7 @@ We started with s, speed,
 
 s = gt and we “integrated” that formula over time. 
 
-If we were Newton, we might have wondered about integrating the new formula involving t2 over time and we would find we get the result 
+If we were Newton, we might have wondered about integrating the new formula involving t<sup>2</sup> over time and we would find we get the result 
 
 <span class="eq">1/3 x 1/2gt<sup>3</sup> and if we integrated that we would get</span>
 
