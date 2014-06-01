@@ -336,58 +336,68 @@ If Newton’s formula still was accurate at 42 GeV the electron coming out of th
 
 In relativity theory we denote the mass of an object at rest (not moving) as m0 and call it the object’s rest mass. We denote the mass of the object as it moves simply by m and relativity tells us m gets bigger as the speed of the body increases. The formula is 
 
-m = m0/( 1 – (v/c)2 )1/2, 
+<span class="eq">m = m<sub>0</sub>/( 1 – (v/c)<sup>2</sup> )<sup>1/2</sup>,</span> 
 
 where c is the speed of light, 300,000 km/sec (186,000 mi/sec). 
 
 This is a complicated unintuitive looking formula but we can tease out a feeling for it by considering different cases. 
 
-First, it says the mass of a moving body depends on only two things: its rest mass, m0, and the ratio of its speed to the speed of light, v/c. If v can never exceed c as relativity says, then the ratio v/c will always be smaller than 1. (Actually relativity only says you cannot accelerate an object from a speed less than c to a speed greater than c. It does not rule out the creation of a particle “born” with a speed greater than c. At present, such particles called “tachyons” have never been observed.) Further, no matter what situation we might be considering for the object, its rest mass, m0, and c will always be unchanged, those are what we call physical constants. All electrons have exactly the same rest mass no matter what their motion. In all situations, the speed of light is the same (this is the basis of relativity theory). What determines the inertial mass of a moving object is simply its speed, v. 
+First, it says the mass of a moving body depends on only two things: its rest mass, m<sub>0</sub>, and the ratio of its speed to the speed of light, v/c. If v can never exceed c as relativity says, then the ratio v/c will always be smaller than 1. (Actually relativity only says you cannot accelerate an object from a speed less than c to a speed greater than c. It does not rule out the creation of a particle “born” with a speed greater than c. At present, such particles called “tachyons” have never been observed.) Further, no matter what situation we might be considering for the object, its rest mass, m<sub>0</sub>, and c will always be unchanged, those are what we call physical constants. All electrons have exactly the same rest mass no matter what their motion. In all situations, the speed of light is the same (this is the basis of relativity theory). What determines the inertial mass of a moving object is simply its speed, v. 
 
-Now let’s look at some values for v. If the body is standing still, v = 0 and if you plug v = 0 into the mass formula and do the math you will see that m = m0; m standing still is the rest mass exactly as we wanted (more on this below). Now let’s go to another extreme value, what happens when v = c? We plug that in and we get infinity for the mass. Normal particles can’t exceed c by pushing because no matter how hard and how long you push to make it go faster as you get closer and closer to c all you are doing is adding to its mass energy (inertia) and less and less to its speed. Between the extremes of v = 0 and v = c we can see the mass formula predicts a positive number for the mass. 
+Now let’s look at some values for v. If the body is standing still, v = 0 and if you plug v = 0 into the mass formula and do the math you will see that m = m<sup>0</sup>; m standing still is the rest mass exactly as we wanted (more on this below). Now let’s go to another extreme value, what happens when v = c? We plug that in and we get infinity for the mass. Normal particles can’t exceed c by pushing because no matter how hard and how long you push to make it go faster as you get closer and closer to c all you are doing is adding to its mass energy (inertia) and less and less to its speed. Between the extremes of v = 0 and v = c we can see the mass formula predicts a positive number for the mass. 
 
 You may wonder how light itself can travel at the speed, c? It can because for photons, light particles, 
 
-mphoton = 0, they are massless! 
+<span class="eq">m<sub>photon</sub> = 0, they are massless! </span>
 
 Suppose, however, that v is larger than c, say v = 2c. We find the mass is given by an imaginary number, a normal number multiplied by the square root of -1. Such postulated particles are called tachyons and nobody has ever seen one and if they did they would behave strangely since other physics tells us they are particles traveling backwards in time. And we know we can’t get a normal particle to tachyon speeds by accelerating it because it has to acquire infinite mass first so we can only say we don’t know anything that makes tachyons impossible but we can say that we can’t create one in the obvious manner by accelerating an ordinary particle. So they are not ruled out but since we don’t know how to make one and one has never been seen, they are not ruled in either.
 
 Now let’s have a look at what happens between v = 0 and v = c. What about v = 18.6 miles/sec (30 km/sec)?(That may seem like an odd example speed to choose but sometimes in this exposition we will make choices like that because it makes the arithmetic easier to follow later.)That’s a typical speed for objects in our solar system. A meteor or comet might hit the earth at that very high speed. The speed of light, c, is 186,000 mi/sec (300,000 km/sec) so you see why we choose 18.6 miles/sec, it’s one thousandth of c. Let’s plug v/c = 0.001 in the mass formula and we see that the mass, the inertia of the motion is 
 
-m = m0/(1-(0.001)2)1/2 ,
-m = m0/(1–0.000001)1/2 ,
-m = m0/(0.999999)1/2 ,
-m = m0/0.9999995 ,
-m = 1.0000005m0.  
+<span class="eq">m = m<sub>0</sub>/(1-(0.001)<sup>2</sup>)<sup>1/2</sup> ,</span>
+
+<span class="eq">m = m<sub>0</sub>/(1–0.000001)<sup>1/2</sup> ,</span>
+
+<span class="eq">m = m<sub>0</sub>/(0.999999)<sup>1/2</sup> ,</span>
+
+<span class="eq">m = m<sub>0</sub>/0.9999995 ,</span>
+
+<span class="eq">m = 1.0000005m<sub>0</sub>. </span> 
 
 The inertia is only increased by one half of a millionth even at a speed of 18.6 mi/sec ( 30 km/sec), hardly a large amount. It’s no wonder no one noticed in Newton’s time. 
 
 Calculation: Now let’s work backwards to find out how fast m0 must be going to double its inertia. We want 
 
-m = m0/(1- (v/c)2)1/2 = 2 m0. 
+<span class="eq">m = m<sub>0</sub>/(1- (v/c)<sup>2</sup>)<sup>1/2</sup> = 2m<sub>0</sub>.</span> 
 
-The two m0 factors cancel and we want to solve for v starting with 
+The two m<sub>0</sub> factors cancel and we want to solve for v starting with 
 
-1/(1 – (v/c)2)1/2 = 2. Let’s move things around a little to get 
-(1-(v/c)2)1/2 = ½. Let’s square both sides to get 
-1 – ( v/c )2 = ¼. Let’s rearrange to get 
-( v/c )2 = ¾. Now let’s take the square root of both sides to get 
-v/c = (3/4)1/2 ≈ .87 or 
-v ≈ 0.87c. End of calculation.
+<span class="eq">1/(1 – (v/c)<sup>2</sup>)<sup>1/2</sup> = 2. Let’s move things around a little to get</span>
+
+<span class="eq">(1-(v/c)<sup>2</sup>)<sup>1/2</sup> = ½. Let’s square both sides to get</span>
+
+<span class="eq">1 – ( v/c )<sup>2</sup> = ¼. Let’s rearrange to get</span>
+
+<span class="eq">( v/c )<sup>2</sup> = ¾. Now let’s take the square root of both sides to get</span>
+
+<span class="eq">v/c = (3/4)<sup>1/2</sup> ≈ .87 or</span>
+
+<span class="eq">v ≈ 0.87c. End of calculation.</span>
 
 
 Thus,v is about 87% of the speed of light or v is about 160,000 miles/sec when the inertial mass reaches double the rest mass. 
-So the inertia of an object only doubles by the time it reaches 87% of the speed of light. We can try a few more values for m, say m = 10m0 and will find for that amount of inertia, v is about 99.5 % of the speed of light. So the inertia really starts to pile up very close to the speed of light. And we saw from the famous Einstein formula for relativistic energy the energy goes up in proportion to the mass. From this we can work out that there is very little difference in velocity if we double the energy of an electron from 42 to 84 GeV. 
+So the inertia of an object only doubles by the time it reaches 87% of the speed of light. We can try a few more values for m, say m = 10m<sub>0</sub> and will find for that amount of inertia, v is about 99.5 % of the speed of light. So the inertia really starts to pile up very close to the speed of light. And we saw from the famous Einstein formula for relativistic energy the energy goes up in proportion to the mass. From this we can work out that there is very little difference in velocity if we double the energy of an electron from 42 to 84 GeV. 
 
 By comparison, if the Newtonian formula were correct any time you double the energy of motion of an object you have increased its speed from v to √2v or about a 40% increase for each doubling of the energy. Thus our normal sense that things really speed up as you push them harder is not true near the speed of light, instead they just get harder to push. It’s a little bit like eating. We eat for energy and up to a point a meal gives us some energy to move around. But if we eat a lot, our body just stores it as weight and a lot of weight makes it harder for us to move. 
 
-Thus our initial little electron bunch 12µm long with all the electrons at same energy now has particles with energy as high as 84 GeV, some at the original 42 GeV, and many that have lost energy to well below 42. But because they are already nearly the speed of light the speed difference between them is so small that the bunch stays pretty much the same size (more on this later). This is, of course, not at all how we think about objects that are accelerated. The Porsche leaves the Prius in the dust with its more powerful engine. This is a great example of how what we know under conditions that our body size and our senses are familiar with may not at all be normal at more extreme conditions of speed where relativity replaces Newtonian laws or small size where quantum mechanics replaces Newtonian laws. And most subatomic physics processes require the simultaneous use of both new theories, relativity and quantum mechanics, to correctly explain what happens. 
+Thus our initial little electron bunch 12µm long with all the electrons at same energy now has particles with energy as high as 84 GeV, some at the original 42 GeV, and many that have lost energy to well below 42 GeV. But because they are already nearly the speed of light the speed difference between them is so small that the bunch stays pretty much the same size (more on this later). This is, of course, not at all how we think about objects that are accelerated. The Porsche leaves the Prius in the dust with its more powerful engine. This is a great example of how what we know under conditions that our body size and our senses are familiar with may not at all be normal at more extreme conditions of speed where relativity replaces Newtonian laws or small size where quantum mechanics replaces Newtonian laws. And most subatomic physics processes require the simultaneous use of both new theories, relativity and quantum mechanics, to correctly explain what happens. 
 
-Where Newton approximates Einstein
+### Where Newton approximates Einstein
 
 We stated above that Newtonian theory is an approximation to relativity theory. But when we look at the two formulas for energy, 
 
 ENewton = 1/2 m0v2 and 
+
 EEinstein = m0c2/(1-(v/c)2)1/2. 
 
 It’s not at all obvious that the first is an approximation to the second. The way to make this more precise is that we want to see that the second one looks more and more like the first one when v/c gets smaller and smaller. We already noted that at v =0 EEinstein does not equal 0 but ENewton does equal 0. So what is that about? We can use a Taylor series expansion of EEinstein to explore this issue. 
