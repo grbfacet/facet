@@ -1,3 +1,8 @@
+---
+layout: default
+title: tutorial
+---
+
 
 
 Background physics tutorial for the energy doubling paper
