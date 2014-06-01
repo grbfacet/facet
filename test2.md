@@ -6,13 +6,14 @@ title: Test 2
 According to Einstein the energy of an object is 
 
 <span class="eq">E<sub>Einstein</sub> = mc<sup>2</sup></span>
-
 <span class="eq">γ = 1/(1-β<sup>2</sup>)<sup>1/2</sup></span>
 
 Where
 m = m0γ
+
 	m = m0γ and
 	γ = 1/(1-β2)1/2 and 
+	
 β = v/c. 
 
 Writing it all out without the gamma and beta
