@@ -121,24 +121,24 @@ Going up in multiples,
 
 <span class="eq">k for kilo indicates 10<sup>3</sup> = 1000 (thousand),</span> 
 
-M for mega indicates 10<sup>6</sup> = 1,000,000 (million), 
+<span class="eq">M for mega indicates 10<sup>6</sup> = 1,000,000 (million),</span> 
 
-G for giga indicates 10<sup>9</sup> = 1,000,000,000 (billion) and 
+<span class="eq">G for giga indicates 10<sup>9</sup> = 1,000,000,000 (billion) and</span> 
 
-T for tera indicates 10<sup>12</sup> = 1,000,000,000,000 (trillion). 
+<span class="eq">T for tera indicates 10<sup>12</sup> = 1,000,000,000,000 (trillion).</span> 
 
 Sometimes in particle physics literature a few decades ago B was also used for a billion. 
 The scale of energy reached by particles in current particle accelerators is in the 100 GeV to 10 TeV range.  We explain the eV energy unit below.
 
 There is a corresponding series of notations for fractions of a unit. 
 
-1 m = 1 meter. 
+<span class="eq">1 m = 1 meter.</span> 
 
-1 mm (one millimeter) = 10<sup>-3</sup> m = one thousandth of a meter. 
+<span class="eq">1 mm (one millimeter) = 10<sup>-3</sup> m = one thousandth of a meter.</span> 
 
-1 µm (one micrometer, where µ is the Greek letter mu) =10<sup>-6</sup> m = 1 millionth of a meter.
+<span class="eq">1 µm (one micrometer, where µ is the Greek letter mu) =10<sup>-6</sup> m = 1 millionth of a meter.</span>
 
-1 nm (one nanometer) = 10<sup>-9</sup> m = 1 billionth meter. 
+<span class="eq">1 nm (one nanometer) = 10<sup>-9</sup> m = 1 billionth meter.</span> 
 
 And further steps of one thousandth are pico (10<sup>-12</sup>) , femto (10<sup>-15</sup>) , atta (10<sup>-18</sup>).
 
