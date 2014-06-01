@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Markdown Reference
+title: Test formulas
 ---
 
 ## Heading 2
