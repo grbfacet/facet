@@ -3,7 +3,7 @@ layout: default
 title: Test formulas
 ---
 
-## Heading 2
+## Heading 
 
 ### Heading 3
 
@@ -59,9 +59,9 @@ E<sub>Newton</sub> = 1/2 m<sub>0</sub>v<sup>2</sup>
     </mfrac>
   </mrow>
   <!-- <annotation encoding="TeX">
-     x=\frac{-b\pm\sqrt{b^2-4ac}}{2}
+     x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
   </annotation>
   <annotation encoding="StarMath 5.0">
-     x={{-b plusminus sqrt {b^2 - 4 ac}} over {2 }} times {f(z)}
+     x={{-b plusminus sqrt {b^2 - 4 ac}} over {2 a}} times {f(z)}
   </annotation> -->
 </math>
