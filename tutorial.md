@@ -4,7 +4,7 @@ title: Background physics tutorial for the energy doubling paper
 ---
 
 
-#### Overview: 
+### Overview: 
 
 This is a review of some of the physics behind the research paper. You can read it in order as a tutorial. When you read the paper exposition there are links into the relevant sections in this tutorial. 
 
@@ -19,7 +19,7 @@ The term “classical” as in “classical physics” or “classical mechanics
 
 In western culture at large, “classical” as a historical term refers to the Greco-Roman era two millennia ago. In western culture at large the term “modern” has a multitude of historical period references. Perhaps a good example of the confusion possible about this adjective is when we consider that the modernist period in English literature ended sometime before World War II, followed by the post-modernist period which also has had its zenith and is essentially over today. In other uses in western culture, the term “modern” often refers generally to a time that began with the Renaissance, creating the three western periods classical, medieval and modern. In physics the term “modern” is also used in contradictory ways but one important usage is when it is said that modern physics began with Newton. 
 
-#### Aside: Calculus and modern physics
+### Aside: Calculus and modern physics
 
 Although we will not do any calculus in this physics tutorial it will be helpful to understand what calculus, invented by Newton, did for physics. Newton’s calculus is the mathematics of change and accumulation. Modern physics began with Newton’s invention of calculus. From, at least, the ancient Greeks, people had tried to understand change but until there was a mathematical tool available to describe change quantitatively, the study of change was essentially limited. 
 
@@ -66,13 +66,20 @@ It turns out that Earth’s gravity near the surface changes the speed of an obj
 
 Suppose we want to know how far the object falls in one or two or ten seconds? If it was falling at a steady speed we can easily do the math, but its speed is constantly changing, constantly increasing. How do we calculate the distance it falls? This is a question of accumulation, integral calculus: accumulation of distance over a period of time with a non-constant speed (steadily increasing in this case). We want to integrate, add together, the amount of distance traveled over the whole time. We could imagine approximating an answer by saying in the first second it averaged 5 m/s so it fell 5 meters. In the next second it fell at an average of 15 m/s so it fell 15 meters. Add that to the 5 for the first second and it has now fallen 20 meters. In the third second it averages 25 m/s so it falls another 25 meters for a total of 45 meters after three seconds. If we keep doing the math we get the sequence 
 
-1-5, 
-2-20, 
-3-45, 
-4-80, 
-5-125, 
-6-180, 
-7-245, 
+1-5,
+
+2-20,
+
+3-45,
+
+4-80,
+
+5-125,
+
+6-180,
+
+7-245,
+
 8-320,
 … 
 
@@ -83,6 +90,8 @@ Now if you’re Newton and if you are playing around with numbers like this you 
 
 We started with s, speed, 
 
+<span class="eq">s = gt and we “integrated” that formula over time.</span>
+
 s = gt and we “integrated” that formula over time. 
 
 If we were Newton, we might have wondered about integrating the new formula involving t2 over time and we would find we get the result 
@@ -91,20 +100,14 @@ If we were Newton, we might have wondered about integrating the new formula invo
 
 <span class="eq">1/4 x 1/3 x 1/2gt<sup>4</sup>.</span>
 
-1/3 x 1/2gt3 and if we integrated that we would get 
-1/4 x 1/3 x 1/2gt4. 
 
-We would have found that the integral of gtn over t is 
+We would have found that the integral of gt<sup>n</sup> over t is 
 
 <span class="eq">1/(n+1)gt<sup>n+1</sup>.</span>
-
-1/(n+1)gtn+1. 
 
 Differentiation is going the opposite direction. Just from a mathematical point of view, if you have a formula for the accumulation of distance and you want to know how fast you are accumulating you go the opposite way. If you accumulate kxn after x units of total accumulation then at that moment you are accumulating at the rate of 
 
 <span class="eq">nkx<sup>n-1</sup>.</span>
-
-nkxn-1. 
 
 Newton’s achievements in physics were staggering but without his achievement of the calculus none of what we know as physics today would have been possible because physics, the laws governing the material world, almost always involve relations between changing and accumulating variables. And that is calculus. It is interesting to note that Archimedes actually developed the beginnings of integral calculus. Two events buried Archimedes great discovery, his killing by a Roman soldier and the predominance that was given over time to Aristotle’s ideas. Aristotle had theories about everything but Archimedes only focused on basic inanimate natural phenomena and was seen as a narrow specialist and posterity mistakenly accepted Aristotle’s judgment over Archimedes. The reason for this was probably that Aristotle was a generalist and tried to come up with a consistent logical theory of everything. Today we tend the other way and compartmentalize knowledge. 
 
