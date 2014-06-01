@@ -222,49 +222,49 @@ The electrons are actually banging around at speeds vastly greater than their dr
 
 An electron with 42 GeV of energy actually has a very small amount of energy.
 
-42 GeV = 42x109 eV x 1.6 x10-19 J/eV = 67 x 10-10 J. 
+<span class="eq">42 GeV = 42x10<sup>9</sup> eV x 1.6 x10<sup>-19</sup> J/eV = 67 x 10<sup>-10</sup> J.</span> 
 
-But in the plasma acceleration experiment tiny bunches of 1.8 x 1010 electrons at a time are used, so one entire bunch would have 
+But in the plasma acceleration experiment tiny bunches of 1.8 x 10<sup>10</sup> electrons at a time are used, so one entire bunch would have 
 
-1.8 x 1010 electrons/bunch x 67 x 10-10 J/electron =  121 J of energy per bunch. 
+<span class="eq">1.8 x 10<sup>10</sup> electrons/bunch x 67 x 10<sup>-10</sup> J/electron =  121 J of energy per bunch.</span> 
 
 How much energy is that? Going back to 
 
-v = (2ENewton/ m0)1/2 ,
+<span class="eq">v = (2E<sub>Newton</sub>/ m<sub>0</sub>)<sup>1/2</sup> ,</span>
 
 let’s think of a baseball which weighs 5 oz. At 28 grams/oz, that’s 
 
-5 x 28 = 140 grams/baseball = 0.14 kg/baseball.
+<span class="eq">5 x 28 = 140 grams/baseball = 0.14 kg/baseball.</span>
 
 A baseball with 121 joules of energy will have a velocity of
 
-v = ( 2 x 121 J/0.14 kg )1/2 = ( 1729 m2/sec2)1/2 = 42 m/s. 
+<span class="eq">v = ( 2 x 121 J/0.14 kg )<sup>1/2</sup> = ( 1729 m<sup>2</sup>/sec<sup>2</sup>)<sup>1/2</sup> = 42 m/s.</span> 
 
 What is that in mph? 
 
-42 m/s x 3600 s/hr = 150 km/hr = 93 mph.
+<span class="eq">42 m/s x 3600 s/hr = 150 km/hr = 93 mph.</span>
 
 If you imagine being hit by a fastball thrown by a major league baseball pitcher that gives some sense of the punch packed by a 42 GeV bunch of electrons in our experiment. The SLAC Linac can produce 60 bunches per second so imagine being pelted by 60 pitchers simultaneously with each pitcher throwing a baseball at you every second. Ouch. 
 
-Relativity theory: 
+### Relativity theory: 
 
 (This discussion of relativity focuses only on the aspects that are essential to understand for the purposes of understanding accelerated high energy particle beams. We will not go into many famous aspects of relativity theory such as time dilation, length contraction, the twin paradox and others.) We begin with a mostly English exposition but we gradually add some math to get actual numbers to give a better feeling for the sizes of the effects involved. On a first reading you can skip over the calculations without a problem but if you desire to know how a physicist understands relativity come back to the calculations and not only step through them in your mind but reproduce them yourself on a piece of paper using a calculator to do some of the arithmetic. It may take a little time and sometimes require figuring out exactly how a calculation was done but that is when you will really get your ideas right. The education of a physicist through course work always involves an extensive amount of mathematical problem solving both in homework and tests, not to mention in the classroom lectures. 
 
 To get a feeling for the way relativity affects our measurement we explain how relativity applies and we will calculate some facts about 42 GeV electrons to try to give you a sense of how things work for sub-atomic sized particles moving at essentially the speed of light. 
 
-The Newtonian theory of the energy of motion: 
+##### The Newtonian theory of the energy of motion: 
 
 Before the discovery of the theory of relativity in 1905, the Newtonian theory was always used and it said the energy, E, of a body with mass, m0, moving with the speed v, was 
 
-ENewton = 1/2 m0v2, 
+<span class="eq">E<sub>Newton</sub> = 1/2 m<sub>0</sub>v<sup>2</sup>,</span> 
 
 This was believed to be accurate for all speeds. This demonstrates an important feature of physics. Theories supersede older theories not by discovering that they were wrong in all cases but rather by discovering that the older theory is actually an approximation to the newer theory where the newer theory covers a wider range of situations than was available for experimentation during the reign of the older theory. This general rule only applies for theories which make numerical predictions. There must be numbers involved to give meaning to the idea of an approximation. For example the theory that the earth was the center of the universe is not a numerical theory and it is not an approximation to our current view. The difference between, “the earth is the center of the universe” and “the universe has no center” are clearly not different by a mere approximation error.  
 
-Aside: Theories and measurement errors: 
+### Aside: Theories and measurement errors: 
 
 This brings up the crucial role of measurement error in experimental science. A quantitative theory is used to make a numerical prediction about what will happen in a particular situation. The prediction is normally a number that can be measured. Let’s say the theory predicts 2.7 inches and a series of measurements are made and the result is a series of numbers like 
 
-2.73, 2.65, 2.79, 2.69 … 
+<span class="eq">2.73, 2.65, 2.79, 2.69 … </span>
 
 The numbers are all close to the predicted 2.7 and they have an average near to 2.7. Now, we ask the big question. Did the experiment confirm or disprove the theory? 
 
@@ -278,7 +278,7 @@ We apply theories to specific situations when we make a measurement. Newton’s 
 
 A related consideration applies when two theories differ significantly only in more extreme conditions. Newtonian and relativity physics only show significant differences in their predictions when we are dealing with objects with speeds near the speed of light. Cars, planes, rockets, bullets, even meteors, planets and stars move at much less than a thousandth the speed of light and the relativistic effects for those are only noticeable with very precise measurements. 
 
-Aside on precision, accuracy, random errors and systematic errors
+##### Aside on precision, accuracy, random errors and systematic errors
 
 Although the development of plasma acceleration technology does not require careful attention to exacting measurement standards, it is helpful to understand the relevant concepts because quantitative numerical measurements are crucial to the progress of physics and are crucial to the progress of any study that involves numerical measurements. 
 
@@ -289,15 +289,15 @@ These considerations lead to the concept of errors of measurement. We generally 
 Suppose we have a different task, to cut many braces all the same length. We measure and mark and cut over and over. Then we lay all our braces side by side and discover they are not all exactly the same length. They vary “randomly” in length by small amounts due to the imprecision of our marking and sawing. In this case if we made very accurate measurements of each cut brace piece and plotted them in a histogram graph we would find they followed the famous Gaussian Bell curve where many are close in length to a central average but fewer and fewer have increasing errors “in the tails of the distribution”. There are other patterns of random distributions depending on the type of situation such as the Poisson which models things like number of calls per minute to some place like the IRS. The Poisson is skewed, steeper on the side close to zero frequency and with a long tail out beyond the point of maximum frequency. 
 
 
-E=mc2: Einstein’s formula for the energy of motion
+##### E=mc<sup>2</sup>: Einstein’s formula for the energy of motion
 
 What formula superseded 
 
-ENewton = ½ m0v2 ? 
+<span class="eq">E<sub>Newton</sub> = ½ m<sub>0</sub>v<sup>2</sup> ? </span>
 
 The famous 
 
-EEinstein = mc2. 
+<span class="eq">E<sub>Einstein</sub> = mc<sup>2</sup>.</span> 
 
 Let’s unwrap what these formulas are telling us. First we need to be clear what m, the mass, means in both formulas. In pre-relativistic, Newtonian ideas of mass, a body had a fixed amount of matter that was independent of its motion. In a way this is still true in relativity but in a way it is no longer true. We need to be more precise about what aspect of mass we are talking about. A lead ball might consist of a zillion atoms of lead and that would be true no matter how the ball is moving even according to Einstein. And each lead atom would consist of a certain number of electrons, protons and neutrons and those numbers would also be unchanged by motion, Einstein would also agree. 
 
@@ -305,32 +305,34 @@ Another aspect of mass however does change with motion according to Einstein. In
 
 Newton’s F = ma tells us if we keep pushing a body with a constant force it will accelerate at constant rate to any speed we shoot for, even beyond the speed of light. But that assumes that m, the inertia does not change with increasing speed. If we solve the Newtonian energy formula for v we get
 
- v = (2ENewton/m0)1/2.
+<span class="eq">v = (2E<sub>Newton</sub>/m<sub>0</sub>)<sup>1/2</sup>.</span>
 
 If this were true at any speed, that is, if m0 was a constant independent of speed, what speed would a 42 GeV electron have? We have put the subscript 0 on m to indicate it is an unchanging constant. 
 
 Calculation: Let’s calculate the speed of a 42 GeV electron just leaving the Linac accelerator and let’s do it “wrong”, let’s do it according to Newton’s formula. We need a couple numbers, the conversion between eV and joules, 
 
-1 eV = 1.6x10-19 J 
+<span class="eq">1 eV = 1.6x10<sup>-19</sup> J</span> 
 
 and the rest mass of an electron, 
 
-me = 9.1x10-31 kg. 
+<span class="eq">m<sub>e</sub> = 9.1x10<sup>-31</sup> kg.</span> 
 
 These numbers show the vast difference between the scale of ordinary human level phenomena and sub-atomic particles and it will just get stranger as we continue. Plugging in these two factors and doing some arithmetic we get
 
-	v = ( 2 x 42 GeV / 9.1 x 10-31 kg )1/2 ,
-v = ( 2 x 4.2x1010 eV x 1.6 x 10-19 J/eV / 9.1x10-31 kg )1/2,
-	v ≈ ( 1.5 x 1022 m/sec )1/2 ≈ 1.2 x 1011m/sec.
+<span class="eq">v = ( 2 x 42 GeV / 9.1 x 10<sup>-31</sup> kg )<sup>1/2</sup> ,</span>
+	
+<span class="eq">v = ( 2 x 4.2x10<sup>10</sup> eV x 1.6 x 10<sup>-19</sup> J/eV / 9.1x10<sup>-31</sup> kg )<sup>1/2</sup>,</span>
 
-Since the speed of light, c = 3x108 m/sec 
+<span class="eq">v ≈ ( 1.5 x 10<sup>22</sup> m<sup>2</sup>/sec<sup>2</sup> )<sup>1/2</sup> ≈ 1.2 x 10<sup>11</sup>m/sec.</span>
 
-	v ≈ 1.2 x 1011 / 3x108 = 400 times the speed of light.
-End calculation.
+
+Since the speed of light, c = 3x10<sup>8</sup> m/sec 
+
+<span class="eq">v ≈ 1.2 x 10<sup>11</sup> / 3x10<sup>8</sup> = 400 times the speed of light. End of calculation.</span>
 
 If Newton’s formula still was accurate at 42 GeV the electron coming out of the Linac would be going 400 times the speed of light! Since relativity tells us nothing can go faster than c we can see that the m term must be increasing a very great deal to thwart surpassing c. In fact, it will have to approach infinity as the speed approaches c, as we will see shortly.
 
-The relativistic inertial mass formula
+##### The relativistic inertial mass formula
 
 In relativity theory we denote the mass of an object at rest (not moving) as m0 and call it the object’s rest mass. We denote the mass of the object as it moves simply by m and relativity tells us m gets bigger as the speed of the body increases. The formula is 
 
