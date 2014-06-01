@@ -6,6 +6,7 @@ title: Test 2
 According to Einstein the energy of an object is 
 
 <span class="eq">E<sub>Einstein</sub> = mc<sup>2</sup></span>
+
 <span class="eq">γ = 1/(1-β<sup>2</sup>)<sup>1/2</sup></span>
 
 Where
