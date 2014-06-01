@@ -165,38 +165,40 @@ This seems counter-intuitive because when we lift something heavy and hold it mo
 
 
 
-The electron volt, eV, an atomic sized unit of energy:
+### The electron volt, eV, an atomic sized unit of energy:
 
 One eV is a unit of energy. One e is a unit of charge; it is the amount of charge of an electron, a proton and many other elementary particles. Electric charge comes in two kinds, positive and negative, and the charge of an electron is actually –e where e is a positive number. One V (volt) is a unit of electric potential, the capacity to create energy, i.e., to do work, with an electric force. A electric potential is closely related to a force in that a charged particle, like an electron, will be pushed to move when it experiences an electric potential, V. And one eV is the energy of motion acquired by one particle that has the amount of charge e that is accelerated through a one volt electrical potential. 
 
 An AA battery creates a 1.5 volt potential between it’s + and - ends. A single electron accelerated freely (“freely” is an important qualification explained later) would acquire an energy of motion of 1.5 eV. Energy of motion is called kinetic energy and is given in low velocity situations, far from the speed of light, by the Newtonian formula 
 
-ENewton = ½ m0v2, 
+<span class="eq">ENewton = ½ m<sub>0</sub>v<sup>2</sup>,</span> 
 
-which is an approximation to the very famous and correct relativistic formula EEinstein = mc2.
-ENewton is the Newtonian kinetic energy of motion, m0 is the particle’s mass and v is the particle’s velocity.
+which is an approximation to the very famous and correct relativistic formula E<sub>Einstein</sub> = mc<sup>2</sup>.
+E<sub>Newton</sub> is the Newtonian kinetic energy of motion, m<sub>0</sub> is the particle’s mass and v is the particle’s velocity.
 
 Let’s compute how fast a freely accelerated 1.5 eV electron would move. To do this we will need a conversion factor between the atomic level unit of energy, the eV, and the macroscopic level of energy, the Joule: 
 
-1 eV = 1.6 x 10-19 J (Joules) where the units of a Joule are kg-m2/sec2. 
+<span class="eq">1 eV = 1.6 x 10<sup>-19</sup> J (Joules) where the units of a Joule are kg-m<sup>2</sup>/sec<sup>2</sup>.</span> 
 
 The mass of the electron is 
 
-me = 9.1 x 10-31 kg. 
+<span class="eq">m<sub>e</sub> = 9.1 x 10<sup>-31</sup> kg.</span> 
 
 Calculation: Solving the Newtonian kinetic energy formula for velocity squared and taking the square root:
 
-v = (2E/m0)1/2.  
+<span class="eq">v = (2E/m<sub>0</sub>)<sup>1/2</sup>.</span>  
 
 Plug in the values for E and me of the 1.5 eV electron,
 
-v = ( 2 x 1.5 eV x 1.6 x 10-19 J/eV / 9.1 x 10-31 kg)1/2 ,
-v = ( 0.525 x 1012 J/kg )1/2,  
+<span class="eq">v = ( 2 x 1.5 eV x 1.6 x 10<sup>-19</sup> J/eV / 9.1 x 10<sup>-31</sup> kg)<sup>1/2</sup> ,</span>
 
-since 1 J = 1 kg-m2/sec2, J/kg = m2/sec2
+<span class="eq">v = ( 0.525 x 10<sup>12</sup> J/kg )<sup>1/2</sup>,</span>  
 
-v = ( 0.525 x 1012  m2/sec2)1/2,
-v = 0.72 x 106 m/sec = 720km/sec ≈ 450 miles/second. End calculation.
+since 1 J = 1 kg-m<sup>2</sup>/sec<sup>2</sup>, J/kg = m<sup>2</sup>/sec<sup>2</sup>
+
+<span class="eq">v = ( 0.525 x 10<sup>12</sup>  m<sup>2</sup>/sec<sup>2</sup>)<sup>1/2</sup>,</span>
+
+<span class="eq">v = 0.72 x 10<sup>6</sup> m/sec = 720km/sec ≈ 450 miles/second. End calculation.</span>
 
 An electron accelerated freely by a 1.5 volt AA battery would reach a speed of 450 miles per second which is about 4000 times the speed of a passenger jet plane.  But this is still only about one quarter of a percent of the speed of light so the use of the Newtonian approximation 
 
