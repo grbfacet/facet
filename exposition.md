@@ -121,7 +121,8 @@ With a very dense bunch of very high energy electrons passing through the Lithiu
 
 Now take another look at the paper and read through it from beginning to end, rate yourself 0-10 and see how far you have come since your first look at the paper. Have you confirmed our contention yet that research is understandable? 
 
-### Some Details on the Figures. (skip this section on first reading)  
+### Some Details on the Figures. (skip this section on first reading)
+
 
 ##### The energy measurement: 
 
