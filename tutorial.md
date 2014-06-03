@@ -290,7 +290,7 @@ Precision and accuracy have different meanings. The _accuracy_ of a measurement 
 
 These considerations lead to the concept of errors of measurement. We generally distinguish two kinds of errors called systematic and random. A _systematic error_ is one that recurs in every measurement and is the same amount. In our board sawing example, if we had measured all the gaps first and then sawed all the braces before trying to put any of them in place we would have made the same systematic error every time when we measured each gap from left edge to left edge. Every gap would have had the same extra length in it, namely, the thickness of one vertical board, nominally 2 inches for a standard 2x4 board. 
 
-Suppose we have a different task, to cut many braces all the same length. We measure and mark and cut over and over. Then we lay all our braces side by side and discover they are not all exactly the same length. They vary “_randomly_” in length by varying small amounts due to the imprecision of our marking and sawing. In this case if we made very accurate measurements of each cut brace piece and plotted them in a histogram graph we would find they followed the famous Gaussian Bell curve where many are close in length to a central average but fewer and fewer have increasing _random_ errors “in the tails of the distribution”. There are other patterns of random distributions depending on the type of situation such as the Poisson, which models things like number of calls per minute to some place like the IRS. The Poisson is skewed, steeper on the side close to zero frequency and with a long tail out beyond the point of maximum frequency. 
+Suppose we have a different task, to cut many braces all the same length. We measure and mark and cut over and over. Then we lay all our braces side by side and discover they are not all exactly the same length. They vary “_randomly_” in length by varying small amounts due to the imprecision of our marking and sawing. In this case if we made very accurate measurements of each cut brace piece and plotted them in a histogram graph we would find they followed the famous Gaussian Bell curve where many are close in length to a central average but fewer and fewer have increasing _random_ errors “in the tails of the distribution”. There are other patterns of random distributions depending on the type of situation such as the Poisson, which models things like number of calls per minute to some place, like the U.S. IRS, that gets lots of phone calls every day. The Poisson is skewed, steeper on the side close to zero frequency and with a long tail out beyond the point of maximum frequency. 
 
 
 ##### E=mc<sup>2</sup>: Einstein’s formula for the energy of motion
@@ -338,7 +338,7 @@ If Newton’s formula still was accurate at 42 GeV the electron coming out of th
 
 ##### The relativistic inertial mass formula
 
-In relativity theory we denote the mass of an object at rest (not moving) as m0 and call it the object’s rest mass. We denote the mass of the object as it moves simply by m and relativity tells us m gets bigger as the speed of the body increases. The formula is 
+In relativity theory we denote the mass of an object at rest (not moving) as m<sub>0</sub> and call it the object’s rest mass. We denote the mass of the object as it moves simply by m and relativity tells us m gets bigger as the speed of the body increases. The formula is 
 
 <span class="eq">m = m<sub>0</sub>/( 1 – (v/c)<sup>2</sup> )<sup>1/2</sup>,</span> 
 
@@ -346,7 +346,7 @@ where c is the speed of light, 300,000 km/sec (186,000 mi/sec).
 
 This is a complicated unintuitive looking formula but we can tease out a feeling for it by considering different cases. 
 
-First, it says the mass of a moving body depends on only two things: its rest mass, m<sub>0</sub>, and the ratio of its speed to the speed of light, v/c.  Further, no matter what situation we might be considering for the object, its rest mass, m<sub>0</sub>, and c will always be unchanged, those are what we call physical constants. All electrons have exactly the same rest mass no matter what their motion. In all situations, the speed of light is the same (this is the basis of relativity theory). Thus, what ultimatley determines the inertial mass of a moving object is simply its speed, v. 
+First, it says the mass of a moving body depends on only two things: its rest mass, m<sub>0</sub>, and the ratio of its speed to the speed of light, v/c.  Further, no matter what situation we might be considering for the object, its rest mass, m<sub>0</sub>, and c will always be unchanged, those are what we call physical constants. All electrons have exactly the same rest mass no matter what their motion. In all situations, the speed of light is the same (this is the basis of relativity theory). Thus, what ultimately determines the inertial mass of a moving object is simply its speed, v. 
 
 Now let’s look at some values for v. If the body is standing still, v = 0 and if you plug v = 0 into the mass formula and do the math you will see that m = m<sub>0</sub>; m standing still is the rest mass exactly as we wanted (more on this below). Now let’s go to another extreme value, what happens when v = c? We plug that in and we get infinity for the mass. Normal particles can’t exceed c by pushing because no matter how hard and how long you push to make it go faster as you get closer and closer to c all you are doing is adding to its mass energy (inertia) and less and less to its speed. Between the extremes of v = 0 and v = c we can see the mass formula predicts a positive number for the mass. 
 
@@ -358,11 +358,11 @@ Suppose, however, that v is larger than c, say v = 2c. We find the mass is given
 
 Now let’s have a look at what happens between v = 0 and v = c. What about v = 18.6 miles/sec (30 km/sec)?(That may seem like an odd example speed to choose, but sometimes in this exposition we will make choices like that because it makes the arithmetic easier to follow later.)That’s a typical speed for objects in our solar system. A meteor or comet might hit the earth at that very high speed. The speed of light, c, is 186,000 mi/sec (300,000 km/sec) so you see why we choose 18.6 miles/sec, it’s one thousandth of c. Let’s plug v/c = 0.001 in the mass formula and we see that the mass, the inertia of the motion is 
 
-<span class="eq">m = m<sub>0</sub>/(1-(0.001)<sup>2</sup>)<sup>1/2</sup> ,</span>
+<span class="eq">m = m<sub>0</sub>/( 1 - (0.001)<sup>2</sup> )<sup>1/2</sup> ,</span>
 
-<span class="eq">m = m<sub>0</sub>/(1–0.000001)<sup>1/2</sup> ,</span>
+<span class="eq">m = m<sub>0</sub>/( 1 – 0.000001 )<sup>1/2</sup> ,</span>
 
-<span class="eq">m = m<sub>0</sub>/(0.999999)<sup>1/2</sup> ,</span>
+<span class="eq">m = m<sub>0</sub>/0.999999<sup>1/2</sup> ,</span>
 
 <span class="eq">m = m<sub>0</sub>/0.9999995 ,</span>
 
