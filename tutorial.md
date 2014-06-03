@@ -480,9 +480,7 @@ and let’s expand γ(β) using Mr. Taylor’s expansion. If you know some calcu
 
 Now let’s plug in 
 
-<span class="eq">β = 0.01, i.e.,</span> 
-
-<span class="eq">v = 0.01c = 3000km/sec = 1860mi/sec.</span>
+<span class="eq">β = 0.01, i.e., v = 0.01c = 3000km/sec = 1860mi/sec.</span>
 
 <span class="eq">γ(0.01) = 1 + 0.5 x 0.0001. + 0.25 x 0.00000001 + …</span>
 
