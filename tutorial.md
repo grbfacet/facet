@@ -368,17 +368,17 @@ Now let’s have a look at what happens between v = 0 and v = c. What about v = 
 
 <span class="eq">m = 1.0000005m<sub>0</sub>. </span> 
 
-The inertia is only increased by one half of a millionth even at a speed of 18.6 mi/sec ( 30 km/sec), hardly a large amount. It’s no wonder no one noticed in Newton’s time. 
+The inertia is only increased by a factor of one half of a millionth even at a speed of 18.6 mi/sec ( 30 km/sec), hardly a large amount. It’s no wonder no one noticed in Newton’s time. 
 
 Calculation: Now let’s work backwards to find out how fast m<sub>0</sub> must be going to double its inertia. We want 
 
-<span class="eq">m = m<sub>0</sub>/(1- (v/c)<sup>2</sup>)<sup>1/2</sup> = 2m<sub>0</sub>.</span> 
+<span class="eq">m = m<sub>0</sub>/( 1- (v/c)<sup>2</sup> )<sup>1/2</sup> = 2m<sub>0</sub>.</span> 
 
 The two m<sub>0</sub> factors cancel and we want to solve for v starting with 
 
-<span class="eq">1/(1 – (v/c)<sup>2</sup>)<sup>1/2</sup> = 2. Let’s move things around a little to get</span>
+<span class="eq">1/( 1 – (v/c)<sup>2</sup> )<sup>1/2</sup> = 2. Let’s move things around a little to get</span>
 
-<span class="eq">(1-(v/c)<sup>2</sup>)<sup>1/2</sup> = ½. Let’s square both sides to get</span>
+<span class="eq">( 1 - (v/c)<sup>2</sup> )<sup>1/2</sup> = ½. Let’s square both sides to get</span>
 
 <span class="eq">1 – ( v/c )<sup>2</sup> = ¼. Let’s rearrange to get</span>
 
