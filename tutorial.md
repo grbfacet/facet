@@ -486,13 +486,13 @@ Now let’s plug in
 
 <span class="eq">γ(0.01) ≈ 1.0000500025. End of calculation.</span>
 
-This tells us that the first two terms (1 and 0.00005) dominate all the rest (actually, the first term dominates the second but we include the second term for a reason soon to be seen.) To good approximation for v a small fraction of c, we get
+This tells us that the first two terms, 1 and 0.00005, dominate all the rest (actually, the first term dominates the second but we include the second term for a reason to be seen shortly.) To good approximation for v a small fraction of c, we get
 
 <span class="eq">γ(β) ≈ 1 + 1/2β<sup>2</sup>.</span>
 
-Let’s put this back in EEinstein:
+Let’s put this back in E<sub>Einstein</sub>:
 
-<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>γ(β) ≈ m<sub>0</sub>c<sup>2</sup> (1 + 1/2β<sup>2</sup> ) =  m<sub>0</sub>c<sup>2</sup> + 1/2 m<sub>0</sub>v<sup>2</sup>.</span>
+<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>γ(β) ≈ m<sub>0</sub>c<sup>2</sup> ( 1 + 1/2β<sup>2</sup> ) =  m<sub>0</sub>c<sup>2</sup> + 1/2 m<sub>0</sub>v<sup>2</sup>.</span>
 
 We can rewrite that as
 
