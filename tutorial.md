@@ -224,6 +224,8 @@ There is something we should clarify here. When you put an AA battery in, say, a
 
 When the electrons hit atoms in the wire they cause the atoms to move slightly, that is they transfer some of their energy of motion to the wire’s atoms. The warmth of an object is actually the amount of random atomic motion, and this is why wires heat up when we run a current through them. With an old fashioned incandescent wire light bulb the wire gets so hot it begins to radiate energy in the visible light range of the spectrum. 
 
+##### The beam bunch energy
+
 An electron with 42 GeV of energy actually has a very small amount of energy.
 
 <span class="eq">42 GeV = 42x10<sup>9</sup> eV x 1.6 x10<sup>-19</sup> J/eV = 67 x 10<sup>-10</sup> J.</span> 
