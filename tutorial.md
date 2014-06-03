@@ -425,7 +425,7 @@ The nice thing for us about Mr. Taylor’s series can be seen if you consider a 
 
 <span class="eq">… .
 
-And this means as you go further out in the sum of the Taylor series those terms are getting smaller fast whenever the f<sup>(n)</sup>(0) terms stay relatively small because the f<sup>(n)</sup>(0) terms are multiplied by two rapidly shrinking numbers, the 1/n! factor and the x<sup>n</sup> factors. (note: n! = 1 x 2 x 3 x ... x n-1 x n. ) This in turn means that f(x) is given by good approximation by just the first few terms of the series when x is small. If we know the limits of our measurement precision we can actually specify where to meaningfully cut off the series sum. 
+And this means as you go further out in the sum of the Taylor series those terms are getting smaller fast whenever the f<sup>(n)</sup>(0) terms stay relatively small because the f<sup>(n)</sup>(0) terms are multiplied by two rapidly shrinking numbers, the 1/n! factor and the x<sup>n</sup> factors. (note: n! = 1 x 2 x 3 x ... x n-1 x n. ) This in turn means that f(x) is given to a good approximation by just the first few terms of the series when x is small. If we know the limits of our measurement precision we can actually specify where to meaningfully cut off the series sum. 
 
 Calculation: Let’s apply the series to something fairly simple to see how it works. Consider a formula like 
 
@@ -455,7 +455,7 @@ For x = 0.1 according to Mr. Taylor,
 
 <span class="eq">f(0.1) ≈  1 + ½ x 0.1 – ¼ x (0.1)<sup>2</sup> = 1 + 0.05 - 0.0025 = 1.0475.</span>
 
-Plugging in the original formula, f(x) = (1 + x)<sup>1/2</sup>and using a calculator good to several decimal places
+Plugging x = 0.1 in the original formula, f(x) = (1 + x)<sup>1/2</sup> and using a calculator good to several decimal places
 
 <span class="eq">f(0.1) =  (1 + 0.1)<sup>1/2</sup> = √(1.1) = 1.0488.</span>
 
@@ -468,15 +468,15 @@ or about one part in a thousand and we only took the first three terms of the Ta
 
 What happens when we apply the Taylor expansion to 
 
-<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>/(1-(v/c)<sup>2</sup>)<sup>1/2</sup> ?</span> 
+<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>/( 1 - (v/c)<sup>2</sup> )<sup>1/2</sup> ?</span> 
 
 Calculation: Let’s rewrite this as
 
-<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>γ(β) where γ(β) = 1/(1 – β<sup>2</sup>)<sup>1/2</sup> and β= v/c</span> 
+<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>γ(β) where γ(β) = 1/( 1 – β<sup>2</sup> )<sup>1/2</sup> and β= v/c</span> 
 
 and let’s expand γ(β) using Mr. Taylor’s expansion. If you know some calculus check the math, we will just give the result
 
-<span class="eq">γ(β) = (1 – β<sup>2</sup>)<sup>-1/2</sup> = 1 + 1/2β<sup>2</sup> + 1/4β<sup>4</sup> + …</span>
+<span class="eq">γ(β) = ( 1 – β<sup>2</sup> )<sup>-1/2</sup> = 1 + 1/2β<sup>2</sup> + 1/4β<sup>4</sup> + …</span>
 
 Now let’s plug in 
 
