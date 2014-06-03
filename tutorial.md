@@ -498,15 +498,15 @@ We can rewrite that as
 
 <span class="eq">E<sub>Einstein</sub> ≈ m<sub>0</sub>c<sup>2</sup> + E<sub>Newton</sub> ! </span>
 
-This tells us that when a body is standing still, i.e. when v = 0, i.e. when E<sub>Newton</sub> = 0 that E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>. This is the best way to understand the idea that mass and energy are inter-convertible. Given that c<sup>2</sup> is a very big number it tells us that a small amount of mass might be convertible into a large amount of energy and that is the basis of the nuclear reactions of fission (atomic bomb, nuclear reactors) and fusion (hydrogen bomb and the energy released by a star’s “burning” of hydrogen and other elements). When a uranium atom fissions into parts, the sum of the weights of the parts is less than the weight of the original atom and that tiny missing weight is converted to very rapid motion of the results of the break up (fission) of the uranium atom. 
+This tells us that when a body is standing still, i.e. when v = 0, i.e. when E<sub>Newton</sub> = 0 that E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>. This is the best way to understand the idea that mass and energy are inter-convertible. Given that c<sup>2</sup> is a very big number it tells us that a small amount of mass might be convertible into a large amount of energy and that is the basis of the nuclear reactions of fission (atomic bomb, nuclear reactors) and fusion (hydrogen bomb and the energy released by a star’s “burning” of hydrogen and other elements). When a uranium atom fissions into parts, the sum of the weights of the parts is less than the weight of the original atom and that tiny missing weight is converted to very rapid motion, kinetic energy of motion, of the results of the break up (fission) of the uranium atom. 
 
-For most processes we study, rocket ships, accelerated electrons, etc. the first term, the rest energy, is unchanged in the process as we are not changing the particle composition of, say the electron, we are only accelerating it so that term is the same before and after acceleration and we are left with the difference is only in the terms that involve a power of the velocity so we can rewrite 
+For most processes we study, rocket ships, accelerated electrons, etc. the first term, the rest energy, is unchanged in the process as we are not changing the particle composition of, say the electron, we are only accelerating it so that term is the same before and after acceleration and the difference is only in the terms that involve a power of the velocity so we can rewrite 
 
 <span class="eq">E<sub>Einstein</sub> of motion = E<sub>Newton</sub> + 1/4 m<sub>0</sub>c<sup>2</sup>β<sup>4</sup></span>
 
 <span class="eq">= 1/2 m<sub>0</sub>v<sup>2</sup> + 1/4 m<sub>0</sub>v<sup>4</sup>/c<sup>2</sup> + even smaller terms when v/c is small.</span>
 
-Since the second term (the v<sup>4</sup>/c<sup>2</sup> term) is very small for ordinary velocities observable in, say, Newton’s time, all measurements would have agreed with Newton’s theory within the measurement precision of his time. Thus, his theory passed every test and was believed to be “true”. It was only with advances in technology in the 19th century that measurements begin to indicate something was not right but it took about half a century for Einstein to figure out what was wrong and come up with his theory of relativity which agreed with Newton at low velocities but differed at high velocities and explained the anomalies that had been noticed. 
+Since the second term (the v<sup>4</sup>/c<sup>2</sup> term) is very small for ordinary velocities observable in Newton’s time, all measurements would have agreed with Newton’s theory within the measurement precision of his time. Thus, his theory passed every test and was believed to be “true”. It was only with advances in technology in the 19th century that measurements begin to indicate something was not right but it took about half a century for Einstein to figure out what was wrong and come up with his theory of relativity which agreed with Newton at low velocities but differed at high velocities and explained the anomalies that had been noticed. 
 
 Actually, Einstein’s theory was there for anyone to see as far back as the 1860s, hidden in the new Maxwell’s unified theory of Electricity and Magnetism but to see it one had to throw off some very natural assumptions made by Newton and see the world in a way that disagreed with ordinary human experience. That was the genius of Einstein to make that leap. (Actually, at the time the anomaly was considered a flaw in Maxwell’s theory, not Newton’s. It was Einstein that turned the picture around and said Maxwell was right and Newton had it wrong.)
 
@@ -514,7 +514,9 @@ When some crazy people first claimed the earth actually rotated about its axis a
 
 We have developed some examples and described various ways of thinking about relativity in the context of accelerated electrons. Their behavior is very unintuitive for non-physicists. Through constant use, a physicist begins to feel they have an intuitive grasp of what’s going on. That comes with training and experience over years of practice often doing calculations just like the examples here. To learn more, there have been many good expositions of relativity theory for the lay person. Einstein himself wrote a lucid layman’s guide that is still in print after nearly a century. 
 
-Physicists commonly help their thinking by considering extreme cases. We did that when we looked at the mass formula for the extreme cases of v equal 0, c and 2c. George Gamow wrote a nice little book for lay people about a mythical Mr. Tompkins. Gamow’s approach was to wonder what ordinary daily experience would be like if the speed of light was slower, 10 miles per hour! Mr. Tompkins needs to go shopping and hops on his bike and starts to peddle. At first his speed picks up rapidly but as he gets to around 7 mph it begins to be a little harder to peddle faster. We noted at v = 0.87c the mass of an object doubles. If c is 10 mph then Mr. Tompkins is peddling a system (bike + himself) that weighs twice as much when he reaches 8.7 mph (87% of his c). And it quickly gets worse as he peddles harder and harder, barely increasing his speed with more and more effort but he continues to feel heavier and heavier.
+Physicists commonly help their thinking by considering extreme cases. We did that when we looked at the mass formula for the extreme cases of v equal 0, c and 2c. George Gamow wrote a nice little book for lay people about a mythical Mr. Tompkins. Gamow’s approach was to wonder what ordinary daily experience would be like if the speed of light was slower, 10 miles per hour! Mr. Tompkins needs to go shopping and hops on his bike and starts to peddle. At first his speed picks up rapidly but as he gets to around 7 mph it begins to be a little harder to peddle faster. We noted at v = 0.87c the mass of an object doubles. If c is 10 mph then Mr. Tompkins is peddling a system (bike + himself) that weighs twice as much when he reaches 8.7 mph (87% of his c). And it quickly gets worse as he peddles harder and harder, barely increasing his speed with more and more effort but he continues to seem heavier and heavier. 
+
+We said we wouldn't discuss relativity beyond simply applying the mass formula to electrons. But we need to alert you to avoid making some incorrect assumptions. You may get the impression that Mr. Tompkins himself is struggling to peddle but actually, he would not notice anything unusual. He would continue to peddle at the same rate _from his point of view on the bike_. From our point of view watching him go by he would seem to be peddling slower and slower because of increasing intertia. That is the famous time dilation effect, as we watch him his clocks seem to slow down and his steady peddling is just a kind of clock.
 
 ### Relativity and plasma acceleration of electron bunches
 
@@ -532,19 +534,19 @@ At ten times the velocity, the 100 GeV electrons would cover any given distance 
 
 Calculation: Let’s now look at the situation from Einstein’s point of view.
 
-<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>/(1 – β<sup>2</sup> )<sup>1/2</sup>, where β = v/c.</span>
+<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>/( 1 – β<sup>2</sup> )<sup>1/2</sup>, where β = v/c.</span>
 
 Let’s rewrite that as
 
-<span class="eq">E<sub>Einstein</sub>/m<sub>0</sub>c<sup>2</sup> = 1/(1 – β<sup>2</sup> )<sup>1/2</sup> .</span>
+<span class="eq">E<sub>Einstein</sub>/m<sub>0</sub>c<sup>2</sup> = 1/( 1 – β<sup>2</sup> )<sup>1/2</sup> .</span>
 
 If we plug in the mass of an electron and multiple it by c<sup>2</sup> and convert units we find 
 
 <span class="eq">m<sub>e</sub>c<sup>2</sup> ≈ 0.5 MeV, (where m<sub>e</sub> = m<sub>0 </sub>of the electron).</span>  
 
-This is a number every particle physicist knows better than they know their own birthdate. Let’s consider a 7 GeV electron just to make the math simple later
+This is a number every particle physicist knows better than they know their spouse's birthdate. Let’s consider a 7 GeV electron just to make the math simple later
 
-<span class="eq">E<sub>Einstein</sub>/m<sub>0</sub>c<sup>2</sup> = 7 x 10<sup>9</sup> eV/ 0.5 x 10<sup>6</sup> eV = 1.4 x10<sup>4</sup> = 1/(1 – β<sup>2</sup>)<sup>1/2</sup> .</span>
+<span class="eq">E<sub>Einstein</sub>/m<sub>0</sub>c<sup>2</sup> = 7 x 10<sup>9</sup> eV/ 0.5 x 10<sup>6</sup> eV = 1.4 x 10<sup>4</sup> = 1/( 1 – β<sup>2</sup> )<sup>1/2</sup> .</span>
 
 Square both sides and do a little arithmetic
 
@@ -552,7 +554,7 @@ Square both sides and do a little arithmetic
 	
 <span class="eq">β<sup>2</sup> = 1 - 2 x 10<sup>-8</sup>,</span>
 	
-<span class="eq">β = (1 – 2 x10<sup>-8</sup>)<sup>1/2</sup> = (1 - 0.00000002)<sup>1/2</sup> = (0.99999998)<sup>1/2</sup> = 0.99999999 = 1 – 10<sup>-8</sup>,</span>
+<span class="eq">β = ( 1 – 2 x10<sup>-8</sup> )<sup>1/2</sup> = ( 1 - 0.00000002 )<sup>1/2</sup> = 0.99999998<sup>1/2</sup> = 0.99999999 = 1 – 10<sup>-8</sup>,</span>
 	
 <span class="eq">β = v/c = 1 – 10<sup>-8</sup>,</span>
 
