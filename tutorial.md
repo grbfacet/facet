@@ -447,7 +447,7 @@ Going one more term
 
 <span class="eq">f’’(0) = (1/2)(-1/2)(1) = -1/4.</span>
 
-Then the first three terms of the Taylor series for (1 + x)<sup>1/2</sup> are
+Then the first three terms of the Taylor series for ( 1 + x )<sup>1/2</sup> are
 
 <span class="eq">f(x) ≈ 1 + ½x – ¼ x<sup>2</sup> .</span>
 
@@ -455,9 +455,9 @@ For x = 0.1 according to Mr. Taylor,
 
 <span class="eq">f(0.1) ≈  1 + ½ x 0.1 – ¼ x (0.1)<sup>2</sup> = 1 + 0.05 - 0.0025 = 1.0475.</span>
 
-Plugging x = 0.1 in the original formula, f(x) = (1 + x)<sup>1/2</sup> and using a calculator good to several decimal places
+Plugging x = 0.1 in the original formula, f(x) = ( 1 + x )<sup>1/2</sup> and using a calculator good to several decimal places
 
-<span class="eq">f(0.1) =  (1 + 0.1)<sup>1/2</sup> = √(1.1) = 1.0488.</span>
+<span class="eq">f(0.1) =  ( 1 + 0.1 )<sup>1/2</sup> = √(1.1) = 1.0488.</span>
 
 The error between the approximation by three terms of the Taylor series and the calculator (“true”) value is
 
