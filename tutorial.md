@@ -372,7 +372,7 @@ The inertia is only increased by a factor of one half of a millionth even at a s
 
 Calculation: Now let’s work backwards to find out how fast m<sub>0</sub> must be going to double its inertia. We want 
 
-<span class="eq">m = m<sub>0</sub>/( 1- (v/c)<sup>2</sup> )<sup>1/2</sup> = 2m<sub>0</sub>.</span> 
+<span class="eq">m = m<sub>0</sub>/( 1 - (v/c)<sup>2</sup> )<sup>1/2</sup> = 2m<sub>0</sub>.</span> 
 
 The two m<sub>0</sub> factors cancel and we want to solve for v starting with 
 
@@ -389,13 +389,13 @@ The two m<sub>0</sub> factors cancel and we want to solve for v starting with
 <span class="eq">v ≈ 0.87c. End of calculation.</span>
 
 
-Thus,v is about 87% of the speed of light which is about 160,000 miles/sec when the inertial mass reaches double the rest mass. 
+Thus, v is about 87% of the speed of light which is about 160,000 miles/sec when the inertial mass reaches double the rest mass. 
 
 The inertia of an object only doubles by the time it reaches 87% of the speed of light. We can try a few more values for m, say m = 10m<sub>0</sub> and will find for that amount of inertia, v is about 99.5% of the speed of light. The inertia really starts to pile up very close to the speed of light. We saw from the famous Einstein formula for relativistic energy that the energy goes up in proportion to the mass. From this we can work out that there is very little difference in velocity if we double the energy of an electron from 42 to 84 GeV. 
 
 By comparison, if the Newtonian formula were correct any time you double the energy of motion of an object you have increased its speed from v to √2v which is about a 40% increase for each doubling of the energy. Thus our normal sense that things really speed up as you push them harder is not true near the speed of light, instead they just get harder to push. It’s a little bit like eating. We eat for energy and up to a point a meal gives us some energy to move around. But if we eat a lot, our body just stores it as weight and a lot of weight makes it harder for us to move. 
 
-Thus, our initial little electron bunch 12µm long with all the electrons at same energy now has particles with energy as high as 84 GeV, some at the original 42 GeV, and many that have lost energy to well below 42 GeV. But because they are already nearly the speed of light, the speed difference between them is so small that the bunch stays pretty much the same size (more on this later). This is, of course, not at all how we think about objects that are accelerated. The Porsche leaves the Prius in the dust with its more powerful engine. This is a great example of how what we know under conditions that our body size and our senses are familiar with may not at all be normal at more extreme conditions of speed where relativity replaces Newtonian laws or small size where quantum mechanics replaces Newtonian laws. And most subatomic physics processes require the simultaneous use of both new theories, relativity and quantum mechanics, to correctly explain what happens. 
+Thus, our initial little electron bunch 12 µm long with all the electrons at same energy when it entered the plasma accelerator now has particles with energy as high as 84 GeV, some at the original 42 GeV, and many that have lost energy to well below 42 GeV, as it leaves the plasma accelerator. But because they are already nearly the speed of light, the speed difference between them is so small that the bunch stays pretty much the same size (more on this later). This is, of course, not at all how we think about objects that are accelerated. The Porsche leaves the Prius in the dust with its more powerful engine. This is a great example of how what we know under conditions that our body size and our senses are familiar with may not at all be normal at more extreme conditions of speed where relativity replaces Newtonian laws or small size where quantum mechanics replaces Newtonian laws. And most subatomic physics processes require the simultaneous use of both new theories, relativity and quantum mechanics, to correctly explain what happens. 
 
 ### Where Newton approximates Einstein
 
@@ -403,12 +403,11 @@ We stated above that Newtonian theory is an approximation to relativity theory. 
 
 <span class="eq">E<sub>Newton</sub> = 1/2 m<sub>0</sub>v<sup>2</sup> and</span> 
 
-<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>/(1-(v/c)<sup>2</sup>)<sup>1/2</sup>.</span> 
+<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>/( 1 - (v/c)<sup>2</sup> )<sup>1/2</sup>.</span> 
 
-It’s not at all obvious that the first is an approximation to the second. The way to make this more precise is that we want to see that the second one looks more and more like the first one when v/c gets smaller and smaller. We already noted that at v =0 E<sub>Einstein</sub> does not equal 0 but E<sub>Newton</sub> does equal 0. So what is that about? We can use a Taylor series expansion of E<sub>Einstein</sub> to explore this issue. 
+It’s not at all obvious that the first is an approximation to the second. The way to make this more precise is that we want to see that the second one looks more and more like the first one when v/c gets smaller and smaller. We already noted that at v = 0 E<sub>Einstein</sub> does not equal 0 but E<sub>Newton</sub> does equal 0. So what is that about? We can use a Taylor series expansion of E<sub>Einstein</sub> to explore this issue. 
 
-The Taylor series expansion of a function
-A function of a variable x can be expressed as an infinite sum of terms:
+The Taylor series expansion of a function of a variable x, f(x), can be expressed as an infinite sum of terms:
 
 <span class="eq">f(x) = f(0) + f’(0)x + (1/2)f’’(0)x<sup>2</sup> + (1/2x3)f<sup>(3)</sup>(0)x<sup>3</sup> + (1/2x3x4)f<sup>(4)</sup>(0)x<sup>4</sup> + …</span>
 
@@ -426,7 +425,7 @@ The nice thing for us about Mr. Taylor’s series can be seen if you consider a 
 
 <span class="eq">… .
 
-And this means as you go further out in the sum of the series those terms are getting smaller fast whenever the f<sup>(n)</sup>(0) terms stay relatively small because they are multiplied by two rapidly shrinking numbers, the 1/n! and the x<sup>n</sup> factors. This in turn means that f(x) is given by good approximation by just the first few terms of the series when x is small. If we know the limits of our measurement precision we can actually specify where to meaningfully cut off the series sum. 
+And this means as you go further out in the sum of the Taylor series those terms are getting smaller fast whenever the f<sup>(n)</sup>(0) terms stay relatively small because the f<sup>(n)</sup>(0) terms are multiplied by two rapidly shrinking numbers, the 1/n! factor and the x<sup>n</sup> factors. (note: n! = 1 x 2 x 3 x ... x n-1 x n. ) This in turn means that f(x) is given by good approximation by just the first few terms of the series when x is small. If we know the limits of our measurement precision we can actually specify where to meaningfully cut off the series sum. 
 
 Calculation: Let’s apply the series to something fairly simple to see how it works. Consider a formula like 
 
