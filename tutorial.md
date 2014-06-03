@@ -425,31 +425,31 @@ The nice thing for us about Mr. Taylor’s series can be seen if you consider a 
 
 <span class="eq">… .
 
-And this means as you go further out in the sum of the Taylor series those terms are getting smaller fast whenever the f<sup>(n)</sup>(0) terms stay relatively small because the f<sup>(n)</sup>(0) terms are multiplied by two rapidly shrinking numbers, the 1/n! factor and the x<sup>n</sup> factors. (note: n! = 1 x 2 x 3 x ... x n-1 x n. ) This in turn means that f(x) is given to a good approximation by just the first few terms of the series when x is small. If we know the limits of our measurement precision we can actually specify where to meaningfully cut off the series sum. 
+And this means as you go further out in the sum of the Taylor series those terms are getting smaller fast whenever the f<sup>(n)</sup>(0) terms stay relatively small because the f<sup>(n)</sup>(0) terms are multiplied by two rapidly shrinking numbers, the 1/n! factor and the x<sup>n</sup> factors. (note: n! = 1 x 2 x 3 x ... x (n-1) x n. ) This in turn means that f(x) is given to a good approximation by just the first few terms of the series when x is small. If we know the limits of our measurement precision we can actually specify where to meaningfully cut off the series sum. 
 
 Calculation: Let’s apply the series to something fairly simple to see how it works. Consider a formula like 
 
-<span class="eq">f(x) = (1 + x)<sup>1/2.</sup></span>
-
+<span class="eq">f(x) = ( 1 + x )<sup>1/2.</sup></span>
+ 
 The first term in the series, f(0) means to replace x with 0 in the formula giving
 
-<span class="eq">f(0) = (1 + 0)<sup>1/2</sup> = 1<sup>1/2</sup>  = 1.</span>
+<span class="eq">f(0) = ( 1 + 0 )<sup>1/2</sup> = 1<sup>1/2</sup>  = 1.</span>
 
 From calculus f’(x) the first derivative of f(x) is given by
 
-<span class="eq">f’(x) = d/dx(1 + x)<sup>1/2</sup> = ½(1 + x)<sup>-1/2</sup> and thus</span>
+<span class="eq">f’(x) = d/dx( 1 + x )<sup>1/2</sup> = ½(1 + x)<sup>-1/2</sup> and thus</span>
 	
-<span class="eq">f’(0) = ½(1 + 0)<sup>-1/2</sup> = ½(1)<sup>-1/2</sup> = ½.</span>
-
+<span class="eq">f’(0) = ½( 1 + 0 )<sup>-1/2</sup> = ½(1)<sup>-1/2</sup> = ½.</span>
+ 
 Going one more term
 
-<span class="eq">f’’(x) = d/dx(1/2(1+x)<sup>-1/2</sup>) = (1/2)(-1/2)(1+x)<sup>-3/2</sup> and thus</span>
+<span class="eq">f’’(x) = d/dx( 1/2( 1 + x )<sup>-1/2</sup>) = (1/2)(-1/2)( 1 + x )<sup>-3/2</sup> and thus</span>
 
 <span class="eq">f’’(0) = (1/2)(-1/2)(1) = -1/4.</span>
 
 Then the first three terms of the Taylor series for (1 + x)<sup>1/2</sup> are
 
-<span class="eq">f(x) ≈ 1 + ½ x – ¼ x<sup>2</sup> .</span>
+<span class="eq">f(x) ≈ 1 + ½x – ¼ x<sup>2</sup> .</span>
 
 For x = 0.1 according to Mr. Taylor,
 
