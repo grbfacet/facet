@@ -8,9 +8,9 @@ title: The Plain English exposition of the Beam Energy Doubling research paper
 Here is our suggestion for how to approach the energy doubling paper. It is based on the fact that the exposition, like the research paper, contains a lot of interconnected information and you will need to go over the information repeatedly to make those connections:
 
 1.	If you don’t like reading from a computer screen, there are three documents we recommend you print off before you begin so you can make notes and make it easier to switch back and forth between them
-  1.	This document – the plain English exposition of the beam energy doubling paper.
-  1.	The research paper.[link]
-  1.	The physics tutorial that goes along with this plain English exposition.[link]
+  a.	This document – the plain English exposition of the beam energy doubling paper.
+  b.	The research paper.[link]
+  c.	The physics tutorial that goes along with this plain English exposition.[link]
 2.	Read this plain English exposition and follow the suggestions that are made along the way to stop and look at the research paper and rate your level of understanding each time you look at the research paper. On this first reading skip over the sections that are indicated to be details. Also skip the hyperlinks to the relevant tutorial sections.
 3.	Then, read the physics tutorial but skip over the calculations.
 4.	If you followed steps 2 and 3, you have gone over all the plain English material once and have looked at the research paper a few times. In order to deepen your understanding you can repeat steps 2 and 3 but this time read through the details sections you skipped on the first reading of the exposition and read the calculations in the tutorial that you skipped over on the first reading of the tutorial. Continue to rate your understanding each time you look at the research paper.
