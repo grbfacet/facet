@@ -49,6 +49,20 @@ math {
 	font-size: 18px;
 }
 
+blockquote {
+	font-style: italic;
+	font-family: Georgia, Times, serif;
+	margin: 0 30px;
+}
+
+li ol {
+	margin-left: 20px;
+	list-style-type: lower-alpha;
+}
+li ul {
+	margin-left: 15px;
+}
+
 /*****************************************************************************/
 /*
 /* Home
