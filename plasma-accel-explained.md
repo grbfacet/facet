@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Plain English expositions of plasma acceleration research papers
