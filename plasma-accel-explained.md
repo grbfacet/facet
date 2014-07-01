@@ -29,3 +29,10 @@ Our presentation begins with an important paper on the doubling of the energy of
 
 After we have presented the material to help you understand the energy doubling paper you can go in one of two directions to learn more about plasma acceleration. One path loops back to the earlier plasma acceleration research at the FFTB and explains a series of papers that were written over the years describing research to learn how to master plasma acceleration that lead up to the beam energy doubling experiment. You will see a very typical history of the development of understanding of a phenomenon through scientific experimental research. The other path available to you is to jump to the present state of plasma acceleration research at FACET and understand the questions that are under active research now and get a glimpse of possible future developments.
 
+
+
+
+<p>Here is a link to<a href="/plain-english-papers.html">more about the history and philosophy of plain English expositions</a></p>
+
+<p>To get started on learning more about plasma acceleration go here<a href="/energy-doubling-exposition.html">Energy doubling research paper explained</a></p>
+
