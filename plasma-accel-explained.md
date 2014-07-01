@@ -32,7 +32,7 @@ After we have presented the material to help you understand the energy doubling 
 
 
 
-<p>Here is a link to<a href="/plain-english-papers.html">more about the history and philosophy of plain English expositions</a></p>
+<p>Here is a link to <a href="/plain-english-papers.html">more about the history and philosophy of plain English expositions</a></p>
 
-<p>To get started on learning more about plasma acceleration go here<a href="/energy-doubling-exposition.html">Energy doubling research paper explained</a></p>
+<p>To get started on learning more about plasma acceleration go here <a href="/energy-doubling-exposition.html">Energy doubling research paper explained</a></p>
 
