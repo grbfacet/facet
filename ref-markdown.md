@@ -25,6 +25,8 @@ Paragraph lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm
 
 **Bold**, _Italic_, [Link Text](/path/to/page.html), [Plain English Paper Example](/tutorial.html#aside-calculus-and-modern-physics)
 
+![A kitten](http://placekitten.com/300/300)
+
 E<sub>Newton</sub> = 1/2 m<sub>0</sub>v<sup>2</sup>
 
 γ ≈ √(1/(1-µ<sup>2</sup>))
