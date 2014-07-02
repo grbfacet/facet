@@ -29,7 +29,7 @@ Two images: the first with the optional descriptive text (for accessibility) and
 
 ![Optional descriptive text about the image](http://placekitten.com/300/300)
 
-![](http://placekitten.com/400/100)
+![](http://placekitten.com)
 
 E<sub>Newton</sub> = 1/2 m<sub>0</sub>v<sup>2</sup>
 
