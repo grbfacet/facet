@@ -16,7 +16,7 @@ The exact rule for magnetic force can be imagined as follows: make your right ha
 
 Now imagine this force turns the direction of the particle beam so rotate your hand (still making the L shape) around the arrow piercing your palm so the beam has a new direction. If the beam is still in the presence of the magnetic field it will continue to curve towards your thumb and that will require you rotate your fingers to keep pointing in the new direction of motion. 
 
-To summarize the two kinds of forces due to an electric field, E, and a magnetic field, B: 
+To summarize the two kinds of forces due to an electric field, **E**, and a magnetic field, **B**: 
 
 Bold face means the variable has both a magnitude and a direction (in math jargon, it is a vector quantity.)
 
