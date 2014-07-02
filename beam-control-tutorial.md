@@ -14,6 +14,8 @@ The exact rule for magnetic force can be imagined as follows: make your right ha
 
 Now imagine this force turns the direction of the particle beam so rotate your hand (still making the L shape) around the arrow piercing your palm so the beam has a new direction. If the beam is still in the presence of the magnetic field it will continue to curve towards your thumb and that will require you rotate your fingers to keep pointing in the new direction of motion. 
 
+![text](/beam-control-1.jpg)
+
 To summarize the two kinds of forces due to an electric field, **E**, and a magnetic field, **B**: 
 
 **Bold face** means the variable has both a magnitude and a direction (in math jargon, it is a vector quantity.)
@@ -41,4 +43,6 @@ It seemed like a good start on shepparding the flock. But what if after the beam
 Accelerator physics is the fascinating field of creating and control particle beams. We have barely scratched the surface of the subject here. Another interesting topic important to the plasma acceleration research is to ask if there is some way to address another cause of beam blowup, namely, when the electron bunch is created in the first place the electron have thermal motion like any gas. One might wonder if it is possible to “cool” the bunch before accelerating it so there is less tendency for blow up? Indeed, it can be done. A Nobel prize was won for the discovery of a way to cool the protons in a proton beam in the 1980s. The accelerator at SLAC added damping rings as part of the SLC project. We have mentioned elsewhere that the FFTB, where the initial plasma acceleration research was done, was built to learn how to create and control very small spot sized beams and part of accomplishing that goal was the development of the damping rings for the Linac.
 
 
-![text](/beam-control-1.jpg)
+![text](/beam-control-2.jpg)
+
+![text](/beam-control-3.jpg)
