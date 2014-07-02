@@ -2,7 +2,7 @@ name: Plasma acceleration in Plain English
 markdown: redcarpet
 pygments: false
 encoding: utf-8
-exclude: [Gemfile, Gemfile.lock, .gitignore, README.md]
+exclude: [Gemfile, Gemfile.lock, .gitignore, README.md, urls.txt]
 markdown: kramdown
 
 kramdown:
