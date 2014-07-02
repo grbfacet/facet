@@ -7,7 +7,7 @@ This is the home page for the plain english approach to detailed layman's explan
 
 To get started on learning more about the plain english exposition approach to explaining plasma acceleration go here [Plasma acceleration explained](/plasma-accel-explained.html).
 
-<li> </li>
+<li></li>
 ### Research Papers:
 
 [Energy doubling of 42 GeV electrons in a metre-scale plasman wakefield accelerator](/slac-pub-12363.pdf)
