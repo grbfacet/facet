@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tutorial: Controlling beam particle trajectories with magnets
+title: Tutorial Controlling beam particle trajectories with magnets
 ---
 
 
