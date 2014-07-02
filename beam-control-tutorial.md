@@ -41,4 +41,4 @@ Well, it seemed like a good start on shepparding the flock. But what if after th
 Accelerator physics is the fascinating field of creating and control particle beams. We have barely scratched the surface of the subject here. Another interesting topic important to the plasma acceleration research is to ask if there is some way to address another cause of beam blowup, namely, when the electron bunch is created in the first place the electron have thermal motion like any gas. One might wonder if it is possible to “cool” the bunch before accelerating it so there is less tendency for blow up? Indeed, it can be done. A Nobel prize was won for the discovery of a way to cool the protons in a proton beam in the 1980s. The accelerator at SLAC added damping rings as part of the SLC project. We have mentioned elsewhere that the FFTB, where the initial plasma acceleration research was done, was built to learn how to create and control very small spot sized beams and part of accomplishing that goal was the development of the damping rings for the Linac.
 
 
-![text](/beam-control-1.jpg/100/100)
+![text](/beam-control-1.jpg)
