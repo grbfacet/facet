@@ -3,7 +3,7 @@ layout: default
 title: Tutorial - Relativity theory
 ---
 
-### Aside: Units of measure prefixes indicate powers of ten:
+### Units of measure prefixes indicate powers of ten:
 
 The reader is probably familiar with the use of prefixes on units of measure in the metric system to indicate multiples or fractions of the unit of measure in powers of ten. The meter, a unit of length (about 3 ft), is abbreviated with the letter “m”. Just like we say 7 ft, we also say 13.2 m. Unlike the English system of measure we indicate 1000 meters as 1 km (one kilometer) and we indicate 1/1000th of a meter as 1 mm (one millimeter).  
 
@@ -77,9 +77,9 @@ is OK as we will prove later.
 
 Relativity effects only begin to become important when particles reach, say 10 percent, at least, of the speed of light. As is explained elsewhere, the Newtonian formula, E<sub>Newton</sub> = ½ m<sub>0</sub>v<sup>2</sup>, begins to make a significant error only when we approach these “relativistic” speeds. 
 
-4000 times jet speed is pretty fast, a bullet or a baseball with that speed could do a lot of damage but they are very heavy compared to an electron, so how can we get a sense of the 42 GeV electron energy? Remember our 4000 times jet speed was an electron accelerated only by one 1.5 volt AA battery. To get to 42 GeV we need 
+4000 times jet speed is pretty fast, a bullet or a baseball with that speed could do a lot of damage but they are very heavy compared to an electron, so how can we get a sense of the 42 GeV electron energy in the energy doubling experiment? Remember our 4000 times jet speed was an electron accelerated only by one 1.5 volt AA battery. To get to 42 GeV we need 
 
-<span class="eq">42 x 10<sup>9</sup>/1.5 ≈ 3,000,000,000 AA batteries connected in series.</span> 
+<span class="eq">42 x 10<sup>9</sup>/1.5 ≈ 30,000,000,000 (thirty billion!) AA batteries connected in series.</span> 
 
 42 GeV takes our electron very close to the speed of light as we will show later. 
 
@@ -97,7 +97,7 @@ But in the plasma acceleration experiment tiny bunches of 1.8 x 10<sup>10</sup> 
 
 <span class="eq">1.8 x 10<sup>10</sup> electrons/bunch x 67 x 10<sup>-10</sup> J/electron =  121 J of energy per bunch.</span> 
 
-How much energy is that? Going back to 
+How much energy is 121 Joules? Going back to 
 
 <span class="eq">v = (2E<sub>Newton</sub>/ m<sub>0</sub>)<sup>1/2</sup> ,</span>
 
@@ -113,7 +113,7 @@ What is that in mph?
 
 <span class="eq">42 m/s x 3600 s/hr = 150 km/hr = 93 mph.</span>
 
-If you imagine being hit by a fastball thrown by a major league baseball pitcher that gives some sense of the punch packed by a 42 GeV bunch of electrons in our experiment. The SLAC Linac can produce 60 bunches per second so imagine being pelted by 60 pitchers simultaneously with each pitcher throwing a baseball at you every second. Ouch. 
+If you imagine being hit by a fastball thrown by a major league baseball pitcher that gives some sense of the punch packed by a 42 GeV bunch of electrons in our experiment. The SLAC Linac can produce 60 bunches per second so imagine being pelted by 60 pitchers simultaneously with each pitcher throwing a fastball at you every second. Ouch. 
 
 ### Relativity theory 
 
@@ -140,7 +140,7 @@ The famous
 
 <span class="eq">E<sub>Einstein</sub> = mc<sup>2</sup>.</span> 
 
-Let’s unwrap what these formulas are telling us. First we need to be clear what m, the mass, means in both formulas. In the pre-relativistic, Newtonian ideas of mass, a body had a fixed amount of matter that was independent of its motion. In a way this is still true in relativity but in another way it is no longer true. We need to be more precise about what aspect of mass we are talking about. A lead ball might consist of a certain exact number of atoms of lead and that number would be unchanged no matter how the ball is moving even according to Einstein. And each lead atom would consist of a certain number of electrons, protons and neutrons and those numbers would also be unchanged by motion, Einstein would also agree. 
+Let’s unwrap what these formulas are telling us. First we need to be clear what m, the mass, means in both formulas. In the pre-relativistic, Newtonian ideas of mass, a body had a fixed amount of matter that was independent of its motion. In a way this is still true in relativity but in another way it is no longer true. We need to be more specific about what aspect of mass we are talking about. A lead ball might consist of a certain exact number of atoms of lead and that number would be unchanged no matter how the ball is moving even according to Einstein. And each lead atom would consist of a certain number of electrons, protons and neutrons and those numbers would also be unchanged by motion, Einstein would also agree. 
 
 Another aspect of mass however does change with motion according to Einstein. In both Newtonian and Einsteinian theory of force and motion, mass is a measure of a body’s resistance to having its state of motion changed (i.e., accelerated) by a force. We also refer to this as the body’s inertia. We all know that you have to push a heavy body harder (with more force) than a lighter body to get equal motion. A normal adult can push a small auto and get it to roll. A dozen normal adults probably can’t budge a railway car on the tracks. That’s the amount of resistance to changing the motion of a body. We need to distinguish the amount of matter in a body which is unchanged by the state of motion and the inertia of a body which does change in relativity theory but does not change in Newtonian theory when a body moves faster. 
 
@@ -150,15 +150,15 @@ Newton’s F = ma tells us if we keep pushing a body with a constant force it wi
 
 If this were true at any speed, that is, if m0 was a constant independent of speed, what speed would a 42 GeV electron have? We have put the subscript 0 on m to indicate it is an unchanging constant. 
 
-Calculation: Let’s calculate the speed of a 42 GeV electron just leaving the Linac accelerator and let’s do it “wrong”, let’s do it according to Newton’s formula. We need a couple numbers, the conversion between eV and joules, 
+Calculation: Let’s calculate the speed of a 42 GeV electron just leaving the Linac accelerator and let’s do it “wrong”, let’s do it according to Newton’s formula. We need a couple numbers, the conversion of energy units between eV and Joules, 
 
 <span class="eq">1 eV = 1.6 x 10<sup>-19</sup> J</span> 
 
-and the rest mass of an electron, 
+and ew need the rest mass of an electron, 
 
 <span class="eq">m<sub>e</sub> = 9.1 x 10<sup>-31</sup> kg.</span> 
 
-These numbers show the vast difference between the scale of ordinary human level phenomena and sub-atomic particles and it will just get stranger as we continue. Plugging in these two factors and doing some arithmetic we get
+The powers of ten involved in these numbers show the vast difference between the scale of ordinary human level phenomena and sub-atomic particles and it will just get stranger as we continue. Plugging in these two factors and doing some arithmetic we get
 
 <span class="eq">v = ( 2 x 42 GeV / 9.1 x 10<sup>-31</sup> kg )<sup>1/2</sup> ,</span>
 	
@@ -169,7 +169,7 @@ These numbers show the vast difference between the scale of ordinary human level
 
 Since the speed of light, c = 3 x 10<sup>8</sup> m/sec 
 
-<span class="eq">v ≈ 1.2 x 10<sup>11</sup> / 3x10<sup>8</sup> = 400 times the speed of light. End of calculation.</span>
+<span class="eq">v ≈ 1.2 x 10<sup>11</sup> / 3x10<sup>8</sup> ≈ 400 times the speed of light. End of calculation.</span>
 
 If Newton’s formula still was accurate at 42 GeV the electron coming out of the Linac would be going 400 times the speed of light! Since relativity tells us nothing can be accelerated to surpass the speed of light,we can see that the m term must be increasing a very great deal to thwart surpassing c. In fact, it will have to approach infinity as the speed approaches c, as we will see shortly.
 
@@ -177,7 +177,7 @@ If Newton’s formula still was accurate at 42 GeV the electron coming out of th
 
 In relativity theory we denote the mass of an object at rest (not moving) as m<sub>0</sub> and call it the object’s rest mass. We denote the mass of the object as it moves simply by m and relativity tells us m gets bigger as the speed of the body increases. The formula is 
 
-<span class="eq">m = m<sub>0</sub>/( 1 – (v/c)<sup>2</sup> )<sup>1/2</sup>,</span> 
+<span class="eq">m = m<sub>0</sub>/( 1 – (v/c)<sup>2</sup> )<sup>1/2</sup>,</span>  [add plot]
 
 where c is the speed of light, 300,000 km/sec (186,000 mi/sec). 
 
@@ -232,9 +232,9 @@ The inertia of an object only doubles by the time it reaches 87% of the speed of
 
 By comparison, if the Newtonian formula were correct any time you double the energy of motion of an object you have increased its speed from v to √2v which is about a 40% increase for each doubling of the energy. Thus our normal sense that things really speed up as you push them harder is not true near the speed of light, instead they just get harder to push. It’s a little bit like eating. We eat for energy and up to a point a meal gives us some energy to move around. But if we eat a lot, our body just stores it as weight and a lot of weight makes it harder for us to move. 
 
-Thus, our initial little electron bunch 12 µm long with all the electrons at same energy when it entered the plasma accelerator now has particles with energy as high as 84 GeV, some at the original 42 GeV, and many that have lost energy to well below 42 GeV, as it leaves the plasma accelerator. But because they are already nearly the speed of light, the speed difference between them is so small that the bunch stays pretty much the same size (more on this later). This is, of course, not at all how we think about objects that are accelerated. The Porsche leaves the Prius in the dust with its more powerful engine. This is a great example of how what we know under conditions that our body size and our senses are familiar with may not at all be normal at more extreme conditions of speed where relativity replaces Newtonian laws or small size where quantum mechanics replaces Newtonian laws. And most subatomic physics processes require the simultaneous use of both new theories, relativity and quantum mechanics, to correctly explain what happens. 
+Thus, our initial little electron bunch 12 µm long with all the electrons at same energy, 42 GeV, when it entered the plasma accelerator left it with with electron energies as high as 84 GeV, some at the original 42 GeV, and many that have lost energy to well below 42 GeV, as it leaves the plasma accelerator. But because they are already nearly the speed of light, the speed difference between them is so small that the bunch stays pretty much the same size (more on this later). This is, of course, not at all how we think about objects that are accelerated. The Porsche leaves the Prius in the dust with its more powerful engine. This is a great example of how what we know under conditions that our body size and our senses are familiar with may not at all be normal at more extreme conditions of speed where relativity replaces Newtonian laws or small size where quantum mechanics replaces Newtonian laws. And most subatomic physics processes require the simultaneous use of both new theories, relativity and quantum mechanics, to correctly explain what happens. 
 
-### Where Newton approximates Einstein
+### Where Newton approximates Einstein:
 
 We stated above that Newtonian theory is an approximation to relativity theory. But when we look at the two formulas for energy, 
 
@@ -329,7 +329,7 @@ This tells us that the first two terms, 1 and 0.00005, dominate all the rest (ac
 
 Let’s put this back in E<sub>Einstein</sub>:
 
-<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>γ(β) ≈ m<sub>0</sub>c<sup>2</sup> ( 1 + 1/2β<sup>2</sup> ) =  m<sub>0</sub>c<sup>2</sup> + 1/2 m<sub>0</sub>v<sup>2</sup>.</span>
+<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>γ(β) ≈ m<sub>0</sub>c<sup>2</sup> ( 1 + 1/2β<sup>2</sup> ) ≈  m<sub>0</sub>c<sup>2</sup> + 1/2 m<sub>0</sub>v<sup>2</sup>.</span>
 
 We can rewrite that as
 
