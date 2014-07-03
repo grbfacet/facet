@@ -10,7 +10,7 @@ To get started on learning more about the plain english exposition approach to e
 
 ### Research Papers:
 
-[Energy doubling of 42 GeV electrons in a metre-scale plasman wakefield accelerator](/slac-pub-12363.pdf)
+[Energy doubling of 42 GeV electrons in a metre-scale plasma wakefield accelerator](/slac-pub-12363.pdf)
 
 
 ### Plain English research paper expositions:
@@ -20,12 +20,16 @@ To get started on learning more about the plain english exposition approach to e
 
 ### Physics tutorials:
 
+[Some fundamentals of physics](/principles-of-physics.html)
+
 [Relativity and high energy particle beams](/relativity-tutorial.html)
 
-[Control of beam motion](/beam-control-tutorial.html)
+[Acceleration of particle beams](/beam-acceleration-tutorial.html)
+
+[Control of particle beam motion](/beam-control-tutorial.html)
 
 
-### Plain English Concept:
+### Plain English Concepts:
 
 [Plasma acceleration explained](/plasma-accel-explained.html)
 
