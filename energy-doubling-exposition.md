@@ -129,7 +129,7 @@ As noted in the research paper, two plasma accelerators were studied, one with a
 
 ### Where to next?
 
-There is more about this plasma acceleration energy doubling experiment to be explained but we will do that in our expositions of some of the earlier experiments that led up to this result. The same basic issues and technologies were involved in those earlier papers so by studying a few of the papers you should be able to get a pretty good grounding in the plasma research project at FACET. 
+There is more about this plasma acceleration energy doubling experiment to be explained but we will do that in our expositions of some of the earlier experiments that led up to this result. The same basic issues and technologies were involved in those earlier papers, so by studying a few of the papers you should be able to get a pretty good grounding in the plasma research project at FACET. 
 
 We have begun the story of plasma acceleration _en medias res_, in the middle, with the energy doubling experiment. It is natural to ask questions about how the research has reached this point. But we emphasize "in the middle" because the research is on going and it is natural to ask where the research is going. For example, it is typically very desirable to have an accelerated beam of particles all have the same energy for most applications and in this experiment we have seen that although enormous gains have been made in creating accelerating gradients the result is a wide spread of beam particle energies. 
 
