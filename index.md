@@ -20,7 +20,7 @@ To get started on learning more about the plain english exposition approach to e
 
 ### Physics tutorials:
 
-[Some fundamentals of physics](/principles-of-physics.html)
+[Some fundamentals of physics](/principles-of-physics-tutorial.html)
 
 [Relativity and high energy particle beams](/relativity-tutorial.html)
 
