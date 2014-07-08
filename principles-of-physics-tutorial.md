@@ -3,6 +3,10 @@ layout: default
 title: Tutorial - principles of physics
 ---
 
+### Overview
+
+In this tutorial we discuss the outlook and approach of modern physics, physics since roughly Newton. We look at methods and practices of physics as a science. Other tutorials delve into various specific physics subjects. 
+
 
 
 ### The terms “classical”, “quantum” and “modern” as used by physicists:
