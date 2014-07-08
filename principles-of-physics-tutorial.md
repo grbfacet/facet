@@ -117,7 +117,7 @@ It is interesting to note that Archimedes actually developed the beginnings of i
 
 ### Theories and measurement errors: 
 
-This brings up the crucial role of measurement error in experimental science. A quantitative theory is used to make a numerical prediction about what will happen in a particular situation. The prediction is normally a number that can be measured. Let’s say the theory predicts 2.7 inches and a series of measurements are made and the result is a series of numbers like 
+In the relativity tutorial we will discuss Einstein's Relativity Theory which improved Newton's theory of motion. When this transition from Newton to Einstein is normally described it is referred to as Einstein disproving Newton's theory. We take the view that Einstein improved Newton's theory in the sense that Newton's theory turned out to be only an approximation to a more inclusive theory. This brings up the crucial role of measurement error in experimental science. A quantitative theory is used to make a numerical prediction about what will happen in a particular situation. The prediction is normally a number that can be measured. Let’s say the theory predicts 2.7 inches and a series of measurements are made and the result is a series of numbers like 
 
 <span class="eq">2.73, 2.65, 2.79, 2.69 … </span>
 
