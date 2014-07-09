@@ -5,7 +5,7 @@ title: Tutorial - Relativity theory
 
 ### Overview: 
 
-This is a review of some of the physics behind the energy doubling research paper. You can read this in order as a tutorial. When you read the energy doubling plain English exposition of the research paper there are links from it into the relevant sections in this tutorial. 
+This is a review of some of the physics behind the energy doubling research paper. You can read this in the order it is presented as a tutorial. When you read the energy doubling plain English exposition of the research paper there are links from it into the relevant sections in this tutorial. 
 
 We will discuss several physics topics in this tutorial. The end goal is to explain how the electron particle bunch retains its compact form and why electrons of different energy do not change relative position as the rear part of the bunch is accelerated and the front part is decelerated. From our experience of human level phenomena, that makes no sense and an understanding of relativity theory is required and is provided here. 
 
@@ -18,7 +18,7 @@ We have indicated extended calculations by noting when a calculation begins and 
 
 One of the challenges of understanding physics is keeping in mind several interrelated concepts simultaneously. This problem is not restricted to physics. To understand such things as economic and biological systems the interplay of many concepts occurs. The ability to think in abstract ideas is widely believed to be a skill possessed only by humans. Perhaps other animals can form abstract ideas but what does seem to be unique to us is the ability to think not only about abstract ideas but to go a level further and think in terms of abstract relations between abstract ideas. For example, force, mass and acceleration are abstract ideas. Newton’s famous 2nd law, F = ma, is an abstract relation between three abstract concepts. To understand his law we first have to understand each of the three component ideas and then we have to understand the relationship the law expresses. And we will see that some of Einstein’s relativistic concepts and relations are even more complex. So we want to spend a little time emphasizing the differences and relationships between several basic concepts involved in describing objects in motion. 
 
-From the most general point of view, physics is often about how things change where motion is one of many kinds of change, change of position in space. And it is important to keep in mind that change always involves both a before and after state. These basic ideas about change are usually implicit in physics discussions, but lack of awareness of them can sometimes cause confusion. For example, that fact that a force exists does not mean it is doing work. To do work there must be a beginning and an end condition where something has been moved by the force. 
+From the most general point of view, physics is often about how things change where motion is one of many kinds of change, change of position in space. And it is important to keep in mind that change always involves both a before and after state. These basic ideas about change are usually implicit in physics discussions, but lack of awareness of them can sometimes cause confusion. For example, the fact that a force exists does not mean it is doing work. To do work there must be a beginning and an end condition where something has been moved by the force. 
 
 We will discuss a variety of related concepts from what is called "dynamics of motion" and we will discuss both Newtonian dynamics and the Einstein Relativistic dynamics. It is important to keep track of which specific dynamic concept is being referred to in a particular situation. You are probably familiar with the Newtonian theory of motion that a force causes a mass to accelerate. The same is true in relativistic theory but the details are different. In Newtonian theory, the object being accelerated has an unchanging inertial mass but in relativistic theory, the inertia of an object increases with its speed. The amount of material in the object is unchanged in the sense that it still contains the same number of atoms but the atoms each get “heavier” or more resistant to being accelerated the faster they move in the relativistic version. 
 
@@ -32,7 +32,7 @@ The force of gravity is something we experience as a force every time we pick so
 
 A clarification may be in order here about the concepts of force and work. Work is a transfer of energy of one form into another form and work occurs when a force acts over a distance, which is when it moves something. A stone pillar that holds a marble statue in the air motionless for centuries is not doing any work even though the force is always there balancing the ever present force of gravity pulling down on the statue. Gravity is not doing any work either because nothing is moving. 
 
-This seems counter-intuitive because when we lift something heavy and hold it motionless in the air we certainly feel like we are expending energy and doing work. And in fact we are doing work, but the work is not done on moving the object we are holding. The work is being done in our muscle tissues consisting of millions of tiny rubber bands that repeatedly tighten and relax. Each tiny rubber band contraction does indeed do work and we use up the energy stored chemically in ATP molecules, which is eventually converted to heat energy. A force only does work when it moves something.  
+This seems counter-intuitive because when we lift something heavy and hold it motionless in the air we certainly feel like we are expending energy and doing work. And in fact we are doing work while we hold it still in the air, but the work is not done on moving the object we are holding. The work is being done in our muscle tissues consisting of millions of tiny rubber bands that repeatedly tighten and relax. Each tiny rubber band contraction does indeed do work and we use up the energy stored chemically in ATP molecules, which is eventually converted to heat energy. A force only does work when it moves something.  
 
 
 ### Relativity theory 
@@ -68,13 +68,13 @@ Newton’s F = ma tells us if we keep pushing a body with a constant force it wi
 
 <span class="eq">v = (2E<sub>Newton</sub>/m<sub>0</sub>)<sup>1/2</sup>.</span>
 
-If this were true at any speed, that is, if m0 was a constant independent of speed, what speed would a 42 GeV electron have? We have put the subscript 0 on m to indicate it is an unchanging constant. 
+If this were true at any speed, that is, if m<sub>0</sub> was a constant independent of speed, what speed would a 42 GeV electron have? We have put the subscript 0 on m to indicate it is an unchanging constant. 
 
-Calculation: Let’s calculate the speed of a 42 GeV electron just leaving the Linac accelerator and let’s do it “wrong”, let’s do it according to Newton’s formula. We need a couple numbers, the conversion of energy units between eV and Joules, 
+Calculation: Let’s calculate the speed of a 42 GeV electron just leaving the Linac accelerator and let’s do it “wrong”, let’s do it according to Newton’s formula. We need a couple numbers: the conversion of energy units between eV and Joules, 
 
 <span class="eq">1 eV = 1.6 x 10<sup>-19</sup> J</span> 
 
-and ew need the rest mass of an electron, 
+and we need the rest mass of an electron, 
 
 <span class="eq">m<sub>e</sub> = 9.1 x 10<sup>-31</sup> kg.</span> 
 
@@ -89,7 +89,7 @@ The powers of ten involved in these numbers show the vast difference between the
 
 Since the speed of light, c = 3 x 10<sup>8</sup> m/sec 
 
-<span class="eq">v ≈ 1.2 x 10<sup>11</sup> / 3x10<sup>8</sup> ≈ 400 times the speed of light. End of calculation.</span>
+<span class="eq">v ≈ 1.2 x 10<sup>11</sup> / 3 x 10<sup>8</sup> ≈ 400 times the speed of light. End of calculation.</span>
 
 If Newton’s formula still was accurate at 42 GeV the electron coming out of the Linac would be going 400 times the speed of light! Since relativity tells us nothing can be accelerated to surpass the speed of light,we can see that the m term must be increasing a very great deal to thwart surpassing c. In fact, it will have to approach infinity as the speed approaches c, as we will see shortly.
 
@@ -113,7 +113,7 @@ You may wonder how light itself can travel at the speed of light? It can because
 
 Suppose, however, that v is larger than c, say v = 2c. We find the mass is given by an imaginary number, a normal number multiplied by the square root of -1. Such postulated particles are called tachyons and nobody has ever seen one and if they do exist tachyons will behave strangely since other physics tells us they are particles traveling backwards in time. And we know we can’t get a normal particle to tachyon speeds by accelerating it because it has to acquire infinite mass first so we can only say we don’t know anything that makes tachyons impossible but we can say that we can’t create one in the obvious manner by accelerating an ordinary particle. So tachyons are not ruled out but since we don’t know how to make one and one has never been seen, they are not ruled in either.
 
-Now let’s have a look at what happens between v = 0 and v = c. What about v = 18.6 miles/sec (30 km/sec)?(That may seem like an odd example speed to choose, but sometimes in this exposition we will make choices like that because it makes the arithmetic easier to follow later.)That’s a typical speed for objects in our solar system. A meteor or comet might hit the earth at that very high speed. The speed of light, c, is 186,000 mi/sec (300,000 km/sec) so you see why we choose 18.6 miles/sec, it’s one thousandth of c. Let’s plug v/c = 0.001 in the mass formula and we see that the mass, the inertia of the motion is 
+Now let’s have a look at what happens between v = 0 and v = c. What about v = 18.6 miles/sec (30 km/sec)? That may seem like an odd example speed to choose, but sometimes in this exposition we will make choices like that because it makes the arithmetic easier to follow later. That’s a typical speed for objects in our solar system. A meteor or comet might hit the earth at that very high speed. The speed of light, c, is 186,000 mi/sec (300,000 km/sec) so you see why we choose 18.6 miles/sec, it’s one thousandth of c. Let’s plug v/c = 0.001 in the mass formula and we see that the mass, the inertia of the motion is 
 
 <span class="eq">m = m<sub>0</sub>/( 1 - (0.001)<sup>2</sup> )<sup>1/2</sup> ,</span>
 
@@ -152,7 +152,7 @@ The inertia of an object only doubles by the time it reaches 87% of the speed of
 
 By comparison, if the Newtonian formula were correct any time you double the energy of motion of an object you have increased its speed from v to √2v which is about a 40% increase for each doubling of the energy. Thus our normal sense that things really speed up as you push them harder is not true near the speed of light, instead they just get harder to push. It’s a little bit like eating. We eat for energy and up to a point a meal gives us some energy to move around. But if we eat a lot, our body just stores it as weight and a lot of weight makes it harder for us to move. 
 
-Thus, our initial little electron bunch 12 µm long with all the electrons at same energy, 42 GeV, when it entered the plasma accelerator left it with with electron energies as high as 84 GeV, some at the original 42 GeV, and many that have lost energy to well below 42 GeV, as it leaves the plasma accelerator. But because they are already nearly the speed of light, the speed difference between them is so small that the bunch stays pretty much the same size (more on this later). This is, of course, not at all how we think about objects that are accelerated. The Porsche leaves the Prius in the dust with its more powerful engine. This is a great example of how what we know under conditions that our body size and our senses are familiar with may not at all be normal at more extreme conditions of speed where relativity replaces Newtonian laws or small size where quantum mechanics replaces Newtonian laws. And most subatomic physics processes require the simultaneous use of both new theories, relativity and quantum mechanics, to correctly explain what happens. 
+Thus, our initial little electron bunch 12 µm long with all the electrons at same energy, 42 GeV, when it entered the plasma accelerator left the plasma accelerator with with electron energies as high as 84 GeV, some at the original 42 GeV, and many that have lost energy to well below 42 GeV. But because they are already nearly the speed of light, the speed difference between them is so small that the bunch stays pretty much the same size (more on this later). This is, of course, not at all how we think about objects that are accelerated. The Porsche leaves the Prius in the dust with its more powerful engine. This is a great example of how what we know under conditions that our body size and our senses are familiar with may not at all be normal at more extreme conditions of speed where relativity replaces Newtonian laws or small size where quantum mechanics replaces Newtonian laws. And most subatomic physics processes require the simultaneous use of both new theories, relativity and quantum mechanics, to correctly explain what happens. 
 
 ### Where Newton approximates Einstein:
 
@@ -167,6 +167,8 @@ It’s not at all obvious that the first is an approximation to the second. The 
 The Taylor series expansion of a function of a variable x, f(x), can be expressed as an infinite sum of terms:
 
 <span class="eq">f(x) = f(0) + f’(0)x + (1/2)f’’(0)x<sup>2</sup> + (1/2x3)f<sup>(3)</sup>(0)x<sup>3</sup> + (1/2x3x4)f<sup>(4)</sup>(0)x<sup>4</sup> + …</span>
+
+Notice the formula is saying you can calculate the value of f for some value of x, not zero, by knowing the values of f and its derivatives at x = 0.
 
 The nice thing for us about Mr. Taylor’s series can be seen if you consider a case where x is much smaller than 1 and close to 0. When you take a number smaller than 1 and near zero and calculate it’s powers (multiples of itself), those powers rapidly get much smaller. If 
 
@@ -227,6 +229,8 @@ What happens when we apply the Taylor expansion to
 
 <span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>/( 1 - (v/c)<sup>2</sup> )<sup>1/2</sup> ?</span> 
 
+What plays the role of x here? We want to do a Taylor expansion of E(v/c), that is, v/c will be our x, except instead of "x" will will call it "β" because that is the standard name for v/c used by physicists when they are doing relativistic calculations. 
+
 Calculation: Let’s rewrite this as
 
 <span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>γ(β) where γ(β) = 1/( 1 – β<sup>2</sup> )<sup>1/2</sup> and β= v/c</span> 
@@ -255,7 +259,7 @@ We can rewrite that as
 
 <span class="eq">E<sub>Einstein</sub> ≈ m<sub>0</sub>c<sup>2</sup> + E<sub>Newton</sub> ! </span>
 
-This tells us that when a body is standing still, i.e. when v = 0, i.e. when E<sub>Newton</sub> = 0 that E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>. This is the best way to understand the idea that mass and energy are inter-convertible. Given that c<sup>2</sup> is a very big number it tells us that a small amount of mass might be convertible into a large amount of energy and that is the basis of the nuclear reactions of fission (atomic bomb, nuclear reactors) and fusion (hydrogen bomb and the energy released by a star’s “burning” of hydrogen and other elements). When a uranium atom fissions into parts, the sum of the weights of the parts is less than the weight of the original atom and that tiny missing weight is converted to very rapid motion, kinetic energy of motion, of the results of the break up (fission) of the uranium atom. 
+This tells us that when a body is standing still, i.e. when v = 0, i.e. when E<sub>Newton</sub> = 0 that E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>. This is the best way to understand the idea that mass and energy are inter-convertible. Given that c<sup>2</sup> is a very big number it tells us that a small amount of mass might be convertible into a large amount of energy and that is the basis of the nuclear reactions of fission (atomic bombs and nuclear reactors) and fusion (hydrogen bomb and the energy released by a star’s “burning” of hydrogen and other elements). When a uranium atom fissions into parts, the sum of the weights of the parts is less than the weight of the original atom and that tiny missing weight is converted to very rapid motion, kinetic energy of motion, of the results of the break up (fission) of the uranium atom. 
 
 For most processes we study, rocket ships, accelerated electrons, etc. the first term, the rest energy, is unchanged in the process as we are not changing the particle composition of, say the electron, we are only accelerating it so that term is the same before and after acceleration and the difference is only in the terms that involve a power of the velocity so we can rewrite 
 
@@ -267,17 +271,17 @@ Since the second term (the v<sup>4</sup>/c<sup>2</sup> term) is very small for o
 
 Actually, Einstein’s theory was there for anyone to see as far back as the 1860s, hidden in the new Maxwell’s unified theory of Electricity and Magnetism but to see it one had to throw off some very natural assumptions made by Newton and see the world in a way that disagreed with ordinary human experience. That was the genius of Einstein to make that leap. (Actually, at the time the anomaly was considered a flaw in Maxwell’s theory, not Newton’s. It was Einstein that turned the picture around and said Maxwell was right and Newton had it wrong.)
 
-When some crazy people first claimed the earth actually rotated about its axis and if you were on the equator you were actually moving at a speed of about 1000 miles/hour, this was obviously not true. We should be thrown violently around. They deduced the rotation of the earth from observing the motion of the sun and stars across the sky and said it was a lot simpler to conclude the earth rotated. But that didn’t agree with ordinary experience and to explain that discrepancy ultimately required Newton’s theories of motion and gravity. New and better theories often require rethinking ideas that seem unshakably true. 
+When some crazy people first claimed the earth actually rotated about its axis and if you were on the equator you were actually moving at a speed of about 1000 miles/hour, this was obviously not true. We should be thrown around violently. They deduced the rotation of the earth from observing the motion of the sun and stars across the sky and said it was a lot simpler to conclude the earth rotated. But that didn’t agree with ordinary experience and to explain that discrepancy ultimately required Newton’s theories of motion and gravity. New and better theories often require rethinking ideas that seem unshakably true. 
 
 We have developed some examples and described various ways of thinking about relativity in the context of accelerated electrons. Their behavior is very unintuitive for non-physicists. Through constant use, a physicist begins to feel they have an intuitive grasp of what’s going on. That comes with training and experience over years of practice often doing calculations just like the examples here. To learn more, there have been many good expositions of relativity theory for the lay person. Einstein himself wrote a lucid layman’s guide that is still in print after nearly a century. 
 
 Physicists commonly help their thinking by considering extreme cases. We did that when we looked at the mass formula for the extreme cases of v equal 0, c and 2c. George Gamow wrote a nice little book for lay people about a mythical Mr. Tompkins. Gamow’s approach was to wonder what ordinary daily experience would be like if the speed of light was slower, 10 miles per hour! Mr. Tompkins needs to go shopping and hops on his bike and starts to peddle. At first his speed picks up rapidly but as he gets to around 7 mph it begins to be a little harder to peddle faster. We noted at v = 0.87c the mass of an object doubles. If c is 10 mph then Mr. Tompkins is peddling a system (bike + himself) that weighs twice as much when he reaches 8.7 mph (87% of his c). And it quickly gets worse as he peddles harder and harder, barely increasing his speed with more and more effort but he continues to seem heavier and heavier. 
 
-We said we wouldn't discuss relativity beyond simply applying the mass formula to electrons. But we need to alert you to avoid making some incorrect assumptions. You may get the impression that Mr. Tompkins himself is struggling to peddle but actually, he would not notice anything unusual. He would continue to peddle at the same rate _from his point of view on the bike_. From our point of view watching him go by he would seem to be peddling slower and slower because of increasing intertia. That is the famous time dilation effect, as we watch him his clocks seem to slow down and his steady peddling is just a kind of clock.
+We said we wouldn't discuss relativity beyond simply applying the mass formula to electrons. But we need to alert you to avoid making some incorrect assumptions. You may get the impression that Mr. Tompkins himself is struggling to peddle but actually, he would not notice anything unusual. He would continue to peddle at the same rate _from his point of view on the bike_. From our point of view watching him go by he would seem to be peddling slower and slower because of increasing inertia. That is the famous time dilation effect, as we watch him his clocks seem to slow down and his steady peddling is just a kind of clock.
 
 ### Relativity and plasma acceleration of electron bunches
 
-Particle accelerators get particles moving very near the speed of light and behavior is very different there than at speeds we are used to in daily life. We showed above that even for speeds many miles per second the difference between the Newtonian and the relativistic behavior is almost indistinguishable. Now we want to have a look at near the speed of light where the particles in our accelerators operate. We have explained elsewhere that the plasma acceleration experiment involved 12 µm long bunches of electrons. The electrons at the front of the bunch gave up energy to create the ionized plasma and the plasma created the electric field which in turn accelerated electrons at the back of the bunch. 
+Particle accelerators get particles moving very near the speed of light and behavior is very different there than at speeds we are used to in daily life. We showed above that even for speeds of many miles per second the difference between the Newtonian and the relativistic behavior is almost indistinguishable. Now we want to have a look at near the speed of light where the particles in our accelerators operate. We have explained elsewhere that the plasma acceleration experiment involved 12 µm long bunches of electrons. The electrons at the front of the bunch gave up energy to create the ionized plasma and the plasma created the electric field which in turn accelerated electrons at the back of the bunch. 
 
 If Newtonian physics described these electrons we would have the lead electrons slowing down because they lost energy and the trailing electrons speeding up because they are accelerated and the net result would be for the electrons to switch places and the newly accelerated leading electrons would now lose energy to accelerate the electrons that previously were decelerated. Sometimes a team of runners or bicyclists train in a single file column. The lead person breaks the wind for the rest and thus, they are expending more energy than the rest. When they tire, they drop back to the tail end of the column and the next person in line breaks the wind. So why doesn’t this happen for the relativistic case as well since it involves lead electrons losing energy to accelerate trailing electrons in the 12 µm long bunch? 
 
@@ -287,7 +291,7 @@ To give an idea of the difference between ordinary and relativistic experience w
 
 <span class="eq">v<sub>100</sub> = 10v<sub>1</sub>.</span>
 
-At ten times the velocity, the 100 GeV electrons would cover any given distance 10 times as fast as the 1 GeV. So in the time it takes a 1 GeV electron to move the length of a bunch, the 100 GeV electron would have moved ten bunch lengths. Clearly, for a bunch to stay together as it traveled the one meter length of the plasma accelerator, they have to be pretty close in energy if Newton were correct. 
+At ten times the velocity, the 100 GeV electrons would cover any given distance 10 times as fast as the 1 GeV. So in the time it takes a 1 GeV electron to move the length of a 12 µm bunch, the 100 GeV electron would have moved ten bunch lengths. Clearly, for a bunch to stay together as it traveled the one meter length of the plasma accelerator, the electrons would all have to be pretty close in energy if Newton were correct. 
 
 Calculation: Let’s now look at the situation from Einstein’s point of view.
 
@@ -301,25 +305,25 @@ If we plug in the mass of an electron and multiple it by c<sup>2</sup> and conve
 
 <span class="eq">m<sub>e</sub>c<sup>2</sup> ≈ 0.5 MeV, (where m<sub>e</sub> = m<sub>0 </sub>of the electron).</span>  
 
-This is a number every particle physicist knows better than they know their spouse's birthdate. Let’s consider a 7 GeV electron just to make the math simple later
+This is a number every particle physicist knows better than they know their spouse's birthday. Let’s consider a 7 GeV electron just to make the math simple later
 
 <span class="eq">E<sub>Einstein</sub>/m<sub>0</sub>c<sup>2</sup> = 7 x 10<sup>9</sup> eV/ 0.5 x 10<sup>6</sup> eV = 1.4 x 10<sup>4</sup> = 1/( 1 – β<sup>2</sup> )<sup>1/2</sup> .</span>
 
 Square both sides and do a little arithmetic
 
-<span class="eq">1 – β<sup>2</sup> = 2 x 10<sup>-8</sup>,</span>
+<span class="eq">1 – β<sup>2</sup> = 0.5 x 10<sup>-8</sup>,</span>
 	
-<span class="eq">β<sup>2</sup> = 1 - 2 x 10<sup>-8</sup>,</span>
+<span class="eq">β<sup>2</sup> = 1 - 0.5 x 10<sup>-8</sup>,</span>
 	
-<span class="eq">β = ( 1 – 2 x10<sup>-8</sup> )<sup>1/2</sup> = ( 1 - 0.00000002 )<sup>1/2</sup> = 0.99999998<sup>1/2</sup> = 0.99999999 = 1 – 10<sup>-8</sup>,</span>
+<span class="eq">β = ( 1 – 0.5 x10<sup>-8</sup> )<sup>1/2</sup> = ( 1 - 0.000000005 )<sup>1/2</sup> = 0.999999995<sup>1/2</sup> = 0.999999998 = 1 – 10<sup>-9</sup>,</span>
 	
-<span class="eq">β = v/c = 1 – 10<sup>-8</sup>,</span>
+<span class="eq">β = v/c = 1 – 10<sup>-9</sup>,</span>
 
-<span class="eq">v = ( 1 – 10<sup>-8</sup> ) c,</span>
+<span class="eq">v = ( 1 – 10<sup>-9</sup> ) c,</span>
 
-<span class="eq">v = c – 10<sup>-8</sup>c = 300,000,000 m/sec – 3 m/sec. End of calculation</span>
+<span class="eq">v = c – 10<sup>-9</sup>c = 300,000,000 m/sec – 0.3 m/sec. End of calculation</span>
 
-The 7 GeV electron is only 3 m/sec slower than the speed of light! Even if the fastest electron were going at the speed of light (not possible), the “slow” 7 GeV electron would only be falling behind at the rate of 1 part in 10<sup>8</sup>. Over the one meter length of the plasma accelerator the 7 GeV electron would fall behind any faster electron by, at most, about 10<sup>-8</sup> meters ( 10<sup>-2</sup> µm)  which is about one thousandth of a bunch length ( 12 µm). Therefore, all the electrons stay pretty much in their same location in the bunch, those at the head stay at the head and continue to give up energy and those at the tail stay there and keep gaining energy. Thus, assuming the model of how plasma acceleration works is correct, this experiment demonstrates convincingly that Einstein’s improvement of Newton’s idea is correct. 
+The 7 GeV electron is only 0.3 m/sec slower than the speed of light! Even if the fastest electron were going at the speed of light (not possible), the “slow” 7 GeV electron would only be falling behind at the rate of 1 part in 10<sup>9</sup>. Over the one meter length of the plasma accelerator the 7 GeV electron would fall behind any faster electron by, at most, about 10<sup>-9</sup> meters ( 10<sup>-3</sup> µm)  which is about one ten thousandth of a bunch length ( 12 µm). Therefore, all the electrons stay pretty much in their same location in the bunch, those at the head stay at the head and continue to give up energy and those at the tail stay there and keep gaining energy. Thus, assuming the model of how plasma acceleration works is correct, this experiment demonstrates convincingly that Einstein’s improvement of Newton’s idea is correct. 
 
 
 ##### The electron bunch stays together in the plasma accelerator
