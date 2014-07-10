@@ -315,15 +315,37 @@ Square both sides and do a little arithmetic
 	
 <span class="eq">β<sup>2</sup> = 1 - 0.5 x 10<sup>-8</sup>,</span>
 	
-<span class="eq">β = ( 1 – 0.5 x10<sup>-8</sup> )<sup>1/2</sup> = ( 1 - 0.000000005 )<sup>1/2</sup> = 0.999999995<sup>1/2</sup> = 0.999999998 = 1 – 10<sup>-9</sup>,</span>
-	
-<span class="eq">β = v/c = 1 – 10<sup>-9</sup>,</span>
+<span class="eq">β = ( 1 – 0.5 x10<sup>-8</sup> )<sup>1/2</sup>.</span>
 
-<span class="eq">v = ( 1 – 10<sup>-9</sup> ) c,</span>
+We saw earlier using a Taylor expansion that 
 
-<span class="eq">v = c – 10<sup>-9</sup>c = 300,000,000 m/sec – 0.3 m/sec. End of calculation</span>
+<span class="eq">f(x) = ( 1 + x )<sup>1/2</sup> ≈ 1 + ½x – ¼ x<sup>2</sup>.</span>
 
-The 7 GeV electron is only 0.3 m/sec slower than the speed of light! Even if the fastest electron were going at the speed of light (not possible), the “slow” 7 GeV electron would only be falling behind at the rate of 1 part in 10<sup>9</sup>. Over the one meter length of the plasma accelerator the 7 GeV electron would fall behind any faster electron by, at most, about 10<sup>-9</sup> meters ( 10<sup>-3</sup> µm)  which is about one ten thousandth of a bunch length ( 12 µm). Therefore, all the electrons stay pretty much in their same location in the bunch, those at the head stay at the head and continue to give up energy and those at the tail stay there and keep gaining energy. Thus, assuming the model of how plasma acceleration works is correct, this experiment demonstrates convincingly that Einstein’s improvement of Newton’s idea is correct. 
+Now we will modify this slightly replacing x with –x:
+
+<span class="eq">f(-x) = ( 1 + (-x) )<sup>1/2</sup> ≈ 1 + ½(-x) – ¼(-x)<sup>2</sup>,</span>
+
+to get
+
+<span class="eq">( 1 - x )<sup>1/2</sup> ≈ 1 - ½x – ¼x<sup>2</sup>.</span>
+
+Let’s use this to evaluate 
+
+<span class="eq">β = ( 1 – 0.5 x 10<sup>-8</sup> )<sup>1/2</sup>.</span>
+
+The third term, the x<sup>2</sub> term will be 10<sup>-8</sup> smaller than the x term so we discard it,
+
+<span class="eq">β ≈ 1 – ½ x 0.5 x 10<sup>-8</sup>.</span>
+
+<span class="eq">β ≈ 1 – 0.25 x 10<sup>-8</sup>.</span>
+
+Since β = v/c, and c = 3 x 10<sup>8</sup> m/s,
+
+<span class="eq"> v ≈ c – 0.25 x 10<sup>-8</sup> x 3 x 10<sup>8</sup> m/s.</span>
+
+<span class="eq"> v ≈ c – 0.75 m/s.End of calculation</span>
+
+The 7 GeV electron is only 0.75 m/sec slower than the speed of light! Even if the fastest electron were going at the speed of light (not possible), the “slow” 7 GeV electron would only be falling behind at the rate of 1 part in 10<sup>8</sup>. Over the one meter length of the plasma accelerator the 7 GeV electron would fall behind any faster electron by, at most, about 10<sup>-8</sup> meters ( 10<sup>-2</sup> µm)  which is about one thousandth of a bunch length ( 12 µm). Therefore, all the electrons stay pretty much in their same location in the bunch, those at the head stay at the head and continue to give up energy and those at the tail stay there and keep gaining energy. Thus, assuming the model of how plasma acceleration works is correct, this experiment demonstrates convincingly that Einstein’s improvement of Newton’s idea is correct. 
 
 
 ##### The electron bunch stays together in the plasma accelerator
