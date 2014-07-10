@@ -333,7 +333,7 @@ Let’s use this to evaluate
 
 <span class="eq">β = ( 1 – 0.5 x 10<sup>-8</sup> )<sup>1/2</sup>.</span>
 
-The third term, the x<sup>2</sub> term will be 10<sup>-8</sup> smaller than the x term so we discard it,
+The third term, the x<sup>2</sup> term will be 10<sup>-8</sup> smaller than the x term so we discard it,
 
 <span class="eq">β ≈ 1 – ½ x 0.5 x 10<sup>-8</sup>.</span>
 
