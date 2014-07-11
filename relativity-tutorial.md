@@ -417,7 +417,7 @@ For a tenfold increase of mass
 
 Since the rest mass of an electron is 0.5 MeV the velocity of a 7 GeV electron is
 
-<span class="eq">v ≈ ( 1 – 10<sup>-8</sup> )c, about one millionth percent shy of the speed of light.</span>
+<span class="eq">v ≈ ( 1 – 0.25 x 10<sup>-8</sup> )c, about one quarter of a millionth of one percent shy of the speed of light.</span>
 
 Finally, we noted that according to Newton any time you double the energy of motion you increase speed by about 40%. In the energy doubling experiment, the particle bunch is tiny and all the electrons are at essentially the same energy when they enter the plasma accelerator. After traveling one meter in the plasma accelerator the electrons’ energies ranged from around 84 GeV down to 5 GeV. Intuitively this should cause the bunch to spread out a great deal, yet we found that the velocity difference between the electrons was about one part in 10<sup>8</sup> and over the distance of one meter this hardly affects the particle’s location in the bunch. 
 
