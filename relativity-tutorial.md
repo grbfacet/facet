@@ -367,13 +367,11 @@ If you have followed the math in the tutorial you should have a sense of how thi
 
 ### To summarize
 
-We noted that the Linac produced bunches of 1.8 x 10<sup>10</sup> electrons with 42 GeV of energy per electron. This is the equivalent of the energy of a baseball thrown at 93 mph. Since the Linac was producing 60 bunches per second, one might imagine what it would be like to have 60 major league baseball pitchers each hitting us with a fastball every second.
-
 According to Newtonian theory the energy of motion of an object is 
 
 <span class="eq">E<sub>Newton</sub> = 1/2 m<sub>0</sub>v<sup>2</sup> .</span>
 
-Solving for velocity of a 42 GeV electron according to Newton we found that
+Solving the Newton (incorrect) equation for the velocity of a 42 GeV electron we found that
 
 <span class="eq">v = 400c, where c is the speed of light,</span>
 
@@ -399,19 +397,19 @@ Writing it all out without the gamma and beta
 
 When v = 0, when the particle is not moving, m = m<sub>0</sub>, the rest mass.
 
-When v approaches c, m and hence E become infinitely large.
+When v approaches c, m and hence E<sub>Einstein</sub> become infinitely large.
 
-When v is greater than c the formula tells us the number for the energy and the mass become an imaginary number, a number with a √(-1), which is hard to understand what that might mean. And we can see that you can’t get a particle to v greater than c by starting with v less than c and pushing it because it has to pass through a stage of infinite mass which takes an infinite amount of energy.
+When v is greater than c the Einstein formula tells us the numbers for the energy and the mass are so-called imaginary numbers, a number with a √(-1), which is hard to understand what that might mean. And we can see that you can’t get a particle to v greater than c by starting with v less than c and pushing it because it has to pass through a stage of infinite mass which takes an infinite amount of energy.
 
 Then we went on to look at what happens between v = 0 and v = c, the realm of objects we deal with in life and science. We found that for an object traveling at speeds in the range of a comet hitting the earth, v ~ 18.6 miles/sec that even at this very high speed m is little changed
 
 <span class="eq">m ≈ 1.0000005m<sub>0</sub>, a one half millionth increase.</span>
 
-To make a noticeable difference in the mass, say to double the mas, we found we needed
+To make a noticeable difference in the mass, say to double the inrtial mass, we found we needed
 
-<span class="eq">v ≈ 0.87c, the particle is moving at 87% of the speed of light.</span>
+<span class="eq">v ≈ 0.87c, the particle moving at 87% of the speed of light.</span>
 
-For a tenfold increase of mass 
+For a tenfold increase of inertial mass 
 
 <span class="eq">v = 99.5% of the speed of light.</span>
 
