@@ -57,7 +57,7 @@ Calculation: Solve the Newtonian kinetic energy formula for velocity squared and
 
 <span class="eq">v = (2E/m<sub>0</sub>)<sup>1/2</sup>.</span>  
 
-Plug in the values for E and m<sub>e</sub> of the 1.5 eV electron and the energy units converstion factor;
+Plug in the values for E and m<sub>e</sub> of the 1.5 eV electron and the energy units conversion factor;
 
 <span class="eq">v = ( 2 x 1.5 eV x 1.6 x 10<sup>-19</sup> J/eV / 9.1 x 10<sup>-31</sup> kg)<sup>1/2</sup> .</span>
 
