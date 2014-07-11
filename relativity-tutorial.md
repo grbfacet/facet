@@ -3,7 +3,7 @@ layout: default
 title: Tutorial - Relativity theory
 ---
 
-### Oerview
+### Overview
 
 This tutorial on relativity theory depends on material developed in two other tutorials: [principles of physics] and [beam acceleration]. They should be read before this tutorial.
 
