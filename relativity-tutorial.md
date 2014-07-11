@@ -5,7 +5,7 @@ title: Tutorial - Relativity theory
 
 ### Overview
 
-This utorial on relativity theory depends on material developed in two other tutorials: [principles of physics] and [beam acceleration]. They should be read before this tutorial.
+This tutorial on relativity theory depends on material developed in two other tutorials: [principles of physics] and [beam acceleration]. They should be read before this tutorial.
 
 This is a review of some of the physics behind the energy doubling research paper. You can read this tutorial material in the order it is presented. When you read the energy doubling plain English exposition of the research paper there are links from it into the relevant sections in this tutorial.
 
