@@ -291,7 +291,7 @@ To give an idea of the difference between ordinary and relativistic experience w
 
 <span class="eq">v<sub>100</sub> = 10v<sub>1</sub>.</span>
 
-At ten times the velocity of the 1 GeV electrons, the 100 GeV electron would cover any given distance 10 times as fast as the 1 GeV. So in the time it takes a 1 GeV electron to move the length of a 12 µm bunch, the 100 GeV electron would have moved ten bunch lengths. Clearly, for a bunch to stay together as it traveled the one meter length of the plasma accelerator, the electrons would all have to be pretty close in energy if Newton were correct. 
+At ten times the velocity of the 1 GeV electrons, the 100 GeV electron would cover any given distance 10 times as fast as the 1 GeV electron. In the time it takes a 1 GeV electron to move the length of a 12 µm bunch, the 100 GeV electron would have moved ten bunch lengths. Clearly, for a bunch to stay together as it traveled the one meter length of the plasma accelerator, the electrons would all have to be pretty close in energy if Newton were correct. 
 
 Calculation: Let’s now look at the situation from Einstein’s point of view.
 
@@ -305,7 +305,7 @@ If we plug in the mass of an electron and multiple it by c<sup>2</sup> and conve
 
 <span class="eq">m<sub>e</sub>c<sup>2</sup> ≈ 0.5 MeV, (where m<sub>e</sub> = m<sub>0 </sub>of the electron).</span>  
 
-This is a number every particle physicist knows better than they know their spouse's birthday. Let’s consider a 7 GeV electron just to make the math simple later
+The electron rest mass of 0.5 MeV is a number every particle physicist knows better than they know their spouse's birthday. Let’s consider a 7 GeV electron just to make the math simple later
 
 <span class="eq">E<sub>Einstein</sub>/m<sub>0</sub>c<sup>2</sup> = 7 x 10<sup>9</sup> eV/ 0.5 x 10<sup>6</sup> eV = 1.4 x 10<sup>4</sup> = 1/( 1 – β<sup>2</sup> )<sup>1/2</sup> .</span>
 
@@ -333,7 +333,7 @@ Let’s use this to evaluate
 
 <span class="eq">β = ( 1 – 0.5 x 10<sup>-8</sup> )<sup>1/2</sup>.</span>
 
-The third term, the x<sup>2</sup> term will be 10<sup>-8</sup> smaller than the x term so we discard it,
+The third term, the x<sup>2</sup> term will be 10<sup>-8</sup> smaller than the x term so we discard it to get,
 
 <span class="eq">β ≈ 1 – ½ x 0.5 x 10<sup>-8</sup>.</span>
 
@@ -352,7 +352,7 @@ The 7 GeV electron is only 0.75 m/sec slower than the speed of light! Even if th
 
 Before entering the plasma accelerator, all the electrons experienced the same accelerating force in the Linac to get them all to 42 GeV. Once they enter the plasma accelerator, things change drastically. The electrons at the head of the bunch experience a force against their motion as they give up energy to create the ionized plasma surrounding the bunch and the electrons at the tail of the bunch are accelerated forward by the field of the ionized plasma cloud of electrons. Unlike in the Linac where all the electrons get the same push forward and thus have the same energy and same speed, in the plasma accelerator they start getting different pushes and we asked why the bunch stayed together.
 
-We have seen that the Einstein theory of relativity reduces to the Newtonian theory at low speeds relative to the speed of light, speeds we are familiar with in our normal lives. But at speeds nearing the speed of light, the Newtonian theory is completely wrong. The Newtonian theory says a force applied over a distance does work on an object thus increasing both the energy and the speed of the object. But as we approach the speed of light and relativity comes into play, more and more of that energy goes into increasing the inertial mass of the object and less and less goes into increasing its speed. 
+We have seen that the Einstein theory of relativity reduces to the Newtonian theory at low speeds relative to the speed of light, speeds we are familiar with in our normal lives. But at speeds nearing the speed of light, the Newtonian theory is completely wrong. The Newtonian theory says a force applied over a distance does work on an object thus increasing both the energy and the speed of the object. But as we approach the speed of light and relativity comes into play, more and more of the work done by the accerating force goes into increasing the inertial mass of the object and less and less goes into increasing its speed. 
 
 This explains how the electron bunch stays together despite some electrons losing energy while others gain energy. We make an analogy with a pack of marathon runners nearing the finish line after all running at the same speed for most of the race (metaphorically equivalent to traveling in the Linac). (Metaphorically entering the plasma accelerator) some at the front of the pack start to run out of energy reserves and have less energy to put into running while others at the back of the pack stage a finishing kick by drawing on remaining energy reserves. In our world where they are running about 12 miles an hour the pack spreads out. But in a Gamowian Mr. Tompkins world where the speed of light is just barely above the speed of the pack, let’s say, 12.01 miles per hour we would find that the tiring runners (at the front of the pack) having less ability to push themselves don’t actually slow down very much, instead they seem to lose weight allowing them to maintain the speed of the pack with less effort!!! And the ones (at the back of the pack) with the finishing kick that push themselves harder don’t speed up much and thus don’t gain much on the runners at the front of the pack. Instead they seem to become heavier requiring more effort to maintain their pace!!! To be precise, the lead runners do lose a tiny amount of of their lead and the tail runners gain a tiny amount on the leaders but the changes are a tiny fraction of the lenght of the pack. Such is the world of near light speed phenomena. And plasma acceleration would not work without this peculiar effect of nature keeping the electron bunch intact and in the same order! 
 
