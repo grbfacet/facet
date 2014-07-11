@@ -3,15 +3,21 @@ layout: default
 title: Tutorial - Relativity theory
 ---
 
-### Overview: 
+### Overview
 
-This is a review of some of the physics behind the energy doubling research paper. You can read this in the order it is presented as a tutorial. When you read the energy doubling plain English exposition of the research paper there are links from it into the relevant sections in this tutorial. 
+This tutorial on relativity theory depends on material developed in two other tutorials: [principles of physics] and [beam acceleration]. They should be read before this tutorial. 
+This is a review of some of the physics behind the energy doubling research paper. You can read this tutorial material in the order it is presented. When you read the energy doubling plain English exposition of the research paper there are links from it into the relevant sections in this tutorial. 
+In this tutorial we will discuss one particular aspect of relativity theory, the increase of inertial mass of a moving object as it goes faster and what that implies. We will compare the Newton and the Einstein (Relativity) theories of the energy of moving objects. The Newton theory accords with our experience and expectations about motion and agrees with Relativity Theory at “low” speeds but differs at the speeds of particles in accelerators. 
 
-We will discuss several physics topics in this tutorial. The end goal is to explain how the electron particle bunch retains its compact form and why electrons of different energy do not change relative position as the rear part of the bunch is accelerated and the front part is decelerated. From our experience of human level phenomena, that makes no sense and an understanding of relativity theory is required and is provided here. 
+We will consider a wide range of speeds from that of baseballs (93 mph), jet planes (500 mph), meteors hitting earth (10s of miles/second) where the two theories agree to within very tiny discrepancies, up to speeds of particles in accelerators moving at nearly the speed of light (186,000 miles/second) where the two theories sharply disagree.  We will also consider speeds beyond the speed of light to gain a further understanding of Relativity Theory.
 
-To lead up to this final result we present information on the Newtonian theory of accelerated moving bodies as well as the Einsteinian relativistic theory and we discuss some general issues about how one theory can replace another over time as science progresses. This approach of focusing on a very specific result, the bunch integrity, is in harmony with the idea of looking at a journal paper as focused on one very specific result. Thus, we aim to have a very narrow focus and to drill down deep rather than describing a broad array of topics as is typical of textbooks and most scientific expositions written for a lay audience.  
+The end goal of this tutorial is to explain how the electron particle bunch retains its compact form, and to explain why electrons of different energy do not change relative position as the rear part of the bunch is accelerated and the front part is decelerated. From our experience of human level phenomena (our Newtonian expectations), that makes no sense and an understanding of Relativity Theory is required.
 
-We have indicated extended calculations by noting when a calculation begins and ends. The idea is that you may skip over the details, especially on a first reading of the tutorial. But to get a real feeling for what it is like to actually do physics calculations we encourage you to eventually take pencil/pen, paper and calculator and work through each step in a calculation. Take your time and enjoy the experience of understanding how it is done. 
+To lead up to this final result we present information on the Newtonian theory of accelerated moving bodies as well as the Einsteinian relativistic theory and we discuss some general issues about how one theory can replace another over time as science progresses. This approach of focusing on a very specific result, the bunch integrity, is in harmony with the idea of looking at a journal paper as focused on one very specific result. Thus, we aim to have a very narrow focus and to drill down deep in the tutorials rather than describing a broad array of topics as is typical of textbooks and most scientific expositions written for a lay audience.
+
+We will also present a series of calculations of numerical examples which increase in difficulty for the reader who wants to experience the kind of calculations physicists actually do to get quick rough numerical estimations (so called “back of the envelop” or “napkin” calculations.)
+
+We have indicated extended calculations by noting when a calculation begins and ends. The idea is that you may skip over the details, especially on a first reading of the tutorial. But to get a real feeling for what it is like to actually do physics calculations we encourage you to eventually take pencil, paper and calculator and work through each step in a calculation. Take your time and enjoy the experience of understanding how it is done. 
 
 
 ### Force, energy, work, potential energy, energy of motion (kinetic energy), electric potential and all that… 
