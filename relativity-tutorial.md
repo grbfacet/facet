@@ -249,15 +249,15 @@ Calculation: Let’s rewrite in the standarad way it is written by physicistst a
 
 and let’s expand γ(β) using Mr. Taylor’s expansion. If you know some calculus check the math, we will just give the result
 
-<span class="eq">γ(β) = ( 1 – β<sup>2</sup> )<sup>-1/2</sup> = 1 + 1/2β<sup>2</sup> + 1/4β<sup>4</sup> + …</span>
+<span class="eq">γ(β) = ( 1 – β<sup>2</sup> )<sup>-1/2</sup> = 1 + 1/2β<sup>2</sup> + 3/8β<sup>4</sup> + …</span>
 
 Now let’s plug in 
 
-<span class="eq">β = 0.01, i.e., v = 0.01c = 3000km/sec = 1860mi/sec.</span>
+<span class="eq">β = 0.01, i.e., v = 0.01c = 3000km/sec = 1860mi/sec, that's comet speed.</span>
 
-<span class="eq">γ(0.01) = 1 + 0.5 x 0.0001. + 0.25 x 0.00000001 + …</span>
+<span class="eq">γ(0.01) = 1 + 0.5 x 0.0001. + 0.375 x 0.00000001 + …</span>
 
-<span class="eq">γ(0.01) ≈ 1.0000500025. End of calculation.</span>
+<span class="eq">γ(0.01) ≈ 1.00005000375. End of calculation.</span>
 
 This tells us that the first two terms, 1 and 0.00005, dominate all the rest (actually, the first term dominates the second but we include the second term for a reason to be seen shortly.) To good approximation for v a small fraction of c, we get
 
