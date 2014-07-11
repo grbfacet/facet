@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tutorial - Relativity theory
+title: Tutorial - Relativity theor
 ---
 
 ### Overview
