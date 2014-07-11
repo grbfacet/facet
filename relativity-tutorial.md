@@ -172,7 +172,7 @@ We stated above that Newtonian theory is an approximation to relativity theory. 
 
 It’s not at all obvious that the first is an approximation to the second. The way to make this more precise is that we want to see that the second one looks more and more like the first one when v/c gets smaller and smaller. We already noted that at v = 0 E<sub>Einstein</sub> does not equal 0 but E<sub>Newton</sub> does equal 0. So what is that about? We can use a Taylor series expansion of E<sub>Einstein</sub> to explore this issue. 
 
-The Taylor series expansion of a function of a variable x, f(x), can be expressed as an infinite sum of terms:
+A function of a variable x, f(x), can be proved to be equal to an infinite sum of terms, called a Taylor series expansion.
 
 <span class="eq">f(x) = f(0) + f’(0)x + (1/2)f’’(0)x<sup>2</sup> + (1/2x3)f<sup>(3)</sup>(0)x<sup>3</sup> + (1/2x3x4)f<sup>(4)</sup>(0)x<sup>4</sup> + …</span>
 
