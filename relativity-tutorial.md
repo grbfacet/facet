@@ -236,12 +236,16 @@ or about one part in a thousand and we only took the first three terms of the Ta
 What happens when we apply the Taylor expansion to 
 
 <span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>/( 1 - (v/c)<sup>2</sup> )<sup>1/2</sup> ?</span> 
+ 
+What plays the role of x here? We are interested in what E<sub>Einstein</sub> looks like at low Newtonian speeds, that is when v is much smaller than c.  For those v, v/c will be close to 0. So We want to do a Taylor expansion of E(v/c), that is, v/c will be our x, except instead of "x" will will call it "β" because that is the standard name for v/c used by physicists when they are doing relativistic calculations. 
 
-What plays the role of x here? We want to do a Taylor expansion of E(v/c), that is, v/c will be our x, except instead of "x" will will call it "β" because that is the standard name for v/c used by physicists when they are doing relativistic calculations. 
+Calculation: Let’s rewrite in the standarad way it is written by physicistst as
 
-Calculation: Let’s rewrite this as
+<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>γ(β) where </span> 
 
-<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>γ(β) where γ(β) = 1/( 1 – β<sup>2</sup> )<sup>1/2</sup> and β= v/c</span> 
+<span class="eq">γ(β) = 1/( 1 – β<sup>2</sup> )<sup>1/2</sup> and </span>
+
+<span class="eq">β= v/c</span>
 
 and let’s expand γ(β) using Mr. Taylor’s expansion. If you know some calculus check the math, we will just give the result
 
