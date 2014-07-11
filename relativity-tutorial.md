@@ -73,11 +73,11 @@ Let’s unwrap what these formulas are telling us. First we need to be clear wha
 
 Another aspect of mass however does change with motion according to Einstein. In both Newtonian and Einsteinian theory of force and motion, mass is a measure of a body’s resistance to having its state of motion changed (i.e., accelerated) by a force. We also refer to this as the body’s inertia. We all know that you have to push a heavy body harder (with more force) than a lighter body to get equal motion. A normal adult can push a small auto and get it to roll. A dozen normal adults probably can’t budge a railway car on the tracks. That’s the amount of resistance to changing the motion of a body. We need to distinguish the amount of matter in a body which is unchanged by the state of motion and the inertia of a body which does change in Relativity theory but does not change in Newtonian theory when a body moves faster. 
 
-Newton’s F = ma tells us if we keep pushing a body long enough with a constant force it will accelerate at constant rate to any speed we shoot for, even beyond the speed of light if we push long enough. But that assumes that the inertia of m<sub>0</sub>,  does not change with increasing speed. If we solve the Newtonian energy formula for v we get
+Newton’s F = ma tells us if we keep pushing a body long enough with a constant force it will accelerate at constant rate to any speed we shoot for, even beyond the speed of light if we push long enough. But that assumes that the inertia of m<sub>0</sub> does not change with increasing speed. If we solve the Newtonian energy formula for v we get
 
 <span class="eq">v = (2E<sub>Newton</sub>/m<sub>0</sub>)<sup>1/2</sup>.</span>
 
-If this were true at any speed, that is, if m<sub>0</sub> was a constant independent of speed, what speed would a 42 GeV electron have? We have put the subscript 0 on m to indicate it is an unchanging constant. 
+If this were true at any speed, that is, if m<sub>0</sub> was a constant independent of speed, what speed would a 42 GeV electron have? 
 
 Calculation: Let’s calculate the speed of a 42 GeV electron just leaving the Linac accelerator and let’s do it “wrong”, let’s do it according to Newton’s formula. We need a couple numbers: the conversion of energy units between eV and Joules, 
 
@@ -87,7 +87,7 @@ and we need the rest mass of an electron,
 
 <span class="eq">m<sub>e</sub> = 9.1 x 10<sup>-31</sup> kg.</span> 
 
-The powers of ten involved in these numbers show the vast difference between the scale of ordinary human level phenomena and sub-atomic particles and it will just get stranger as we continue. Plugging in these two factors and doing some arithmetic we get
+The powers of ten involved in these numbers show the vast difference between the scale of ordinary human level phenomena and sub-atomic particles. Plugging in these two factors and doing some arithmetic we get
 
 <span class="eq">v = ( 2 x 42 GeV / 9.1 x 10<sup>-31</sup> kg )<sup>1/2</sup> ,</span>
 	
