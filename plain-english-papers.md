@@ -4,7 +4,7 @@ title: Plain English Expositions
 pagetype: reference
 ---
 
-### Plain English xpositions
+### Plain English Expositions
 
 This is an experiment in communicating detailed scientific research to the interested general public. It is based on a concept suggested by the DZero Collaboration at Fermilab in the 1990s, the Plain English Paper. They astutely recognized that science proceeds by establishing and publishing specific focused results and these results are self-contained packets of information. But they are written in arcane jargon. 
 
