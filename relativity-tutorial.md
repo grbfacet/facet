@@ -178,7 +178,7 @@ A function of a variable x, f(x), can be proved to be equal to an infinite sum o
 
 Notice the formula is saying you can calculate the value of f for some value of x, not zero, by knowing the values of f and its derivatives at x = 0.
 
-The nice thing for us about Mr. Taylor’s series can be seen if you consider a case where x is much smaller than 1 and close to 0. When you take a number smaller than 1 and near zero and calculate it’s powers (multiples of itself), those powers rapidly get much smaller. If 
+The nice thing for us about Mr. Taylor’s formula can be seen if you consider a case where x is much smaller than 1 and close to 0. When you take a number smaller than 1 and near zero and calculate it’s powers (multiples of itself), those powers rapidly get much smaller. If 
 
 <span class="eq">x = 0.1, then</span>
 
@@ -214,7 +214,7 @@ Going one more term
 
 <span class="eq">f’’(0) = (1/2)(-1/2)(1) = -1/4.</span>
 
-Then the first three terms of the Taylor series for ( 1 + x )<sup>1/2</sup> are
+Then the first three terms of the Taylor expansion for ( 1 + x )<sup>1/2</sup> are
 
 <span class="eq">f(x) = ( 1 + x )<sup>1/2</sup> ≈ 1 + ½x – ¼ x<sup>2</sup> .</span>
 
@@ -226,7 +226,7 @@ Plugging x = 0.1 in the original formula, f(x) = ( 1 + x )<sup>1/2</sup> and usi
 
 <span class="eq">f( 0.1 ) =  ( 1 + 0.1 )<sup>1/2</sup> = √(1.1) = 1.0488.</span>
 
-The error between the approximation by three terms of the Taylor series and the calculator (“true”) value is
+The error between the approximation by three terms of the Taylor expansion and the calculator (“true”) value is
 
 <span class="eq">1.0488 – 1.0475 = 0.0013</span> 
 
