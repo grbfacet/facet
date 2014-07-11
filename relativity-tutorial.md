@@ -5,7 +5,7 @@ title: Tutorial - Relativity theory
 
 ### Overview: 
 
-This is a review of some of the physics behind the energy doubling research paper. You can read this in the order it is presented as a tutorial. When you read the energy doubling plain English exposition of the research paper there are links from it into the relevant sections in this tutorial. 
+This is a review of ome of the physics behind the energy doubling research paper. You can read this in the order it is presented as a tutorial. When you read the energy doubling plain English exposition of the research paper there are links from it into the relevant sections in this tutorial. 
 
 We will discuss several physics topics in this tutorial. The end goal is to explain how the electron particle bunch retains its compact form and why electrons of different energy do not change relative position as the rear part of the bunch is accelerated and the front part is decelerated. From our experience of human level phenomena, that makes no sense and an understanding of relativity theory is required and is provided here. 
 
