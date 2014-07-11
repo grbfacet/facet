@@ -112,17 +112,19 @@ where c is the speed of light, 300,000 km/sec (186,000 mi/sec).
 
 This is a complicated unintuitive looking formula but we can tease out a feeling for it by considering different cases. 
 
-First, it says the mass of a moving body depends on only two things: its rest mass, m<sub>0</sub>, and the ratio of its speed to the speed of light, v/c.  Further, no matter what situation we might be considering for the object, its rest mass, m<sub>0</sub>, and c will always be unchanged, those are what we call physical constants. All electrons have exactly the same rest mass no matter what their motion. In all situations, the speed of light is the same (this is the basis of relativity theory). Thus, what ultimately determines the inertial mass of a moving object is simply its speed, v. 
+First, it says the inertial mass of a moving body depends on only two things: its rest mass, m<sub>0</sub>, and the ratio of its speed to the speed of light, v/c.  Further, no matter what situation we might be considering for the object, its rest mass, m<sub>0</sub>, and c will always be unchanged, those are what we call physical constants. All electrons have exactly the same rest mass no matter what their motion. In all situations, the speed of light is the same (this is the basic fact underlying of Relativity Theory). Thus, what ultimately determines the inertial mass of a moving object is simply its speed, v. 
 
-Now let’s look at some values for v. If the body is standing still, v = 0 and if you plug v = 0 into the mass formula and do the math you will see that m = m<sub>0</sub>; m standing still is the rest mass exactly as we wanted (more on this below). Now let’s go to another extreme value, what happens when v = c? We plug that in and we get infinity for the mass. Normal particles can’t exceed c by pushing because no matter how hard and how long you push to make it go faster as you get closer and closer to c all you are doing is adding to its mass energy (inertia) and less and less to its speed. Between the extremes of v = 0 and v = c we can see the mass formula predicts a positive number for the mass. 
+Now let’s look at some values for v. If the body is standing still, v = 0 and if you plug v = 0 into the mass formula and do the math you will see that m = m<sub>0</sub>; m standing still is the rest mass exactly as we wanted (more on this below). Now let’s go to another extreme value, what happens when v = c? We plug that in and we get infinity for m, the mass. Normal particles can’t exceed c by pushing because no matter how hard and how long you push to make it go faster as you get closer and closer to c all you are doing is adding to its mass energy (inertia) and less and less to its speed. Between the extremes of v = 0 and v = c we can see the mass formula predicts a positive number for the mass. 
 
 You may wonder how light itself can travel at the speed of light? It can because for photons, light particles, 
 
 <span class="eq">m<sub>photon</sub> = 0, they are massless! </span>
 
-Suppose, however, that v is larger than c, say v = 2c. We find the mass is given by an imaginary number, a normal number multiplied by the square root of -1. Such postulated particles are called tachyons and nobody has ever seen one and if they do exist tachyons will behave strangely since other physics tells us they are particles traveling backwards in time. And we know we can’t get a normal particle to tachyon speeds by accelerating it because it has to acquire infinite mass first so we can only say we don’t know anything that makes tachyons impossible but we can say that we can’t create one in the obvious manner by accelerating an ordinary particle. So tachyons are not ruled out but since we don’t know how to make one and one has never been seen, they are not ruled in either.
+Suppose, however, that v is larger than c, say v = 2c. We find the mass is given by an imaginary number, a normal number multiplied by the square root of -1. Such postulated particles are called tachyons and nobody has ever seen one. If they do exist tachyons will behave strangely since other physics tells us they are particles traveling backwards in time. And we know we can’t get a normal particle to tachyon speeds by accelerating it because it has to acquire infinite mass first so we can only say we don’t know anything that makes tachyons impossible but we can say that we can’t create one in the obvious manner by accelerating an ordinary particle. So tachyons are not ruled out but since we don’t know how to make one and one has never been seen, they are not ruled in either.
 
-Now let’s have a look at what happens between v = 0 and v = c. What about v = 18.6 miles/sec (30 km/sec)? That may seem like an odd example speed to choose, but sometimes in this exposition we will make choices like that because it makes the arithmetic easier to follow later. That’s a typical speed for objects in our solar system. A meteor or comet might hit the earth at that very high speed. The speed of light, c, is 186,000 mi/sec (300,000 km/sec) so you see why we choose 18.6 miles/sec, it’s one thousandth of c. Let’s plug v/c = 0.001 in the mass formula and we see that the mass, the inertia of the motion is 
+Now let’s have a look at what happens between v = 0 and v = c. What about v = 18.6 miles/sec (30 km/sec)? That may seem like an odd example speed to choose, but sometimes in this exposition we will make choices like that because it makes the arithmetic easier to follow later. That’s a typical speed for objects in our solar system. A meteor or comet might hit the earth at that very high speed. The speed of light, c, is 186,000 mi/sec (300,000 km/sec) so you see why we choose 18.6 miles/sec, it’s one thousandth of c. 
+
+Calculation: Let’s plug v/c = 0.001 in the mass formula and we what we get. 
 
 <span class="eq">m = m<sub>0</sub>/( 1 - (0.001)<sup>2</sup> )<sup>1/2</sup> ,</span>
 
@@ -132,9 +134,9 @@ Now let’s have a look at what happens between v = 0 and v = c. What about v = 
 
 <span class="eq">m = m<sub>0</sub>/0.9999995 ,</span>
 
-<span class="eq">m = 1.0000005m<sub>0</sub>. </span> 
+<span class="eq">m = 1.0000005m<sub>0</sub>. End calculation.</span> 
 
-The inertia is only increased by a factor of one half of a millionth even at a speed of 18.6 mi/sec ( 30 km/sec), hardly a large amount. It’s no wonder no one noticed in Newton’s time. 
+The inertia is only increased by a factor of one half of a millionth even at a speed of 18.6 mi/sec ( 30 km/sec), hardly a large amount. It’s no wonder no one noticed the discrepancy in Newton’s time. 
 
 Calculation: Now let’s work backwards to find out how fast m<sub>0</sub> must be going to double its inertia. We want 
 
