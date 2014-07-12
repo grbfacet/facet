@@ -69,15 +69,13 @@ Since 1 J = 1 kg-m<sup>2</sup>/sec<sup>2</sup>, J/kg = m<sup>2</sup>/sec<sup>2</
 
 <span class="eq">v = 0.72 x 10<sup>6</sup> m/sec = 720km/sec ≈ 450 miles/second. End calculation.</span>
 
-An electron accelerated freely by a 1.5 volt AA battery would reach a speed of 450 miles per second which is about 4000 times the speed of a passenger jet plane.  But this is still only about one quarter of a percent of the speed of light, so the use of the Newtonian approximation 
+An electron accelerated freely by a 1.5 volt AA battery would reach a speed of 450 miles per second which is about 4000 times the speed of a passenger jet plane.  But this is still only about one quarter of a percent of the speed of light, 300,000 km/sec (186,000 mi/sec) so the use of the Newtonian approximation 
 
-<span class="eq">E<sub>Newton</sub> = ½ m<sub>0</sub>v<sup>2</sup></span> 
-
-is OK as is shown in the relativity tutorial [link]. 
+<span class="eq">E<sub>Newton</sub> = ½ m<sub>0</sub>v<sup>2</sup>.</span> 
 
 Relativity effects only begin to become important when particles reach, say 10 percent, at least, of the speed of light. As is explained in the relativity tutorial [link], the Newtonian formula, E<sub>Newton</sub> = ½ m<sub>0</sub>v<sup>2</sup>, begins to make a significant error only when we approach these “relativistic” speeds. 
 
-4000 times jet speed is pretty fast, a bullet or a baseball with that speed could do a lot of damage but they are very heavy compared to an electron, so how can we get a sense of the energy of the 42 GeV electrons in the energy doubling experiment? Remember our 4000 times jet speed was an electron accelerated only by one 1.5 volt AA battery. 
+4000 times jet speed is pretty fast, a bullet or a baseball with that speed could do a lot of damage but they are very heavy compared to an electron. What about electrons accelerated by the Linac, not just a battery. Remember our 4000 times jet speed was an electron accelerated only by one 1.5 volt AA battery. Can we get a sense of the energy of the 42 GeV electrons in the energy doubling experiment? 
 
 
 ##### The beam bunch energy
