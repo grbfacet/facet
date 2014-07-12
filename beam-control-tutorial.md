@@ -22,7 +22,7 @@ To summarize the two kinds of forces due to an electric field, **E**, and a magn
 
 **F**<sub>E</sub> = q**E**, where q is the particle charge and **F**<sub>E</sub> and **E** point in the same direction.
 
-**F**<sub>B</sub> = q(**v x B**), where q is the particle charge, **v** is its velocity and **F**<sub>E</sub> is perpendicular to both **v** and **B**. **v x B** is a vector whose magnitude is vB and direction is perpendicuar to both the direction of <sub>v</sub> and <sub>B</sub>.
+**F**<sub>B</sub> = q(**v x B**), where q is the particle charge, **v** is its velocity and **F**<sub>E</sub> is perpendicular to both **v** and **B**. **v x B** is a vector whose magnitude is vB and direction is perpendicuar to both the direction of **v** and **B**.
 
 If the magnetic field covers enough area, the beam will eventually go in a circle all the way back to where you started and the beam will continue to go in that circle always at the same speed since the force is always sidewise so it never causes the beam to speed up. If the beam only pass through a small area with a magnetic field the net effect will be to change the direction of the beam by some angle, maybe a degree maybe much more, maybe much less. How much the beam turns and how tightly it turns depends on the strength of the magnetic field and how long the beam is passing through the field and also, one more factor we need to mention now. The force on the beam depends not only on the strength of the magnetic field and the charge of the particles, but it also depends of the speed of the particle, the faster the beam is going, the stronger the force on it. The magnetic force on a beam much more complicated than the electric field force. 
 
