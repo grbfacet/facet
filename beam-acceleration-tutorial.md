@@ -99,7 +99,7 @@ Let's go back to Newton's formula:
 
 A baseball with 121 joules of energy will have a velocity of
 
-<span class="eq">v = ( 2 x 121 J/0.14 kg )<sup>1/2</sup> = ( 1729 m<sup>2</sup>/sec<sup>2</sup>)<sup>1/2</sup> = 42 m/s.</span> 
+<span class="eq">v = ( 2 x 121 J / 0.14 kg )<sup>1/2</sup> = ( 1729 m<sup>2</sup>/sec<sup>2</sup>)<sup>1/2</sup> = 42 m/s.</span> 
 
 What is that in mph? 
 
