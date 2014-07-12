@@ -20,11 +20,11 @@ To express the two force laws mathematically we symbolize the two kinds of force
 
 <span class="eq">**F**<sub>E</sub> = q**E**,</span>
 
-where q is the particle charge and **F**<sub>E</sub> and **E** point in the same direction.
+where q is the particle charge and **F**<sub>E</sub>, the electric force, and **E**, the electric field, point in the same direction.
 
 <span class="eq">**F**<sub>B</sub> = q(**v x B**),</span>
 
-where q is the particle charge, **v** is the particle velocity, **F**<sub>B</sub> is perpendicular to both **v** and **B**, and **v x B** is a vector whose magnitude is vB and whose direction is perpendicuar to both the direction of **v** and the direction of **B**.
+where q is the particle charge, **v** is the particle velocity, **F**<sub>B</sub>, the magnetic force, is perpendicular to both **v** and **B**, and **v x B** is a vector whose magnitude is vB and whose direction is perpendicuar to both the direction of **v** and the direction of **B**.
 
 If the magnetic field covers enough area, the beam will eventually go in a circle all the way back to where it started and the beam will continue to go in that circle always at the same speed since the force is always sidewise so it never causes the beam to speed up or slow down. If the beam only pass through a small area with a magnetic field the net effect will be to change the direction of the beam by some angle, maybe a degree maybe much more, maybe much less. How much the beam turns and how tightly it turns depends on the strength of the magnetic field and how long the beam is passing through the field and also, one more factor we need to mention now. The force on the beam depends not only on the strength of the magnetic field and the charge of the particles, but it also depends of the speed of the particle, the faster the beam is going, the stronger the force on it. The magnetic force on a beam much more complicated than the electric field force. 
 
