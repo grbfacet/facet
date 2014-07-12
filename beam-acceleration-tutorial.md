@@ -45,7 +45,7 @@ An AA battery creates a 1.5 volt potential between it’s + and - ends. A single
 which is an approximation to the very famous and correct (as far as we know today!) relativistic formula E<sub>Einstein</sub> = mc<sup>2</sup>. (This is presented in detail in the relativity tutorial[link].)
 E<sub>Newton</sub> is the Newtonian kinetic energy of motion, m<sub>0</sub> is the particle’s mass and v is the particle’s velocity.
 
-Let’s compute how fast a freely accelerated 1.5 eV electron would move. To do this we will need a conversion factor between the atomic level unit of energy, the eV, and the macroscopic level of energy, the Joule: 
+Let’s compute how fast a freely accelerated 1.5 eV electron would move. To do this we will need a conversion factor between the atomic level unit of energy, the eV, and the macroscopic level energy unit, the Joule: 
 
 <span class="eq">1 eV = 1.6 x 10<sup>-19</sup> J (Joules) where the units of a Joule are kg-m<sup>2</sup>/sec<sup>2</sup>.</span> 
 
