@@ -88,13 +88,14 @@ But in the plasma acceleration experiment tiny bunches of 1.8 x 10<sup>10</sup> 
 
 <span class="eq">1.8 x 10<sup>10</sup> electrons/bunch x 67 x 10<sup>-10</sup> J/electron =  121 J of energy per bunch.</span> 
 
-How much energy is 121 Joules? Going back to 
-
-<span class="eq">v = (2E<sub>Newton</sub>/ m<sub>0</sub>)<sup>1/2</sup> ,</span>
-
-let’s think of a baseball which weighs 5 oz. At 28 grams/oz, that’s 
+How much energy is 121 Joules? Let's make a comparison to a baseball which weighs 5 oz.  At 28 grams/oz, that’s 
 
 <span class="eq">5 x 28 = 140 grams/baseball = 0.14 kg/baseball.</span>
+
+Let's go back to Newton's formula:
+
+<span class="eq">v = (2E<sub>Newton</sub>/ m<sub>0</sub>)<sup>1/2</sup>.</span>
+
 
 A baseball with 121 joules of energy will have a velocity of
 
