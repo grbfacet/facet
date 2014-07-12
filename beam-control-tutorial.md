@@ -18,11 +18,11 @@ Now imagine this force turns the direction of the particle beam so rotate your h
 
 To express the two force laws mathematically we symbolize the two kinds of forces due to an electric field, **E**, and a magnetic field, **B**, where
 
-**Bold face** means the variable has both a magnitude and a direction (in math jargon, it is a vector quantity.)
+**bold face** means the variable has both a magnitude and a direction (in math jargon, it is a vector quantity.)
 
-**F**<sub>E</sub> = q**E**, where q is the particle charge and **F**<sub>E</sub> and **E** point in the same direction.
+<span class="eq">**F**<sub>E</sub> = q**E**, where q is the particle charge and **F**<sub>E</sub> and **E** point in the same direction.</span>
 
-**F**<sub>B</sub> = q(**v x B**), where q is the particle charge, **v** is its velocity and **F**<sub>E</sub> is perpendicular to both **v** and **B**. **v x B** is a vector whose magnitude is vB and direction is perpendicuar to both the direction of **v** and **B**.
+<span class="eq">**F**<sub>B</sub> = q(**v x B**), where q is the particle charge, **v** is its velocity and **F**<sub>E</sub> is perpendicular to both **v** and **B**. **v x B** is a vector whose magnitude is vB and direction is perpendicuar to both the direction of **v** and **B**.</span>
 
 If the magnetic field covers enough area, the beam will eventually go in a circle all the way back to where it started and the beam will continue to go in that circle always at the same speed since the force is always sidewise so it never causes the beam to speed up or slow down. If the beam only pass through a small area with a magnetic field the net effect will be to change the direction of the beam by some angle, maybe a degree maybe much more, maybe much less. How much the beam turns and how tightly it turns depends on the strength of the magnetic field and how long the beam is passing through the field and also, one more factor we need to mention now. The force on the beam depends not only on the strength of the magnetic field and the charge of the particles, but it also depends of the speed of the particle, the faster the beam is going, the stronger the force on it. The magnetic force on a beam much more complicated than the electric field force. 
 
