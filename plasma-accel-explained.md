@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Plain English expositions of plasma acceleration research paers
+title: Plain English expositions of plasma acceleration research papers
 ---
 
 
