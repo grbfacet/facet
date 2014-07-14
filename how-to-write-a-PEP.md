@@ -5,7 +5,7 @@ pagetype: reference
 ---
 
 
-This how-to presentation assumes the writer is an expert on the research paper. We begin the description by describing some organizational thinking to be done. Do not begin by starting to write text. Instead just make notes addressing the next few questions we present. 
+This how-to presentation assumes the writer is an expert on the research paper. We begin the description by describing some organizational thinking to be done by you, the writer. Do not begin by starting to write text. Instead just make notes addressing the next few questions we present. 
 
 
 #### Organizing the exposition
@@ -18,6 +18,9 @@ Finally, try to find some human interest story in the actually history of the re
 
 Once this overall framework is worked out it is time to turn to developing the exposition but again, just make notes to yourself, dont's start writing text. Study the research paper and think about how you would explain it to someone begining with the descriptions developed above about key results, broader context and human interest. Think about what general physics concepts will also need to be explained. Try to organize those necessary physics concepts into a few tutorials that can standalone as explanations of the physics concepts.  (If you are trying to do this for another field, say biology, all the same ideas apply, just replace "physics" with "biology".) Think about how to tailor the physics tutorials to the needs of the explanation, that is, they should be both general and focused. In the energy doubling example, relativity obviously is essential to understaing high energy particles but we have kept the focus just on the mass formula but discussed it in some breadth and detail to maintain the drill down deep aspect of a research paper. 
 
+
+#### Now start to write
+
 Having thought about and worked out a coherent approach to these organizational issues and having made good notes on all your thoughts about them, it is finally time to start trying to write material. But don't rush to start writing anything but notes to yourself until you have developed a good starting roadmap to guide your writing. You will be writing a few different documents: an explanation ("exposition") of the research paper and a few clearly idenified tutorial subjects. As you write you will find ideas coming to you about any one of these documents and with each document you will find your awareness of various subsections they will require coming to mind. Feel free to jump from one document to another to write explanations as you have ideas. If an idea occurs to you and you can't work on the project at that time be sure to make a note of the idea that has enough detail that you can recall it later when you do have time to write. For this it pays to carry some kind of note taking material: a small paper pad and pen, a small voice recorder, an app on your smartphone, etc.
 
 Now begin to write each document. You will probably find that sometimes it is not clear where a particular explanation belongs as it may overlap more than one document. Just pick the most natural place to put it at the present stage of devlopment and know that once you have rough drafts of all the documents that there will be a necessity to do some moving of content between documents as a part of the editing and revision process. 
@@ -25,7 +28,7 @@ Now begin to write each document. You will probably find that sometimes it is no
 If you intend to write more than one research paper exposition on the subject, think about the tutorials serving all the expositions. Each different research paper is nevertheless based on the same basic physics so for each tutorial subject write them in a way that they can be referenced by all the expositions. This may mean expanding a tutorial when you begin work on a second research paper exposition. 
 
 
-#### ON editing
+#### On editing
 
 Some thoughts on editing: The best writing is writing that flows for the reader. When you read a novel you want your mind to stay immersed in the story. You don't want "bumps" where you suddenly become aware that there was an author who wrote what you are reading. Perhaps you are taken out of the story this way because something suddenly doesn't make any sense and you are asking yourself, "what does the author mean?" Or perhaps, the author has tossed in something that distracts you in some other way, for example, reading a newspaper story you suddenly realize the author has just said something that makes you aware they have some kind of bias. 
 
