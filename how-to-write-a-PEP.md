@@ -5,7 +5,7 @@ pagetype: reference
 ---
 
 
-This how-to presentation assumes the writer is an expert on the research paper. We begin the description by describing some organizational thinking to be done by you, the writer. Do not begin by starting to write text. Instead just make notes addressing the next few questions we present. 
+This how-to presentation assumes the writer is an expert on the research paper. We begin the description by describing some organizational thinking to be done by you, the writer. Do not begin by starting to write text. Instead just make notes addressing the next few questions we present. Also, as you work on this project start to make a list of possible guinea pigs you might ask to read your work when you have completly polished it.
 
 
 #### Organizing the exposition
@@ -43,4 +43,6 @@ If you intend to create web pages and use hyperlinks you will need to get some t
 
 Once you get the material in the form of a good first draft, and before you convert them to web pages start putting in the documents where you want to have links. That means in one document, mostly the exposition, you will have a link to a location in anothere document, usually a tutorial. If all the documents have been organized into subsections, it will usually work to have a link that goes to a subsection in another document. Noting where all the links originate and where they go to can be done in your text editor before you convert the documents to web pages. Again, the principle is to do as much as possible in a text editor beofre "webifying" your documents because they are a lot harder to read and edit once they are cluttered up with web page html code. To indicate links in the text editor simply stick in your exposition something like [link to bunch integrity section/relativity tutorial] that will later be replaced with the proper html code for the link once the document is in web page format. 
 
+#### Your guinea pigs
 
+Do not ask your test guineq pigs to look at your work until you have it completely polished and ready to go. You don't want them to give you feedback on things you already knew yourself needed work. That will distract them from giving you new and helpful insights. On the other hand, it does help to have someone who can read over your draft work to help you catch various kinds of mistakes and errors. Have at least one other expert read it over with great care to spot any subject matter errors, calculational mistakes, etc. 
