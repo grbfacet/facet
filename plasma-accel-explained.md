@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Plain English expositions of plasma acceleration research apers
+title: Plain English expositions of plasma acceleration research papers
 ---
 
 
@@ -9,13 +9,13 @@ Academic research papers published in professional journals for experts are noto
 
 One possibility is that the subject of the research itself is difficult to understand. Oftentimes very complex research equipment and advanced mathematics as well as years of training are required to do the research so it shouldn’t be a surprise if the subject of the research itself is difficult to understand. A look at research papers tends to support this idea. They contain terminology: nouns, verbs, adjectives and equations, all of which are incomprehensible to the point it is even hard to make out the structure of a sentence sometimes. Doesn’t this prove the subject matter under study must be difficult to understand?
 
-Or one might hope beyond hope that perhaps the subject matter is actually comprehensible to a non-specialist if it is explained in plain English. Perhaps all that jargon is actually just cryptic shorthand to expedite communication between experts. People with very ordinary jobs doing nothing more difficult to understand than cooking and serving in a highly organized fast food store often use shorthand jargon. In a restaurant you might have heard something like “refill 13B”. That’s shorthand for “the patron at table number 13 sitting in the B seat needs more coffee.” Once you know what the jargon means, it is easy to understand.
+Or one might hope beyond hope that perhaps the subject matter is actually comprehensible to a non-specialist if it is explained in plain English. Perhaps all that jargon is actually just cryptic shorthand to expedite communication between experts. People with very ordinary jobs doing nothing more difficult to understand than cooking and serving in a highly organized fast food store often use shorthand jargon. In a restaurant you might have heard something like, “refill 13B”. Maybe that’s shorthand for “the patron at table number 13 sitting in the B seat needs more coffee.” Once you know what the jargon means, it is easy to understand.
 
-We believe the latter is the correct explanation for the obscurity of a great deal of published research. Richard Feynman, a Nobel Prize winning American physicist in the 20th century, also known for his teaching ability, said that if he couldn’t explain an idea to laymen, it meant he didn’t truly understand it himself.
+We believe the latter is the correct explanation for the obscurity of a great deal of published research. Richard Feynman, a Nobel Prize winning American physicist in the 20th century, also known for his teaching ability, said if he couldn’t explain an idea to laymen, it meant he didn’t truly understand it himself.
 
 We have endeavored to demonstrate this second explanation for the obscurity of research papers by presenting plain English expositions of some research papers about the development of plasma based particle accelerators.
 
-The approach of the presentations is top-down, first get an overview of the forest then delve into increasing levels of detail, the trees. There are three documents used to make the presentation of each research paper. First there is the research paper itself. Second, there is the plain English exposition of the contents of the paper. Third, there are physics tutorials to provide important physics background for the paper. The expositions and the tutorials have the layered top-down structure.
+The approach of the presentations is top-down, first get an overview of the forest then delve into increasing levels of detail, the trees. There are three kinds of documents used to make the presentation of each research paper. First, there is the research paper itself. Second, there is the plain English exposition of the contents of the paper. Third, there are physics tutorials to provide important physics background for the paper. The exposition and the tutorials have the layered top-down structure.
 
 We suggest the following approach to using the material: The first question is your personal preference regarding following documentation, some people prefer printed copy and some people prefer to read on the computer screen. The presentations involve some going back and forth between documents. Having at least a color copy of the research paper will probably work best for most people, especially if you have to pop windows up and down to switch documents.
 
