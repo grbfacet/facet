@@ -4,6 +4,8 @@ title: Plain English expositions of plasma acceleration research papers
 ---
 
 
+Caveat: The DZero plain english paper was meant to be a substitute for the journal paper, the paper without the jargon. Our plain english expositions are not meant as alternatives to the journal paper. In our view the goal is to be able to read the journal paper and understand it. 
+
 
 Academic research papers published in professional journals for experts are notoriously inaccessible to all but a narrow field of specialists. Why is this? Two possible explanations are obvious candidates.
 
