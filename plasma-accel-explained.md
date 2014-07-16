@@ -3,10 +3,6 @@ layout: default
 title: Plain English explanations of plasma acceleration research papers
 ---
 
-
-Caveat: The DZero plain english paper was meant to be a substitute for the journal paper, a replacement paper without the jargon. Our plain english explanations are not meant as alternatives to the journal paper. In our view, the goal is to be able to read the journal paper and understand it. 
-
-
 Academic research papers published in professional journals for experts are notoriously inaccessible to all but a narrow field of specialists. Why is this? Two possible explanations are obvious candidates.
 
 One possibility is that the subject of the research itself is difficult to understand. Oftentimes very complex research equipment and advanced mathematics as well as years of training are required to do the research so it shouldn’t be a surprise if the subject of the research itself is difficult to understand. A look at research papers tends to support this idea. They contain terminology: nouns, verbs, adjectives and equations, all of which are incomprehensible to the point it is even hard to make out the structure of a sentence sometimes. Doesn’t this prove the subject matter under study must be difficult to understand?
