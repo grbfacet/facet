@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Plain English Expositions
+title: Plain English Explanations
 pagetype: reference
 ---
 
-### Plain English Expositions
+### Plain English Explanations
 
 This is an experiment in communicating detailed scientific research to the interested general public. It is based on a concept suggested by the DZero Collaboration at Fermilab in the 1990s, the Plain English Paper. They astutely recognized that science proceeds by establishing and publishing specific focused results and these results are self-contained packets of information. But they are written in arcane jargon. 
 
@@ -12,14 +12,14 @@ Caveat: The DZero plain english paper was meant to be a substitute for the journ
 
 The DZero Plain English Paper idea did not catch on, even at DZero. We believe the idea was sound but, as is often the case, the first attempts to implement a new idea can be flawed. Edison famously tried hundreds of versions of the incandescent light bulb before hitting upon the implementation that has lighted homes for a hundred years. Our implementation of the Plain English idea differs in important ways from the DZero version. Our version is based on an analysis of what worked and what didn’t work in the DZero version so we owe much credit to them if what we have developed here works.
 
-DZero set brevity to be their standard for what constituted a useful Plain English Paper. It should be only a single normal 8.5x11 page in length. It’s just not possible to give a good exposition in one short page. You will see here in our version of the Plain English exposition how much material is required to give our exposition. We set a different standard, namely, that you should be able to read and understand the original journal paper. And to do that requires a lot of exposition. We have actually built in a few levels of possible “understanding” by giving you options to start with a very basic understanding and then go deeper and deeper if you choose.
+DZero set brevity to be their standard for what constituted a useful Plain English Paper. It should be only a single normal 8.5x11 page in length. It’s just not possible to give a good explanation in one short page. You will see here in our version of the Plain English explanation how much material is required to fully explain the research. We set a different standard, namely, that you should be able to read and understand the original journal paper. And to do that requires a lot of explanation. We have actually built in a few levels of possible “understanding” by giving you options to start with a very basic understanding and then go deeper and deeper if you choose.
 
 To help elucidate concepts we use two web page text devices, hover and hyperlinks to additional material. By hovering the mouse over text marked xxx you can get a pop up short explanation. By following a hyperlink to another document you can get a more detailed discussion of a concept.
 
 
-We want to give you a quantitative mathematical feel for the physics involved but when we use math in this exposition we will limit it to arithmetic and algebra, especially the use of exponents. Regarding calculus we will simply use one important result from calculus, the Taylor’s expansion, although we offer a primer on how calculus would apply if we moved beyond arithmetic and algebra. 
+We want to give you a quantitative mathematical feel for the physics involved but when we use math in these explanations we will limit it to arithmetic and algebra, especially the use of exponents. Regarding calculus we will simply use one important result from calculus, the Taylor’s expansion, although we offer a primer on how calculus would apply if we moved beyond arithmetic and algebra. 
 
-If you dislike studying material on a screen you can print out the research paper, the plain English exposition of the paper and the physics tutorial. Each can be read separately but the plain English exposition and the tutorial are linked by references (hyperlinks) from the English exposition into the physics tutorial. Your printed versions will allow you to follow these links. 
+If you dislike studying material on a screen you can print out the research paper, the plain English explanation of the paper and the physics tutorial. Each can be read separately but the plain English explanation and the tutorial are linked by references (hyperlinks) from the English explanation into the physics tutorial. Your printed versions will allow you to follow these links. 
 
 ### An interesting quote from a Congressional leader:
 
