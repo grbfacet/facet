@@ -8,6 +8,7 @@ pagetype: reference
 
 This is an experiment in communicating detailed scientific research to the interested general public. It is based on a concept suggested by the DZero Collaboration at Fermilab in the 1990s, the Plain English Paper. They astutely recognized that science proceeds by establishing and publishing specific focused results and these results are self-contained packets of information. But they are written in arcane jargon. 
 
+Caveat: The DZero plain english paper was meant to be a substitute for the journal paper, a replacement paper without the jargon. Our plain english explanations are not meant as alternatives to the journal paper. In our view, the goal is to be able to read the journal paper and understand it.
 
 The DZero Plain English Paper idea did not catch on, even at DZero. We believe the idea was sound but, as is often the case, the first attempts to implement a new idea can be flawed. Edison famously tried hundreds of versions of the incandescent light bulb before hitting upon the implementation that has lighted homes for a hundred years. Our implementation of the Plain English idea differs in important ways from the DZero version. Our version is based on an analysis of what worked and what didn’t work in the DZero version so we owe much credit to them if what we have developed here works.
 
