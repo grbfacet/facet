@@ -4,7 +4,7 @@ title: Plain English explanations of plasma acceleration research papers
 ---
 
 
-Caveat: The DZero plain english paper was meant to be a substitute for the journal paper, a replacement paper without the jargon. Our plain english expositions are not meant as alternatives to the journal paper. In our view, the goal is to be able to read the journal paper and understand it. 
+Caveat: The DZero plain english paper was meant to be a substitute for the journal paper, a replacement paper without the jargon. Our plain english explanations are not meant as alternatives to the journal paper. In our view, the goal is to be able to read the journal paper and understand it. 
 
 
 Academic research papers published in professional journals for experts are notoriously inaccessible to all but a narrow field of specialists. Why is this? Two possible explanations are obvious candidates.
@@ -15,7 +15,7 @@ Or one might hope beyond hope that perhaps the subject matter is actually compre
 
 We believe the latter is the correct explanation for the obscurity of a great deal of published research. Richard Feynman, a Nobel Prize winning American physicist in the 20th century, also known for his teaching ability, said if he couldn’t explain an idea to laymen, it meant he didn’t truly understand it himself.
 
-We have endeavored to demonstrate this second explanation for the obscurity of research papers by presenting plain English expositions of some research papers about the development of plasma based particle accelerators.
+We have endeavored to demonstrate this second explanation for the obscurity of research papers by presenting plain English explanations of some research papers about the development of plasma based particle accelerators.
 
 The approach of the presentations is top-down, first get an overview of the forest then delve into increasing levels of detail, the trees. There are three kinds of documents used to make the presentation of each research paper. First, there is the research paper itself. Second, there is the plain English explanation of the contents of the research paper. Third, there are physics tutorials to provide important physics background for the paper. The explanation and the tutorials have the layered top-down structure.
 
@@ -34,7 +34,7 @@ After we have presented the material to help you understand the energy doubling 
 
 
 
-<p>Here is a link to <a href="/plain-english-papers.html">more about the history and philosophy of plain English expositions</a></p>
+<p>Here is a link to <a href="/plain-english-papers.html">more about the history and philosophy of plain English explanations</a></p>
 
 <p>To get started on learning more about plasma acceleration go here <a href="/energy-doubling-exposition.html">Energy doubling research paper explained</a></p>
 
