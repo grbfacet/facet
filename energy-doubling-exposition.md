@@ -1,19 +1,19 @@
 ---
 layout: default
-title: The Plain English exposition of the Beam Energy Doubling research paper
+title: The Plain English explanation of the Beam Energy Doubling research paper
 ---
 
 ### Overview
 
-Here is our suggestion for how to approach the energy doubling paper. It is based on the fact that this exposition, like the research paper itself, contains a lot of interconnected information and you will need to go over the information repeatedly to make those connections:
+Here is our suggestion for how to approach the energy doubling paper. It is based on the fact that this explanation, like the research paper itself, contains a lot of interconnected information and you will need to go over the information repeatedly to make those connections:
 
 1. If you don’t like reading from a computer screen, there are documents we recommend you print off before you begin so you can make notes and make it easier to switch back and forth between them:
    1. The research paper. (We strongly reccommend that you, at least, print a color copy of the research paper.)[link]
-   1. This document you are reading now – the plain English exposition of the beam energy doubling paper.
-   1. The physics tutorials that go along with this plain English exposition.[links]
-2. Read this plain English exposition and follow the suggestions that are made along the way to stop perioically and look at the research paper and rate your level of understanding each time you look at the research paper. On this first reading skip over the sections that are indicated to be details. Also skip the hyperlinks to the relevant tutorial sections.
+   1. This document you are reading now – the plain English explanation of the beam energy doubling paper.
+   1. The physics tutorials that go along with this plain English explanation.[links]
+2. Read this plain English explanation and follow the suggestions that are made along the way to stop perioically and look at the research paper and rate your level of understanding each time you look at the research paper. On this first reading skip over the sections that are indicated to be details. Also skip the hyperlinks to the relevant tutorial sections.
 3. Then, read the physics tutorials but skip over the calculations.
-4. If you followed steps 2 and 3, you have gone over all the plain English material once (the paper exposition and the tutorials) and you have looked at the research paper a few times. In order to deepen your understanding you can repeat steps 2 and 3 but this time read through the details sections you skipped on the first reading of the exposition and read the calculations in the tutorial that you skipped over on the first reading of the tutorial. Continue to rate your understanding each time you look at the research paper.
+4. If you followed steps 2 and 3, you have gone over all the plain English material once (the paper explanation and the tutorials) and you have looked at the research paper a few times. In order to deepen your understanding you can repeat steps 2 and 3 but this time read through the details sections you skipped on the first reading of the explanation and read the calculations in the tutorial that you skipped over on the first reading of the tutorial. Continue to rate your understanding each time you look at the research paper.
 5. Finally, to experience what it is like to actually understand physics equations you can repeat all the tutorial calculations yourself with paper and pencil. If you do this exercise you will find that you can just look at the Einstein mass formula and understand what it says the way a physicist sees it.   
 6. It is also an option to just skip around all the material according to your own instincts and look at selected topics.
 
@@ -21,7 +21,7 @@ Here is our suggestion for how to approach the energy doubling paper. It is base
 
 We begin with an explanation of an important research paper from the plasma acceleration research at the SLAC research lab’s FFTB facility, FACET’s predecessor research facility. To give you a sense of how much you can understand what may seem like an arcane research paper, let’s do some before and after measurements. Before you go any further, take a look at the research paper we are going to explain. If you haven't aready printed a copy, either open the paper in a new browser tab [link] or color print it. Printing may be the easiest way to go back and forth between the journal paper and the interpretative information given here. Also you will be able to mark on the printed copy to make notes for yourself. Look it over, try to read parts of it and notice how much or little you can understand and notice if you tend to think something like, “I could never understand this.” Then come back here and we will explain the paper and have you look at it again a few times during this process and you can watch how your understanding increases and see that it is indeed within your capability to understand without needing a PhD in physics. Look at the research paper now and then come back here. Here’s a link to the paper if you didn't print it [link]. 
 
-Welcome back. On a scale from 0-10 how much did you understand? Make a note of this number and as you continue reading the Plain English exposition we will periodically have you look again at the research paper and ask for more 0-10 ratings so you can see if your understanding is progressing. Now let’s begin the explanation of the paper. 
+Welcome back. On a scale from 0-10 how much did you understand? Make a note of this number and as you continue reading the Plain English explanation we will periodically have you look again at the research paper and ask for more 0-10 ratings so you can see if your understanding is progressing. Now let’s begin the explanation of the paper. 
 
 ### Background
 
@@ -129,7 +129,7 @@ As noted in the research paper, two plasma accelerators were studied, one with a
 
 ### Where to next?
 
-There is more about this plasma acceleration energy doubling experiment to be explained but we will do that in our expositions of some of the earlier experiments that led up to this result. The same basic issues and technologies were involved in those earlier papers, so by studying a few of the papers you should be able to get a pretty good grounding in the plasma research project at FACET. 
+There is more about this plasma acceleration energy doubling experiment to be explained but we will do that in our explanations of some of the earlier experiments that led up to this result. The same basic issues and technologies were involved in those earlier papers, so by studying a few of the papers you should be able to get a pretty good grounding in the plasma research project at FACET. 
 
 We have begun the story of plasma acceleration _en medias res_, in the middle, with the energy doubling experiment. It is natural to ask questions about how the research has reached this point. But we emphasize "in the middle" because the research is on going and it is natural to ask where the research is going. For example, it is typically very desirable to have an accelerated beam of particles all have the same energy for most applications and in this experiment we have seen that although enormous gains have been made in creating accelerating gradients the result is a wide spread of beam particle energies. 
 
