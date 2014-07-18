@@ -87,8 +87,7 @@ You’ve had a more focused and assisted look at the paper now. Some questions t
 1.	Why did the plasma accelerator double the beam energy? Why not triple? Why not only a half-fold increase? 
 2.	Where does the additional energy come from to increase the energy of some of the electrons? 
 
-Conservation of energy says it doesn’t come out of nothing. The Linac is driven by a megawatt power system, the plasma accelerator has no power input at all except the heat to keep the Lithium vaporizeed and the second law of thermodynamics says you can’t directly convert heat to organized energy of motion in this type of situation, so the extra beam energy cannot come from the heat of the plasma.
-Think about these questions and try to come up with an answer. Actually the answers are implicit but right on the surface of the first paragraph of the paper. As we go on from here you will learn if your answers were correct. 
+Conservation of energy says the additional energy doesn’t come out of nothing. The Linac is driven by a megawatt power system, the plasma accelerator has no power input at all except the heater to keep the Lithium vaporized. The second law of thermodynamics says you can’t directly convert heat to organized energy of motion in this type of situation, so the extra beam energy cannot come from the heat of the plasma. Think about these questions and try to come up with an answer. Actually the answers are implicit but right on the surface of the first paragraph of the paper. As we go on from here you will learn if your answers were correct. 
 
 The paper has two major sections. There are two plus pages of discussion of the results of the experiment and that is followed by a Methods section which actually explains the experiment so we will focus on the Methods section now. 
 
