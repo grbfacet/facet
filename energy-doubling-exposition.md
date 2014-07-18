@@ -87,23 +87,30 @@ You’ve had a more focused and assisted look at the paper now. Some questions t
 1.	Why did the plasma accelerator double the beam energy? Why not triple? Why not only a half-fold increase? 
 2.	Where does the additional energy come from to increase the energy of some of the electrons? 
 
-Conservation of energy says the additional energy doesn’t come out of nothing. The Linac is driven by a megawatt power system, the plasma accelerator has no power input at all except the heater to keep the Lithium vaporized. The second law of thermodynamics says you can’t directly convert heat to organized energy of motion in this type of situation, so the extra beam energy cannot come from the heat of the plasma. Think about these questions and try to come up with an answer. Actually the answers are implicit but right on the surface of the first paragraph of the paper. As we go on from here you will learn if your answers were correct. 
+Conservation of energy says the additional energy doesn’t come out of nothing. The Linac is driven by a megawatt power system, but the plasma accelerator has no power input at all except the heater to keep the Lithium vaporized. The second law of thermodynamics says you can’t directly convert heat to organized energy of motion in this type of situation, so the extra beam energy cannot come from the heat of the plasma. Think about these questions and try to come up with an answer. Actually the answers are implicit but right on the surface of the first paragraph of the paper. As we go on from here you will learn if your answers were correct. 
 
-The paper has two major sections. There are two plus pages of discussion of the results of the experiment and that is followed by a Methods section which actually explains the experiment so we will focus on the Methods section now. 
+
+### The Methods section of the paper
+
+The paper has two major sections. There are two plus pages of discussion of the results of the experiment and that is followed by a Methods section which actually explains the experimental setup so we will focus on the Methods section now. 
 
 We can get an overview of this experiment by considering the four topics of the Methods section, each one describing an element of the experiment. The first element is the electron beam from the Linac and it is described in the first topic, Electron Pulse. The second element is the plasma accelerator described in the second topic, Plasma generation. The third element of how the final beam energy coming out of the plasma accelerator was measured is described in the third topic, Energy measurement. These three elements of the experiment are displayed in the Figure 1 schematic of the experiment. So far so good, but what is the fourth topic on simulation about? 
 
-You know the scientific method usually involves testing a theory; we make a prediction using theory and then we make a measurement and see if it agrees with the theory. If so, the theory is supported; if not, then some serious thinking is required to find out whether something went wrong in the experiment or whether the theory is wrong (or perhaps, the theory is correct but was incorrectly applied in some way.) For physics we tend to think of theory prediction as a matter of solving equations. Sometimes when complex phenomena are involved a computer program is written that “simulates” the theory. In this case a program that incorporates some of the known relevant physics of plasma acceleration was used to predict approximately what would happen. 
+You know the scientific method usually involves testing a theory: we make a prediction using theory and then we make a measurement and see if it agrees with the theory. If they agree, the theory is supported; if not, then some serious thinking is required to find out whether something went wrong in the experiment or whether the theory is wrong or, perhaps, the theory is correct but was incorrectly applied in some way. For physics we tend to think of theory prediction as a matter of solving equations. Sometimes when complex phenomena are involved a computer program is written that “simulates” how theory applies to the situation. In this case a program that incorporates some of the known relevant physics of plasma acceleration was used to predict approximately what would happen. 
 
-Figure 1 is a very simple schematic of the apparatus involved. It shows the beam, the plasma accelerator and the energy measurement apparatus consisting a magnet that bends the beam and two screens that record the direction of the beam. The second figure set displays the measurement, what was seen on the screen and also shows what the simulation predicted, by displaying them together it compares theory and experiment. The third figure set displays information about the simulation. Go back to the paper again and briefly scan it. Look at the first figure and read its caption. Read each of the four methods sections and come back here. Make your third 0-10 rating on your understanding. 
+Figure 1 is a very simple schematic of the apparatus involved. It shows the beam, the plasma accelerator and the energy measurement apparatus consisting a magnet that bends the beam and two screens that record the direction of the beam. The second figure set displays the measurement, what was seen on the screen and also shows what the simulation predicted, by displaying them together it compares theory and experiment. The third figure set displays information about the simulation. Go back to the paper again and briefly scan it. Look at the first figure and read its caption. Read each of the four methods sections and come back here. 
+
+Make your third 0-10 rating on your understanding. 
 
 Are you starting to think the paper actually might be within your ability to understand with some more explanation? By now you should be feeling a little more familiar with this paper. And if you have delved into more than the bare minimum we have suggested to look at, you might be feeling that although you are starting to get the big picture, the details are still pure Greek. Journals are expensive to produce because they have limited circulation. For that reason and others, brevity and concise writing are required. Many journals have a word limit and authors will spend a lot of time figuring out how to present as much information as they can in as few words as possible. If the energy doubling paper seems dense, that’s because it is dense. 
 
-Let’s take a moment and boil this all down to the experimental method of science. The basic pattern is 
-1)	A theory (expressed in the simulation shown in Figure 3) makes predictions (shown in Figure 2b)
-2)	The predictions are tested in an experiment (by the apparatus summarized in the Figure 1 schematic). 
-3)	The results of the experiment are a measurement (Figure 2a shows data that was projected on the screen shown in Figure 1). 
-4)	The actual measurement is compared with the theory (Figure 2b). 
+Let’s take a moment and boil this all down to the experimental method of science. The basic pattern is
+
+1.	A theory (expressed in the simulation shown in Figure 3) makes predictions (shown in Figure 2b)
+2.	The predictions are tested in an experiment (by the apparatus summarized in the Figure 1 schematic). 
+3.	The results of the experiment are a measurement (Figure 2a shows data that was projected on the screen shown in Figure 1). 
+4.	The actual measurement is compared with the theory (Figure 2b). 
+
 The figures mentioned with each of the cardinal four steps described above are, of course, supplemented in the text with much more explanation. It is useful to orient yourself with these basic four parts of a scientific experiment and see that their presence in the paper provides the paper with its ultimate meaning and purpose. 
 
 ### More specifics on some important issues covered in the paper
