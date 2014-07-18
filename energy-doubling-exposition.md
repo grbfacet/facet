@@ -70,10 +70,12 @@ Writing the research paper can be an important part of the research since it req
 Let’s return our focus to the research paper. In a moment we will send you back to look again at the paper and, based on what you’ve read since that first look, see if you can at least understand that the paper is about energy doubling of beam electrons. Notice all the jargon that means nothing to you but try to see that it is mainly describing the details of how the experiment was conducted.  
 
 First notice the structure of the paper: There is a title and a list of authors. The paper is in a common format for research papers, double column. The text begins with the abstract, the long paragraph in bold face type, a kind of executive summary. Based on what you know now you should be able to understand much of this opening paragraph. Notice there are three sets of figures in the paper. Notice beginning on page three in the second part of the paper there is a section called Methods and that section has four sub-sections: 
+
 1. Electron pulse, 
 2. Plasma generation, 
 3. Energy Measurement and 
 4. Simulation. 
+
 At the end of the paper are the references to other research cited in the paper. 
 
 Read the opening paragraph and peruse the rest of the paper again. See what you can understand based on what you know so far, get a feel for it then come back and we will explain the experiment in more detail and then you will be able to go back again and actually read the paper with a deeper level of comprehension. So have another look and come back here again. Here’s the [link] again to the energy doubling paper.  
@@ -81,8 +83,11 @@ Read the opening paragraph and peruse the rest of the paper again. See what you 
 Welcome back. Now that you’ve looked at the paper a second time rate your current sense of understanding on the 0-10 scale once again and write it down with your previous number. Have you made any progress?
 
 You’ve had a more focused and assisted look at the paper now. Some questions that might have occurred to you (it always helps when studying something to have questions in your mind as you read):
+
 1.	Why did the plasma accelerator double the beam energy? Why not triple? Why not only a half-fold increase? 
-2.	Where does the additional energy come from to increase the energy of some of the electrons? Conservation of energy says it doesn’t come out of nothing. The Linac is driven by a megawatt power system, the plasma accelerator has no power input at all except the heat to keep the Lithium vaporizeed and the second law of thermodynamics says you can’t directly convert heat to organized energy of motion in this type of situation, so the extra beam energy cannot come from the heat of the plasma.
+2.	Where does the additional energy come from to increase the energy of some of the electrons? 
+
+Conservation of energy says it doesn’t come out of nothing. The Linac is driven by a megawatt power system, the plasma accelerator has no power input at all except the heat to keep the Lithium vaporizeed and the second law of thermodynamics says you can’t directly convert heat to organized energy of motion in this type of situation, so the extra beam energy cannot come from the heat of the plasma.
 Think about these questions and try to come up with an answer. Actually the answers are implicit but right on the surface of the first paragraph of the paper. As we go on from here you will learn if your answers were correct. 
 
 The paper has two major sections. There are two plus pages of discussion of the results of the experiment and that is followed by a Methods section which actually explains the experiment so we will focus on the Methods section now. 
