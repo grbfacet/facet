@@ -5,7 +5,7 @@ title: Home page
 
 This is the home page for the plain english approach to detailed layman's explanations of FACET's plasma acceleration research.
 
-To get started on learning more about the plain english exposition approach to explaining plasma acceleration go here [Plasma acceleration explained](/plasma-accel-explained.html).
+To get started on learning more about the Plain English explanation approach to explaining plasma acceleration go here [Plasma acceleration explained](/plasma-accel-explained.html).
 
 
 ### Research Papers:
@@ -13,7 +13,7 @@ To get started on learning more about the plain english exposition approach to e
 [Energy doubling of 42 GeV electrons in a metre-scale plasma wakefield accelerator](/slac-pub-12363.pdf)
 
 
-### Plain English research paper expositions:
+### Plain English research paper explanations:
 
 [Energy doubling research paper explained](/energy-doubling-exposition.html)
 
@@ -31,8 +31,8 @@ To get started on learning more about the plain english exposition approach to e
 
 ### Plain English Concepts:
 
-[More on the history and philosophy of plain English exposition](/plain-english-papers.html)
+[More on the history and philosophy of Plain English explanations](/plain-english-papers.html)
 
-[How to write a Plain English Explanation](/how-to-write-a-PEP.html)
+[How to write a Plain English explanation](/how-to-write-a-PEP.html)
 
 
