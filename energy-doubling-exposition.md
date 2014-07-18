@@ -92,7 +92,7 @@ Conservation of energy says the additional energy doesn’t come out of nothing.
 
 ### The Methods section of the paper
 
-The paper has two major sections. There are two plus pages of discussion of the results of the experiment and that is followed by a Methods section which actually explains the experimental setup so we will focus on the Methods section now. 
+The paper has two major sections. After the bold face first paragraph, the abstract, there are two plus pages of discussion of the results of the experiment and that discussion is followed by a Methods section which actually explains the experimental setup so we will focus on the Methods section now. 
 
 We can get an overview of this experiment by considering the four topics of the Methods section, each one describing an element of the experiment. The first element is the electron beam from the Linac and it is described in the first topic, Electron Pulse. The second element is the plasma accelerator described in the second topic, Plasma generation. The third element of how the final beam energy coming out of the plasma accelerator was measured is described in the third topic, Energy measurement. These three elements of the experiment are displayed in the Figure 1 schematic of the experiment. So far so good, but what is the fourth topic on simulation about? 
 
