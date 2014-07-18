@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Plain English explanations of plasma acceleration research papers
+pagetype: reference
 ---
 
 Research papers published in professional journals for experts are notoriously inaccessible to all but a narrow field of specialists. Why is this? Two possible explanations are obvious candidates.
