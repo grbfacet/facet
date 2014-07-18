@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tutorial - principles of physics
+title: Tutorial - Principles of physics
 pagetype: tutorial
 ---
 
