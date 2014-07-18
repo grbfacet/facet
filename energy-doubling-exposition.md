@@ -115,11 +115,11 @@ The figures mentioned with each of the cardinal four steps described above are, 
 
 We have reviewed the purpose, organization and meaning of the paper. Now take some time and study the material: Read the tutorials skipping the calculations. Then read through the research paper again, this time following the links to the tutorial information. Finally, reread this explanation page up to this point and try to get an overall understanding of the research paper. 
 
-When you've finished make another 0-10 rating of your understanding. 
+When you've finished make another 0-10 rating of your understanding. See how far you have come since your first look at the paper. Have you confirmed our contention yet that research is understandable? 
 
 You should have a pretty good idea of what the paper is saying but many details will still be unclear. To go deeper in your understanding continue reading further in this explanation.
 
-### More details on some important issues covered in the paper
+### More details on some important issues covered in the paper (skip this section on first reading)
 
 
 Figure 2 shows the energy spread of the electrons in the bunch after they have passed through the plasma accelerator. Notice the horizontal scale is electron energy in GeV and the scale goes from 35 GeV on the left to 100 GeV on the right. There are electrons with energy below 35 GeV but they are simply not shown. The spread of energies in Figure 2a should not be misinterpreted as the faster electrons somehow being ahead of the lower ones. It is a plot of spread in energy, not a plot of spread in space. It is understandable to expect a spread in space based on ordinary everyday experience. When a car accelerates and goes faster, it gains energy and speed and moves away from slower cars. Not so for electrons with relativistic speeds. See why here– [link].
@@ -132,8 +132,6 @@ Now we understand that the paper title does not mean that a beam at 42 GeV is al
 
 With a very dense bunch of very high energy electrons passing through the Lithium vapor essentially all the Lithium atoms along the beam path have at least one electron ionized. The beam is moving at nearly light speed and leaves an unmoved trail of positive ions in place but the ionized electrons, being far lighter, are pushed away by the negative charge of the beam bunch, that’s the blue cloud in Figure 3.
 
-
-Now take another look at the paper and read through it from beginning to end, rate yourself 0-10 and see how far you have come since your first look at the paper. Have you confirmed our contention yet that research is understandable? 
 
 ### Some Details on the Figures. (skip this section on first reading)
 
