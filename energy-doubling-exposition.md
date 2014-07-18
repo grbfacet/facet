@@ -113,7 +113,13 @@ Let’s take a moment and boil this all down to the experimental method of scien
 
 The figures mentioned with each of the cardinal four steps described above are, of course, supplemented in the text with much more explanation. It is useful to orient yourself with these basic four parts of a scientific experiment and see that their presence in the paper provides the paper with its ultimate meaning and purpose. 
 
-### More specifics on some important issues covered in the paper
+We have reviewed the purpose, organization and meaning of the paper. Now take some time and study the material: Read the tutorials skipping the calculations. Then read through the research paper again, this time following the links to the tutorial information. Finally, reread this explanation page up to this point and try to get an overall understanding of the research paper. 
+
+When you've finished make another 0-10 rating of your understanding. 
+
+You should have a pretty good idea of what the paper is saying but many details will still be unclear. To go deeper in your understanding continue reading further in this explanation.
+
+### More details on some important issues covered in the paper
 
 
 Figure 2 shows the energy spread of the electrons in the bunch after they have passed through the plasma accelerator. Notice the horizontal scale is electron energy in GeV and the scale goes from 35 GeV on the left to 100 GeV on the right. There are electrons with energy below 35 GeV but they are simply not shown. The spread of energies in Figure 2a should not be misinterpreted as the faster electrons somehow being ahead of the lower ones. It is a plot of spread in energy, not a plot of spread in space. It is understandable to expect a spread in space based on ordinary everyday experience. When a car accelerates and goes faster, it gains energy and speed and moves away from slower cars. Not so for electrons with relativistic speeds. See why here– [link].
