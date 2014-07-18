@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tutorial - Beam Acceleration
+pagetype: tutorial
 ---
 
 ### Units of measure prefixes indicate powers of ten:
