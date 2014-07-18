@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Plain English explanations of plasma acceleration research papers
+title: Plain English Explanations of plasma acceleration research papers
 pagetype: reference
 ---
 
