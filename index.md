@@ -31,6 +31,8 @@ To get started on learning more about the plain english exposition approach to e
 
 ### Plain English Concepts:
 
-[Plasma acceleration explained](/plasma-accel-explained.html)
-
 [More on the history and philosophy of plain English exposition](/plain-english-papers.html)
+
+[How to write a Plain English Explanation](/how-to-write-a-PEP.html)
+
+
