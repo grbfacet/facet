@@ -11,17 +11,17 @@ Here is our suggestion for how to achieve an understanding the energy doubling p
 1. If you don’t like reading from a computer screen, you can print the material before you begin:
    1. [The research paper](/slac-pub-12363.pdf). (We reccommend that you, at least, print a color copy of the research paper.)
    1. This document you are reading now – [the Plain English explanation of the beam energy doubling research paper](/energy-doubling-exposition.html).
-   1. The physics tutorials that provide background knowledge for this Plain English explanation.[links]
+   1. The physics tutorials that provide background knowledge for this Plain English explanation.
       1. [Principles of physics](/principles-of-physics-tutorial.html)
       1. [Acceleration of beams](/beam-acceleration-tutorial.html)
       1. [Relativity](/relativity-tutorial.html)
       1. [Control of beam trajectories](/beam-control-tutorial.html)
 2. First, read this Plain English explanation and follow the suggestions that are made along the way to stop perioically and look at the research paper and rate your level of understanding each time you look at the research paper. On this first reading skip over the hyperlinks to the relevant tutorial sections. Also skip the sections that are indicated to be details. .
 3. Then, read all the physics tutorials but skip over the calculations. Read them in this order:
-   1. Principles of physics
-   1. Acceleration of beams
-   1. Relativity
-   1. Control of beam trajectories
+   1. [Principles of physics](/principles-of-physics-tutorial.html)
+   1. [Acceleration of beams](/beam-acceleration-tutorial.html)
+   1. [Relativity](/relativity-tutorial.html)
+   1. [Control of beam trajectories](/beam-control-tutorial.html)
 4. If you followed steps 2 and 3, you have gone over almost all the Plain English material once (the paper explanation and the tutorials). You have also looked at the research paper a few times. In order to deepen your understanding repeat steps 2 and 3 but this time:
    1. Follow the hyperlinks to the tutorials you skipped on first reading and read those linked tutorial sections. 
    1. Read through the details sections you skipped on the first reading of the Plain English explanation. 
