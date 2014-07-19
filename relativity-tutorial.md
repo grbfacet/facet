@@ -18,7 +18,7 @@ The end goal of this tutorial is to explain how the electron particle bunch reta
 
 To lead up to this final result we present information on the Newtonian theory of accelerated moving bodies as well as the Einsteinian relativistic theory and we discuss some general issues about how one theory can replace another over time as science progresses. 
 
-The approach of focusing on a very specific result, the bunch integrity, is in harmony with the idea of looking at a journal paper as focused on one very specific result [link - plain english papers]. We aim to have a very narrow focus and to drill down deep in the tutorials rather than describing a broad array of topics as is typical of textbooks and most scientific expositions written for a lay audience.
+The approach of focusing on a very specific result, the bunch integrity, is in harmony with the idea of looking at a journal paper as focused on [one very specific result.](/plain-english-papers.html#the-concept-and-some-history) We aim to have a very narrow focus and to drill down deep in the tutorials rather than describing a broad array of topics as is typical of textbooks and most scientific expositions written for a lay audience.
 
 We will also present a series of calculations of numerical examples, which increase in difficulty, for the reader who wants to experience the kind of calculations physicists actually do to get quick rough numerical estimations (so called “back of the envelop” or “paper napkin” calculations - called napkin calculations because they take place during lunch.)
 
