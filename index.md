@@ -24,9 +24,9 @@ To get started on learning more about the Plain English explanation approach to 
 
 [Acceleration of particle beams](/beam-acceleration-tutorial.html)
 
-[Control of particle beam motion](/beam-control-tutorial.html)
-
 [Relativity and high energy particle beams](/relativity-tutorial.html)
+
+[Guiding the particle beam trajectory](/beam-control-tutorial.html)
 
 
 ### Plain English Concepts:
