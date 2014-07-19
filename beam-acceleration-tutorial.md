@@ -119,7 +119,7 @@ However, at the atomic level the voltage accelerates the electrons rapidly to hi
 
 <span class="eq">42 x 10<sup>9</sup>/1.5 ≈ 30,000,000,000 (thirty billion!) AA batteries connected in series.</span> 
 
-And 42 GeV takes our electron very close to the speed of light as we show in the relativity tutorial [link]. 
+And 42 GeV takes our electron very close to the speed of light as we show in the [relativity tutorial.](/relativity-tutorial.html#relativity-and-the-acceleration-of-electron-bunches)
 
 
 ##### Plasma acceleration
