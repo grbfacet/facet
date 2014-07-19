@@ -19,11 +19,10 @@ Here is our suggestion for how to achieve an understanding the energy doubling p
    1. Relativity
    1. Control of beam trajectories
 4. If you followed steps 2 and 3, you have gone over almost all the Plain English material once (the paper explanation and the tutorials). You have also looked at the research paper a few times. In order to deepen your understanding repeat steps 2 and 3 but this time:
-   1. follow the hyperlinks to the tutorials you skipped on first reading and read those linked tutorial sections, 
-   1. read through the details sections you skipped on the first reading of the Plain English explanation, 
-   1. read the calculations in the tutorials that you skipped over on the first reading of the tutorials. 
-
-Continue to rate your understanding each time you look at the research paper.
+   1. Follow the hyperlinks to the tutorials you skipped on first reading and read those linked tutorial sections. 
+   1. Read through the details sections you skipped on the first reading of the Plain English explanation. 
+   1. Read the calculations in the tutorials that you skipped over on the first reading of the tutorials. 
+   1. Continue to rate your understanding each time you look at the research paper.
 5. Finally, to experience what it is like to actually understand physics equations you can repeat all the tutorial calculations yourself with paper and pencil. If you do this exercise you will find that you can just look at the Einstein mass formula and understand what it says the way a physicist sees it.   
 6. It is also an option to just skip around all the material according to your own instincts and look at selected topics.
 
