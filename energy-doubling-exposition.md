@@ -4,17 +4,17 @@ title: The Plain English explanation of the Beam Energy Doubling research paper
 pagetype: explanation
 ---
 
-### Overview
+### How to read the material:
 
-Here is our suggestion for how to approach the energy doubling paper. It is based on the fact that this explanation, like the research paper itself, contains a lot of interconnected information and you will need to go over the information repeatedly to make those connections:
+Here is our suggestion for how to achieve an understanding the energy doubling paper research paper. It is based on the fact that this Plain English explanation and the supporting physics tutorials, like the research paper itself, contain a lot of interconnected information. You will need to go over all the information more than once to make all those connections:
 
-1. If you don’t like reading from a computer screen, there are documents we recommend you print off before you begin so you can make notes and make it easier to switch back and forth between them:
-   1. The research paper. (We strongly reccommend that you, at least, print a color copy of the research paper.)[link]
-   1. This document you are reading now – the plain English explanation of the beam energy doubling paper.
-   1. The physics tutorials that go along with this plain English explanation.[links]
-2. Read this plain English explanation and follow the suggestions that are made along the way to stop perioically and look at the research paper and rate your level of understanding each time you look at the research paper. On this first reading skip over the hyperlinks to the relevant tutorial sections. Also skip the sections that are indicated to be details. .
-3. Read all the physics tutorials but skip over the calculations.
-4. If you followed steps 2 and 3, you have gone over almost all the plain English material once (the paper explanation and the tutorials). You have also looked at the research paper a few times. In order to deepen your understanding repeat steps 2 and 3 but this time follow the hyperlinks to the tutorials you skipped on first reading and read those linked tutorial sections, read through the details sections you skipped on the first reading of the explanation, and read the calculations in the tutorial that you skipped over on the first reading of the tutorials. Continue to rate your understanding each time you look at the research paper.
+1. If you don’t like reading from a computer screen, you can print the material before you begin:
+   1. The research paper. (We reccommend that you, at least, print a color copy of the research paper.)[link]
+   1. This document you are reading now – the Plain English explanation of the beam energy doubling research paper.
+   1. The physics tutorials that provide background knowledge for this Plain English explanation.[links]
+2. First, read this Plain English explanation and follow the suggestions that are made along the way to stop perioically and look at the research paper and rate your level of understanding each time you look at the research paper. On this first reading skip over the hyperlinks to the relevant tutorial sections. Also skip the sections that are indicated to be details. .
+3. Then, read all the physics tutorials but skip over the calculations.
+4. If you followed steps 2 and 3, you have gone over almost all the Plain English material once (the paper explanation and the tutorials). You have also looked at the research paper a few times. In order to deepen your understanding repeat steps 2 and 3 but this time follow the hyperlinks to the tutorials you skipped on first reading and read those linked tutorial sections, read through the details sections you skipped on the first reading of the Plain English explanation, and read the calculations in the tutorials that you skipped over on the first reading of the tutorials. Continue to rate your understanding each time you look at the research paper.
 5. Finally, to experience what it is like to actually understand physics equations you can repeat all the tutorial calculations yourself with paper and pencil. If you do this exercise you will find that you can just look at the Einstein mass formula and understand what it says the way a physicist sees it.   
 6. It is also an option to just skip around all the material according to your own instincts and look at selected topics.
 
