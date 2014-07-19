@@ -75,7 +75,7 @@ An electron accelerated freely by a 1.5 volt AA battery would reach a speed of 4
 
 <span class="eq">E<sub>Newton</sub> = ½ m<sub>0</sub>v<sup>2</sup>.</span> 
 
-Relativity effects only begin to become important when particles reach, say 10 percent, at least, of the speed of light. As is explained in the relativity tutorial(/relativity-tutorial.html#where-newton-approximates-einstein)
+Relativity effects only begin to become important when particles reach, say 10 percent, at least, of the speed of light. As is explained in the [relativity tutorial](/relativity-tutorial.html#where-newton-approximates-einstein)
 , the Newtonian formula, E<sub>Newton</sub> = ½ m<sub>0</sub>v<sup>2</sup>, begins to make a significant error only when we approach these “relativistic” speeds. 
 
 4000 times jet speed is pretty fast, a bullet or a baseball with that speed could do a lot of damage but they are very heavy compared to an electron. What about electrons accelerated by the Linac, not just a battery. Remember our 4000 times jet speed was an electron accelerated only by one 1.5 volt AA battery. Can we get a sense of the energy of the 42 GeV electrons in the energy doubling experiment? 
