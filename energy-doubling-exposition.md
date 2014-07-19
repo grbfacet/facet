@@ -12,8 +12,10 @@ Here is our suggestion for how to achieve an understanding the energy doubling p
    1. [The research paper](/slac-pub-12363.pdf). (We reccommend that you, at least, print a color copy of the research paper.)
    1. This document you are reading now – [the Plain English explanation of the beam energy doubling research paper](/energy-doubling-exposition.html).
    1. The physics tutorials that provide background knowledge for this Plain English explanation.[links]
-      1. one
-      1. two
+      1. Principles of physics
+      1. Acceleration of beams
+      1. Relativity
+      1. Control of beam trajectories
 2. First, read this Plain English explanation and follow the suggestions that are made along the way to stop perioically and look at the research paper and rate your level of understanding each time you look at the research paper. On this first reading skip over the hyperlinks to the relevant tutorial sections. Also skip the sections that are indicated to be details. .
 3. Then, read all the physics tutorials but skip over the calculations. Read them in this order:
    1. Principles of physics
