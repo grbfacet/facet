@@ -7,7 +7,8 @@ pagetype: tutorial
 ### Overview
 
 
-Accelerator particle beams are accelerated to higher energies (higher speeds) by the force of electric fields that they are guided to pass through[link]. However, the path the beam follows, the direction the beam moves is controlled by magnetic fields. In both techniques the underlying physics is the theory of Electromagnetism given its final formulation by James Clerk Maxwell in the 1860s. Charged particles experience a force pushing them when they pass through electric and magnet fields although the direction and amount of the two kinds of pushes are quite different. We imagine electric and magnetic fields represented by arrows where the direction the arrow points is the direction of the field and the strength of the field is represented by the length of the arrow, the longer the arrow, the stronger the field. 
+Accelerator particle beams are accelerated to higher energies (higher speeds) by the [force of electric fields](/beam-acceleration-tutorial.html#charged-particles-are-accelerated-by-electric-fields)
+ that they are guided to pass through. However, the path the beam follows, the direction the beam moves is controlled by magnetic fields. In both techniques the underlying physics is the theory of Electromagnetism given its final formulation by James Clerk Maxwell in the 1860s. Charged particles experience a force pushing them when they pass through electric and magnet fields although the direction and amount of the two kinds of pushes are quite different. We imagine electric and magnetic fields represented by arrows where the direction the arrow points is the direction of the field and the strength of the field is represented by the length of the arrow, the longer the arrow, the stronger the field. 
 
 #### The magnetic and electric force laws
 
