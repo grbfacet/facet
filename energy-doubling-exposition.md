@@ -13,7 +13,11 @@ Here is our suggestion for how to achieve an understanding the energy doubling p
    1. This document you are reading now – the Plain English explanation of the beam energy doubling research paper.
    1. The physics tutorials that provide background knowledge for this Plain English explanation.[links]
 2. First, read this Plain English explanation and follow the suggestions that are made along the way to stop perioically and look at the research paper and rate your level of understanding each time you look at the research paper. On this first reading skip over the hyperlinks to the relevant tutorial sections. Also skip the sections that are indicated to be details. .
-3. Then, read all the physics tutorials but skip over the calculations.
+3. Then, read all the physics tutorials but skip over the calculations. Read them in this order:
+   1. Principles of physics
+   1. Acceleration of beams
+   1. Relativity
+   1. Control of beam trajectories
 4. If you followed steps 2 and 3, you have gone over almost all the Plain English material once (the paper explanation and the tutorials). You have also looked at the research paper a few times. In order to deepen your understanding repeat steps 2 and 3 but this time follow the hyperlinks to the tutorials you skipped on first reading and read those linked tutorial sections, read through the details sections you skipped on the first reading of the Plain English explanation, and read the calculations in the tutorials that you skipped over on the first reading of the tutorials. Continue to rate your understanding each time you look at the research paper.
 5. Finally, to experience what it is like to actually understand physics equations you can repeat all the tutorial calculations yourself with paper and pencil. If you do this exercise you will find that you can just look at the Einstein mass formula and understand what it says the way a physicist sees it.   
 6. It is also an option to just skip around all the material according to your own instincts and look at selected topics.
