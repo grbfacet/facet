@@ -37,7 +37,7 @@ And further steps of one thousandth are pico (10<sup>-12</sup>) , femto (10<sup>
 
 ### The electron volt, eV, an atomic sized unit of energy:
 
-The eV is a unit of energy. [See the tutorial explanations of the key related concepts of energy, force and work](/principles-of-physics-tutorial.html#force-energy-work-potential-energy-energy-of-motion-kinetic-energy-electric-potential-and-all-that)
+The eV is a unit of energy. [See the tutorial explanations of the key related concepts of energy, force and work](/relativity-tutorial.html#force-energy-work-potential-energy-energy-of-motion-kinetic-energy-electric-potential-and-all-that)
  One e is a unit of charge; it is the amount of charge of an electron, a proton and many other elementary particles. Electric charge comes in two kinds, positive and negative, and the charge of an electron is actually –e, where e is a positive number. One V (volt) is a unit of electric potential, the capacity to create energy, i.e., to do work, with an electric force. An electric potential is closely related to an electric force in that a charged particle, like an electron, will be pushed to move when it experiences an electric potential, V. And one eV is the energy of motion acquired by one particle that has the amount of charge e that is accelerated through a one volt electrical potential. 
 
 An AA battery creates a 1.5 volt potential between it’s + and - ends. A single electron accelerated freely (“freely” is an important qualification explained later) would acquire an energy of motion of 1.5 eV. Energy of motion is called kinetic energy and is given in low velocity situations, far from the speed of light, by the Newtonian formula 
