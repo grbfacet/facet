@@ -292,7 +292,7 @@ Physicists commonly help their thinking by considering extreme cases. We did tha
 
 We said we wouldn't discuss relativity beyond simply applying the mass formula to electrons. But we need to alert you to avoid making some incorrect assumptions. You may get the impression that Mr. Tompkins himself is struggling to peddle but actually, he would not notice anything unusual. He would continue to peddle at the same rate _from his point of view on the bike_. From our point of view watching him go by he would seem to be peddling slower and slower because of increasing inertia. That is the famous time dilation effect, as we watch him his clocks seem to slow down since his steady peddling is just a kind of clock.
 
-### Relativity and plasma acceleration of electron bunches
+### Relativity and the acceleration of electron bunches
 
 Particle accelerators get particles moving very near the speed of light and behavior is very different there than at speeds we are used to in daily life. We showed above that even for speeds of many miles per second the difference between the Newtonian and the relativistic behavior is almost indistinguishable. Now we want to have a look at near the speed of light where the particles in our accelerators operate. We have explained elsewhere that the plasma acceleration experiment involved 12 µm long bunches of electrons. The electrons at the front of the bunch gave up energy to create the ionized plasma and the plasma created the electric field which in turn accelerated electrons at the back of the bunch. 
 
