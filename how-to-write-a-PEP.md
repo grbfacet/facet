@@ -4,6 +4,8 @@ title: How to Write a Plain English Explanation of a research paper
 pagetype: reference
 ---
 
+### Overview
+
 
 This how-to presentation assumes the writer is an expert on the research paper. We begin the description by describing some organizational thinking to be done by you, the writer. Do not begin by starting to write text. Instead just make notes addressing the next few questions we present. Also, as you work on this project start to make a list of possible guinea pigs you might ask to read your work when you have completly polished it. Keep in mind the ultimate objective of your plain english work: to excite the interest and appreciation of the interested lay public in your work. Besides, they are your tax paying patrons. 
 
