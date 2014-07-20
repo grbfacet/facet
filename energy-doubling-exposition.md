@@ -6,7 +6,7 @@ pagetype: explanation
 
 ### How to read the material:
 
-Here is our suggestion for how to achieve an understanding the energy doubling paper research paper. It is based on the fact that this Plain English explanation and the supporting physics tutorials, like the research paper itself, contain a lot of interconnected information. You will need to go over all the information more than once to make all those connections:
+Here is our suggestion for how to achieve an understanding of the energy doubling research paper. This suggestion is based on the fact this Plain English explanation and the supporting physics tutorials, like the research paper itself, contain a lot of interconnected information. You will need to go over all the information more than once to make all those connections:
 
 1. To understand the energy doubling research paper you will be going back and forth between that paper and the supporting explanatory material. We reccommend that you print a color copy of [the research paper](/slac-pub-12363.pdf) so you can have it in hand to refer to when you are reading the various web pages: the explanation web page (the page you are reading now) and the physics tutorial web pages.
   
