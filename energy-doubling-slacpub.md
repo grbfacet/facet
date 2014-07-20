@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Energy doubling of 42 GeV electrons in a metre-scale plasman wakefield accelerator
+title: Energy doubling of 42 GeV electrons in a metre-scale plasma wakefield accelerator
 pagetype: published
 explanation: energy-doubling-exposition.html
 ---
