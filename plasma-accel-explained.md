@@ -4,6 +4,8 @@ title: Plain English Explanations of plasma acceleration research papers
 pagetype: reference
 ---
 
+### The <ptovatopm:
+
 Research papers published in professional journals for experts are notoriously inaccessible to all but a narrow field of specialists. Why is this? Two possible explanations are obvious candidates.
 
 One possibility is that the subject of the research itself is difficult to understand. Oftentimes very complex research equipment and advanced mathematics as well as years of training are required to do the research so it shouldn’t be a surprise if the subject of the research itself is difficult to understand. A look at research papers tends to support this idea. They contain terminology: nouns, verbs, adjectives and equations, all of which are incomprehensible to the point it is even hard to make out the structure of a sentence sometimes. Doesn’t this prove the subject matter under study must be difficult to understand?
@@ -13,6 +15,8 @@ Or one might hope beyond hope that perhaps the subject matter is actually compre
 We believe the latter is the correct explanation for the obscurity of a great deal of published research. Richard Feynman, a Nobel Prize winning American physicist in the 20th century, also known for his teaching ability, said if he couldn’t explain an idea to laymen, it meant he didn’t truly understand it himself.
 
 We have endeavored to demonstrate this second explanation for the obscurity of research papers by presenting plain English explanations of some research papers about the development of plasma based particle accelerators.
+
+### The Presentations:
 
 The approach of the presentations is top-down, first get an overview of the forest then delve into increasing levels of detail, the trees. There are three kinds of documents used to make the presentation of each research paper. First, there is the research paper itself. Second, there is the plain English explanation of the contents of the research paper. Third, there are physics tutorials to provide important physics background for the paper. The explanation and the tutorials have the layered top-down structure.
 
