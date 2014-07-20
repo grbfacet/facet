@@ -4,6 +4,10 @@ title: Tutorial - Beam Acceleration
 pagetype: tutorial
 ---
 
+#### Overview
+
+This tutorial is about the energy of particle beams and how they are accelerated. It begins with some basic information  on units of measure, particularly the eV used to measure energy of particles. Then it discusses how charged particles are accelerated by electric fields and an accelerating electric field is created in a plasma accelerator.
+
 ### Units of measure prefixes indicate powers of ten:
 
 The reader is probably familiar with the use of prefixes on units of measure in the metric system to indicate multiples or fractions of the unit of measure in powers of ten. The meter, a unit of length (about 3 ft), is abbreviated with the letter “m”. Just like we say 7 ft, we also say 13.2 m. Unlike the English system of measure we indicate 1000 meters as 1 km (one kilometer) and we indicate 1/1000th of a meter as 1 mm (one millimeter).  
