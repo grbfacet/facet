@@ -10,7 +10,7 @@ To get started on learning more about the Plain English explanation approach to 
 
 ### Research Papers:
 
-[Energy doubling of 42 GeV electrons in a metre-scale plasma wakefield accelerator](/slac-pub-12363.pdf)
+[Energy doubling of 42 GeV electrons in a metre-scale plasma wakefield accelerator](/energy-doubling-slacpub.html)
 
 
 ### Plain English explanations of research papers:
