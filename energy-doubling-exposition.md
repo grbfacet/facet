@@ -8,27 +8,25 @@ pagetype: explanation
 
 Here is our suggestion for how to achieve an understanding the energy doubling paper research paper. It is based on the fact that this Plain English explanation and the supporting physics tutorials, like the research paper itself, contain a lot of interconnected information. You will need to go over all the information more than once to make all those connections:
 
-1. If you don’t like reading from a computer screen, you can print the material before you begin:
-   1. [The research paper](/slac-pub-12363.pdf). (We reccommend that you, at least, print a color copy of the research paper.)
-   1. This document you are reading now – [the Plain English explanation of the beam energy doubling research paper](/energy-doubling-exposition.html).
-   1. The physics tutorials that provide background knowledge for this Plain English explanation.
-      1. [Principles of physics](/principles-of-physics-tutorial.html)
-      1. [Acceleration of beams](/beam-acceleration-tutorial.html)
-      1. [Relativity](/relativity-tutorial.html)
-      1. [Control of beam trajectories](/beam-control-tutorial.html)
+1. To understand the energy doubling research paper you will be going back and forth between that paper and the supporting explanatory material. We reccommend that you print a color copy of [the research paper](/slac-pub-12363.pdf) so you can have it in hand to refer to when you are reading the various web pages: the explanation web page (the page you are reading now) and the physics tutorial web pages.
+  
 2. First, read this Plain English explanation and follow the suggestions that are made along the way to stop perioically and look at the research paper and rate your level of understanding each time you look at the research paper. On this first reading skip over the hyperlinks to the relevant tutorial sections. Also skip the sections that are indicated to be details. .
+
 3. Then, read all the physics tutorials but skip over the calculations. Read them in this order:
    1. [Principles of physics](/principles-of-physics-tutorial.html)
    1. [Acceleration of beams](/beam-acceleration-tutorial.html)
    1. [Relativity](/relativity-tutorial.html)
    1. [Control of beam trajectories](/beam-control-tutorial.html)
+
 4. If you followed steps 2 and 3, you have gone over almost all the Plain English material once (the paper explanation and the tutorials). You have also looked at the research paper a few times. In order to deepen your understanding repeat steps 2 and 3 but this time:
    1. Follow the hyperlinks to the tutorials you skipped on first reading and read those linked tutorial sections. 
    1. Read through the details sections you skipped on the first reading of the Plain English explanation. 
    1. Read the calculations in the tutorials that you skipped over on the first reading of the tutorials. 
    1. Continue to rate your understanding each time you look at the research paper.
+
 5. Finally, to experience what it is like to actually understand physics equations you can repeat all the tutorial calculations yourself with paper and pencil. If you do this exercise you will find that you can just look at the Einstein mass formula and understand what it says the way a physicist sees it.   
-6. It is also an option to just skip around all the material according to your own instincts and look at selected topics.
+
+6. On the other hand, at any time, it is also an option to just skip around all the material according to your own instincts and look at selected topics.
 
 ### Introduction
 
