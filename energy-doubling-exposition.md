@@ -91,7 +91,7 @@ First notice the structure of the paper: There is a title and a list of authors.
 
 At the end of the paper are the references to other research cited in the paper. 
 
-Read the opening paragraph and peruse the rest of the paper again. See what you can understand based on what you know so far, get a feel for it then come back and we will explain the experiment in more detail and then you will be able to go back again and actually read the paper with a deeper level of comprehension. So have another look and come back here again. Here’s the [link](/slac-pub-12363.pdf) again to the energy doubling paper.  
+Read the opening paragraph and peruse the rest of the paper again. See what you can understand based on what you know so far, get a feel for it then come back and we will explain the experiment in more detail and then you will be able to go back again and actually read the paper with a deeper level of comprehension. So have another look and come back here again. Here’s the [link](/energy-doubling-slacpub.html) again to the energy doubling paper.  
 
 Welcome back. Now that you’ve looked at the paper a second time rate your current sense of understanding on the 0-10 scale once again and write it down with your previous number. Have you made any progress?
 
@@ -111,7 +111,7 @@ We can get an overview of this experiment by considering the four topics of the 
 
 You know the scientific method usually involves testing a theory: we make a prediction using theory and then we make a measurement and see if it agrees with the theory. If they agree, the theory is supported; if not, then some serious thinking is required to find out whether something went wrong in the experiment or whether the theory is wrong or, perhaps, the theory is correct but was incorrectly applied in some way. For physics we tend to think of theory prediction as a matter of solving equations. Sometimes when complex phenomena are involved a computer program is written that “simulates” how theory applies to the situation. In this case a program that incorporates some of the known relevant physics of plasma acceleration was used to predict approximately what would happen. 
 
-Figure 1 is a very simple schematic of the apparatus involved. It shows the beam, the plasma accelerator and the energy measurement apparatus consisting a magnet that bends the beam and two screens that record the direction of the beam. The second figure set displays the measurement, what was seen on the screen and also shows what the simulation predicted, by displaying them together it compares theory and experiment. The third figure set displays information about the simulation. Go back to the [paper](/slac-pub-12363.pdf) again and briefly scan it. Look at the first figure and read its caption. Read each of the four methods sections and come back here. 
+Figure 1 is a very simple schematic of the apparatus involved. It shows the beam, the plasma accelerator and the energy measurement apparatus consisting a magnet that bends the beam and two screens that record the direction of the beam. The second figure set displays the measurement, what was seen on the screen and also shows what the simulation predicted, by displaying them together it compares theory and experiment. The third figure set displays information about the simulation. Go back to the [paper](/energy-doubling-slacpub.html) again and briefly scan it. Look at the first figure and read its caption. Read each of the four methods sections and come back here. 
 
 Make your third 0-10 rating on your understanding. 
 
