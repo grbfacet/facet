@@ -24,7 +24,7 @@ We want to give you a quantitative mathematical feel for the physics involved bu
 
 If you dislike studying material on a screen you can print out the research paper, the plain English explanation of the paper and/or the physics tutorials. Each can be read separately but the plain English explanation and the tutorials are linked by references (hyperlinks) from the English explanation into the physics tutorial. Your printed versions will allow you to follow these links. 
 
-# An interesting quote from a Congressional leader
+# The view from the U.S. Congress
 
 The Science Committee in the U.S. House of Representatives recently held a series of hearings on science policy. The necessity for scientists to communicate their work to the public was highlighted. In the session, Communicating Science and Engineering in a Sound-Bite World, May 14, 1998.Chairman Sensenbrenner’s opening remarks include the following extended quote. (http://www.house.gov/science/hearing.htm#Science_Policy)
 
