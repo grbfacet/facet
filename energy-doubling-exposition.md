@@ -39,7 +39,7 @@ We begin with an explanation of an important research paper from the plasma acce
 
 Welcome back. On a scale from 0-10 how much did you understand? Make a note of this number. As you continue reading the Plain English explanation we will periodically have you look again at the research paper and ask for more 0-10 ratings so you can see if your understanding is progressing. Now let’s begin the explanation of the paper. 
 
-### Background
+#### Background
 
 To make your journey into this story smoother, we will give you a brief introduction to the cast of characters, inanimate entities mostly identified by acronyms like “SLAC”. To the people that work with these entities they have personalities and history and are almost thought of as living beings that evolve over time. 
 
@@ -49,7 +49,7 @@ Built in the 1960s, SLAC’s work for decades was and still is based on the elec
 
 We also mention LEP, the Large Electron Positron Collider that was located at the CERN particle physics laboratory in Geneva, Switzerland. Finally there is LHC, the Large Hadron Collider that replaced the LEP collider in its underground ring tunnel and which collides beams of protons. LHC is where the first direct discovery measurement was made of the Higgs boson, the long sought final particle to round out the Standard Model theory of particle physics. Finally, we mention the ILC, the hoped for but as yet unfunded International Linear Collider, a next generation SLC. 
 
-### A little history behind the energy doubling research paper
+#### A little history behind the energy doubling research paper
 
 Racing against the clock at SLAC’s FFTB facility, physicists, engineers and technicians achieved a major breakthrough. Using [plasma acceleration](/beam-acceleration-tutorial.html#plasma-acceleration), they doubled the energy of part of an electron particle beam. The electron particle beam was [first created and accelerated](/beam-acceleration-tutorial.html#charged-particles-are-accelerated-by-electric-fields)
  in the conventional particle accelerator, the Linac, at SLAC, and all the electrons left the Linac with 42 GeV of energy per electron. [A GeV is a unit of energy](/relativity-tutorial.html#the-electron-volt-ev-an-atomic-sized-unit-of-energy) used to measure the energy of a single particle like an electron. The beam then entered and exited a plasma accelerator and some of the electrons' energy was doubled to 84 GeV. Electrons with GeV level energies have velocities almost the speed of light and their behavior is described by [Einstein's Theory of Relativity](/relativity-tutorial.html#relativity-theory). 
@@ -74,7 +74,7 @@ The plasma research group decided one thing to do was to demonstrate in a powerf
 
 Normally experiments and research are not under the gun quite so dramatically as this project was, but funding concerns are a part of most scientific research today. The excitement of achieving important goals is not always as dramatic but it, too, is always a part of research. Scientific research is after all a human activity carried out by people who are no different than anyone else when it comes to having a successful career. 
  
-### Research papers
+#### Research papers
 
 The purpose of scientific papers is to enable other scientists who are interested in what you are doing to understand exactly what you did. There are at least two reasons for this. First, to evaluate what you did and see if it all makes sense, to look for any possible mistakes and to look for alternate possible interpretations of the data. In most experiments, data is collected and analyzed for its meaning. Before you write your paper you undertake an excruciating evaluation to be sure you haven’t overlooked anything that might shed a doubt on what you’ve concluded. The second purpose of a research paper is to describe what you did in enough detail so that someone else could reproduce your results. 
 
@@ -107,7 +107,7 @@ You’ve had a more focused and assisted look at the paper now. Some questions t
 Conservation of energy says the additional energy doesn’t come out of nothing. The Linac is driven by a megawatt power system, but the plasma accelerator has no power input at all except the heater to keep the Lithium vaporized. The second law of thermodynamics says you can’t directly convert heat to organized energy of motion in this type of situation, so the extra beam energy cannot come from the heat of the plasma. Think about these questions and try to come up with an answer. Actually the answers are implicit but right on the surface of the first paragraph of the paper. As we go on from here you will learn if your answers were correct. 
 
 
-### The Methods section of the paper
+#### The Methods section of the paper
 
 The paper has two major sections. After the bold face first paragraph, the abstract, there are two plus pages of discussion of the results of the experiment and that discussion is followed by a Methods section which actually explains the experimental setup so we will focus on the Methods section now. 
 
@@ -136,7 +136,7 @@ When you've finished make another 0-10 rating of your understanding. See how far
 
 You should have a pretty good idea of what the paper is saying but many details will still be unclear. To go deeper in your understanding continue reading further in this explanation.
 
-### More details on some important issues covered in the paper (skip this section on first reading)
+#### More details on some important issues covered in the paper (skip this section on first reading)
 
 
 Figure 2 shows the energy spread of the electrons in the bunch after they have passed through the plasma accelerator. Notice the horizontal scale is electron energy in GeV and the scale goes from 35 GeV on the left to 100 GeV on the right. There are electrons with energy below 35 GeV but they are simply not shown. The spread of energies in Figure 2a should not be misinterpreted as the faster electrons somehow being ahead of the lower ones. It is a plot of spread in energy, not a plot of spread in space. It is understandable to expect a spread in space based on ordinary everyday experience. When a car accelerates and goes faster, it gains energy and speed and moves away from slower cars. Not so for electrons with relativistic speeds. [See why here.](/relativity-tutorial.html#the-electron-bunch-stays-together-in-the-plasma-accelerator)
@@ -150,7 +150,7 @@ Now we understand that the paper title does not mean that a beam at 42 GeV is al
 With a very dense bunch of very high energy electrons passing through the Lithium vapor essentially all the Lithium atoms along the beam path have at least one electron ionized. The beam is moving at nearly light speed and leaves an unmoved trail of positive ions in place but the ionized electrons, being far lighter, are pushed away by the negative charge of the beam bunch, that’s the blue cloud in Figure 3.
 
 
-### Some Details on the Figures. (skip this section on first reading)
+#### Some Details on the Figures. (skip this section on first reading)
 
 
 ##### The Figure 2 - The energy measurement: 
