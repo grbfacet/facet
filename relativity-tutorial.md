@@ -6,7 +6,7 @@ pagetype: tutorial
 
 # Overview
 
-This tutorial on relativity theory depends on material developed in [beam acceleration tutorial.](/beam-acceleration-tutorial.html) That tutorial should be read before this tutorial.
+This tutorial on relativity theory depends on material developed in the [beam acceleration tutorial.](/beam-acceleration-tutorial.html) That tutorial should be read before this tutorial.
 
 This is a review of some of the physics behind the energy doubling research paper. You can read this tutorial material in the order it is presented. When you read the plain English exposition of the research paper on energy doubling, there are links from it into the relevant sections in this tutorial.
 
