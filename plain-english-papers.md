@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Plain English Explanations
+title: More on the history and philosophy of Plain English explanations
 pagetype: reference
 ---
 
