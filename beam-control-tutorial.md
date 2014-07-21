@@ -4,13 +4,13 @@ title: Tutorial - Controlling beam particle trajectories with magnets
 pagetype: tutorial
 ---
 
-### Overview
+# Overview
 
 
 Accelerator particle beams are accelerated to higher energies (higher speeds) by the [force of electric fields](/beam-acceleration-tutorial.html#charged-particles-are-accelerated-by-electric-fields)
  that they are guided to pass through. However, the path the beam follows, the direction the beam moves is controlled by magnetic fields. In both techniques the underlying physics is the theory of Electromagnetism given its final formulation by James Clerk Maxwell in the 1860s. Charged particles experience a force pushing them when they pass through electric and magnet fields although the direction and amount of the two kinds of pushes are quite different. We imagine electric and magnetic fields represented by arrows where the direction the arrow points is the direction of the field and the strength of the field is represented by the length of the arrow, the longer the arrow, the stronger the field. 
 
-#### The magnetic and electric force laws
+# The magnetic and electric force laws
 
 A positively charged particle is pushed in the direction of the electric field arrow. That’s pretty straightforward to imagine. And if the particle is negatively charged it is pushed in the direction opposite to the arrow of the electric field. The way a magnetic field pushes a charged particle is more complicated. The first thing that is different between the way the two kinds of fields affect the motion of charged particles is the electric force is the same no matter what the speed of the particle. The same amount of force is applied whether the particle is standing still when it first experiences the electric field, it is the same amount of force if it is moving slowly and it is the same amount of force if it is moving very fast. 
 
@@ -52,7 +52,7 @@ But wait, have you noticed something is wrong here? If instead of the C line you
 
 It seemed like a good start on shepparding the flock. But what if after the beam passes through the quadrupole it passes through another quadrupole turned 90 degrees to the first one? Now those particles bent outwards will be bent inwards. That’s good, but those originally bent inwards now get bent outwards. That’s not so good. It turns out that the overall effect of having a pair of quadrupoles (called a quadrupole doublet) overall keeps the beam from blowing up and the beam goes through an expanding and contracting motion as it goes through a series of doublets all along the beam path. The net result is that at any point along the Linac accelerator the beam’s bunch diameter varies although its bunch length remains the same. These "focusing-defocusing" magnet tricks are used to bring the beam to a very small diameter (call “the spot size”) just as it enters the plasma accelerator. 
 
-#### Accelerator physics
+# Accelerator physics
 
 Accelerator physics is the fascinating field of creating, accelerating and guiding particle beams. We have barely scratched the surface of the subject here. Another interesting topic important to the plasma acceleration research is to ask if there is some way to address another cause of beam blowup, namely, when the electron bunch is created in the first place the electron have thermal motion like any gas. One might wonder if it is possible to “cool” the bunch before accelerating it so there is less tendency for blow up? Indeed, it can be done. A Nobel prize was won for the discovery of a way to cool the protons in a proton beam in the 1980s. The accelerator at SLAC added damping rings as part of the SLC project. We have mentioned elsewhere that the FFTB, where the initial plasma acceleration research was done, was built to learn how to create and control very small spot sized beams and part of accomplishing that goal was the development of the damping rings for the Linac to "cool" the electron bunches to make smaller spot sizes.
 
