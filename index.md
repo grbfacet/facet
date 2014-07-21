@@ -33,7 +33,7 @@ To get started on learning more about the Plain English explanation approach to 
 
 [Plain English Explanations of plasma acceleration research papers](/plasma-accel-explained.html).
 
-[More on the history and philosophy of Plain English explanations](/plain-english-papers.html)
+[More on the history and philosophy of Plain English Explanations](/plain-english-papers.html)
 
 [How to write a Plain English Explanation of a research paper](/how-to-write-a-PEP.html)
 
