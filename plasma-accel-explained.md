@@ -5,11 +5,11 @@ pagetype: reference
 ---
 
 
-### Pvervoew
+# Overview
 
 First there is a discussion of the  motivational assumptions behind the Plain English explanations. Then there is a description of how the explanatory material is organized and there is a suggestion on how to use the material.
 
-#### The Motivation:
+# The Motivation
 
 Research papers published in professional journals for experts are notoriously inaccessible to all but a narrow field of specialists. Why is this? Two possible explanations are obvious candidates.
 
@@ -21,7 +21,7 @@ We believe the latter is the correct explanation for the obscurity of a great de
 
 We have endeavored to demonstrate this second explanation for the obscurity of research papers by presenting plain English explanations of some research papers about the development of plasma based particle accelerators.
 
-#### The Presentations:
+# The Presentations
 
 The approach of the presentations is top-down, first get an overview of the forest then delve into increasing levels of detail, the trees. There are three kinds of documents used to make the presentation of each research paper. First, there is the research paper itself. Second, there is the plain English explanation of the contents of the research paper. Third, there are physics tutorials to provide important physics background for the paper. The explanation and the tutorials have the layered top-down structure.
 
