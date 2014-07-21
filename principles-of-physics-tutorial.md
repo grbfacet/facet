@@ -10,7 +10,7 @@ In this tutorial we discuss the outlook and approach of modern physics, physics 
 
 
 
-# The terms “classical”, “quantum” and “modern” as used by physicists:
+# The terms “classical”, “quantum” and “modern” as used by physicists
 
 The term “classical” as in “classical physics” or “classical mechanics” or “classical electrodynamics” or “classical statistical mechanics” or many other uses is contrasted with the term “quantum” as in “quantum physics” or “quantum mechanics” or “quantum electrodynamics” or “quantum statistical mechanics”. This usage has a precisely understood meaning among physicists. Classical physics is all of physics that does not require consideration of quantum effects. Quantum effects are generally only noticeable when we are dealing with very tiny energy effects on the level of atomic phenomena. The term “classical” does not refer to a historical era although its etymological origin is related to a historical reference. Even today, there are new discoveries in many areas of classical physics. The revolutionary Einstein theories of relativity and gravitation are part of classical physics since quantum effects are not part of those theories. 
 
@@ -122,7 +122,7 @@ It is interesting to note that Archimedes actually developed the beginnings of i
 
 
 
-# Theories and measurement errors: 
+# Theories and measurement errors 
 
 In the relativity tutorial we will discuss Einstein's Relativity Theory which improved Newton's theory of motion. When this transition from Newton to Einstein is normally described it is referred to as Einstein disproving Newton's theory. We take the view that Einstein improved Newton's theory in the sense that Newton's theory turned out to be only an approximation to a more inclusive theory. This brings up the crucial role of measurement error in experimental science. A quantitative theory is used to make a numerical prediction about what will happen in a particular situation. The prediction is normally a number that can be measured. Let’s say the theory predicts 2.7 inches and a series of measurements are made and the result is a series of numbers like 
 
