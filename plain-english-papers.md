@@ -8,7 +8,7 @@ pagetype: reference
 
 First, there is a discussion of the Plain English concept and some history behind it. Then there is an extended quote from a chairman of the Science Committee of the U.S. House of Representatives expressing his belief in the importance of scientists learning how to communicate their research to the public.
 
-# The concept and some history
+# The Plain English concept and some history
 
 This is an experiment in communicating detailed scientific research to the interested general public. It is based on a concept pursued by the DZero Collaboration at Fermilab in the 1990s, the Plain English Paper. They astutely recognized that science proceeds by establishing and publishing specific focused results and these results are self-contained packets of information. But they are written in arcane jargon. For each published research paper they wanted to write a Plain English version.
 
