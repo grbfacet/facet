@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tutorial - The Theory of Relativity
+title: Relativity and high energy particle beams
 pagetype: tutorial
 ---
 
