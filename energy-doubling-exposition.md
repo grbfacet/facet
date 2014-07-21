@@ -9,7 +9,7 @@ original: energy-doubling-slacpub.html
 
 The first section provides a suggestion on how to use all the explanatory material. Then there is a top-down presentation of the research paper. It begins with some background on the research facilities involved and some history. Then the research paper is described in increasing levels of detail. 
 
-# How to read the material:
+# How to read the material
 
 Here is our suggestion for how to achieve an understanding of the energy doubling research paper. This suggestion is based on the fact this Plain English explanation and the supporting physics tutorials, like the research paper itself, contain a lot of interconnected information. You will need to go over all the information more than once to make all those connections:
 
