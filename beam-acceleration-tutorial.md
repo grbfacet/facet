@@ -4,11 +4,11 @@ title: Tutorial - Beam Acceleration
 pagetype: tutorial
 ---
 
-#### Overview
+# Overview
 
 This tutorial is about the energy of particle beams and how they are accelerated. It begins with some basic information  on units of measure, particularly the eV used to measure energy of particles. Then it discusses how charged particles are accelerated by electric fields and an accelerating electric field is created in a plasma accelerator.
 
-### Units of measure prefixes indicate powers of ten:
+# Units of measure prefixes indicate powers of ten:
 
 The reader is probably familiar with the use of prefixes on units of measure in the metric system to indicate multiples or fractions of the unit of measure in powers of ten. The meter, a unit of length (about 3 ft), is abbreviated with the letter “m”. Just like we say 7 ft, we also say 13.2 m. Unlike the English system of measure we indicate 1000 meters as 1 km (one kilometer) and we indicate 1/1000th of a meter as 1 mm (one millimeter).  
 
@@ -39,7 +39,7 @@ And further steps of one thousandth are pico (10<sup>-12</sup>) , femto (10<sup>
 
 
 
-### The electron volt, eV, an atomic sized unit of energy:
+# The electron volt, eV, an atomic sized unit of energy:
 
 The eV is a unit of energy. [See the tutorial explanations of the key related concepts of energy, force and work](/relativity-tutorial.html#force-energy-work-potential-energy-energy-of-motion-kinetic-energy-electric-potential-and-all-that)
  One e is a unit of charge; it is the amount of charge of an electron, a proton and many other elementary particles. Electric charge comes in two kinds, positive and negative, and the charge of an electron is actually –e, where e is a positive number. One V (volt) is a unit of electric potential, the capacity to create energy, i.e., to do work, with an electric force. An electric potential is closely related to an electric force in that a charged particle, like an electron, will be pushed to move when it experiences an electric potential, V. And one eV is the energy of motion acquired by one particle that has the amount of charge e that is accelerated through a one volt electrical potential. 
@@ -86,7 +86,7 @@ Relativity effects only begin to become important when particles reach, say 10 p
 4000 times jet speed is pretty fast, a bullet or a baseball with that speed could do a lot of damage but they are very heavy compared to an electron. What about electrons accelerated by the Linac, not just a battery. Remember our 4000 times jet speed was an electron accelerated only by one 1.5 volt AA battery. Can we get a sense of the energy of the 42 GeV electrons in the energy doubling experiment? 
 
 
-##### The beam bunch energy
+#### The beam bunch energy
 
 An electron with 42 GeV of energy actually has a very small amount of energy.
 
@@ -115,7 +115,7 @@ What is that in mph?
 
 If you imagine being hit by a fastball thrown by a major league baseball pitcher that gives some sense of the punch packed by a 42 GeV bunch of electrons in our experiment. The SLAC Linac can produce 60 bunches per second so imagine being pelted by 60 pitchers simultaneously with each pitcher throwing a fastball at you every second. Ouch. 
 
-### Charged particles are accelerated by electric fields
+# Charged particles are accelerated by electric fields
 
 How does plasma acceleration work? First, how does particle acceleration work in general? Any time you flick an ON switch to something electrical you complete a circuit for a current to flow from a high voltage side, one terminal of the battery or one prong of the wall plug, to the other low voltage side. (Actually, since the electrons are negative, they flow the other direction.) That voltage difference between the two power source terminals pushes the electrons along the circuit. In a normal circuit like a flashlight or a lamp, the electrons are accelerated by the voltage difference but they collide with atoms in the wire and are slowed down momentarily or bounce in a different direction only to speed up again along the wire until the next collision. This results in an average “drift” speed for the flow of the electrons at a rate of less than a millimeter per second in a device powered by a 1.5 volt AA battery. 
 
@@ -128,7 +128,7 @@ However, at the atomic level the voltage accelerates the electrons rapidly to hi
 And 42 GeV takes our electron very close to the speed of light as we show in the [relativity tutorial.](/relativity-tutorial.html#relativity-and-the-acceleration-of-electron-bunches)
 
 
-##### Plasma acceleration
+#### Plasma acceleration
 
 In the plasma, it is the same principle. An electric field is created in the plasma by the beam itself and, in a sense, the beam accelerates itself. But conservation of energy says that’s not possible so what is actually happening is that electrons at the front of the beam bunch are using some of their energy to ionize the Lithium vapor and push the ionized electrons away from positive Lithium ions which creates a very strong local electric field in the plasma; and that plasma electric "wakefield" accelerates electrons at the back of the beam bunch. The bunch enters the plasma accelerator from the Linac with all the electrons having approximately the same energy, 42 GeV, but the bunch exits the plasma with a wide range of electron energies. You may wonder how this works since it might seem the bunch should quickly spread out in length as some electrons gain energy and others lose energy but [relativity](/relativity-tutorial.html#the-electron-bunch-stays-together-in-the-plasma-accelerator)
  comes to the rescue making the seemingly impossible possible.
