@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Plain English explanation of the Beam Energy Doubling research paper
+title: The Plain English Explanation of the Beam Energy Doubling research paper
 pagetype: explanation
 original: energy-doubling-slacpub.html
 ---
