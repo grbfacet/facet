@@ -35,6 +35,6 @@ To get started on learning more about the Plain English explanation approach to 
 
 [More on the history and philosophy of Plain English explanations](/plain-english-papers.html)
 
-[How to write a Plain English explanation of a research paper](/how-to-write-a-PEP.html)
+[How to write a Plain English Explanation of a research paper](/how-to-write-a-PEP.html)
 
 
