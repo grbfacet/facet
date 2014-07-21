@@ -5,11 +5,11 @@ pagetype: explanation
 original: energy-doubling-slacpub.html
 ---
 
-## Overview
+# Overview
 
 The first section provides a suggestion on how to use all the explanatory material. Then there is a top-down presentation of the research paper. It begins with some background on the research facilities involved and some history. Then the research paper is described in increasing levels of detail. 
 
-## How to read the material:
+# How to read the material:
 
 Here is our suggestion for how to achieve an understanding of the energy doubling research paper. This suggestion is based on the fact this Plain English explanation and the supporting physics tutorials, like the research paper itself, contain a lot of interconnected information. You will need to go over all the information more than once to make all those connections:
 
@@ -33,7 +33,7 @@ Here is our suggestion for how to achieve an understanding of the energy doublin
 
 6. On the other hand, at any time, it is also an option to just skip around all the material according to your own instincts and look at selected topics.
 
-## Introduction
+# Introduction
 
 We begin with an explanation of an important research paper from the plasma acceleration research done at the SLAC research lab’s FFTB facility, FACET’s predecessor research facility. To give you a sense of how much you can understand what may seem like an arcane research paper, let’s do some before and after measurements. Before you go any further, take a look at the research paper we are going to explain. If you haven't aready printed a copy, either open the [paper](/energy-doubling-slacpub.html) in a new browser tab or color print it. Printing may be the easiest way to go back and forth between the journal paper and the interpretative information given here. Also you will be able to mark on the printed copy to make notes for yourself. Look it over, try to read parts of it and notice how much or little you can understand and notice if you tend to think something like, “I could never understand this.” Then come back here and we will explain the paper and have you look at it again a few times during this process and you can watch how your understanding increases and see that it is indeed within your capability to understand without needing a PhD in physics. Now look at the research paper and then come back here. Here’s a [link to the paper](/energy-doubling-slacpub.html) if you didn't print it. 
 
@@ -82,7 +82,7 @@ These two aspects: questioning of methodology/interpretation of data and reprodu
  
 Writing the research paper can be an important part of the research since it requires thinking through and clarifying exactly what you did and what you found. The paper focuses on a specific identifiable result worth publishing. The research itself typically uncovers a great deal of information that does not appear in the paper. Often these other discoveries point the way to new questions to answer and but generally go unmentioned in the paper currently being written.
 
-## Energy doubling research paper overview
+# Energy doubling research paper overview
 
 Let’s return our focus to the research paper. In a moment we will send you back to look again at the paper and, based on what you’ve read since that first look, see if you can at least understand that the paper is about energy doubling of beam electrons. Notice all the jargon that means nothing to you but try to see that it is mainly describing the details of how the experiment was conducted.  
 
@@ -168,7 +168,7 @@ It is important to note the details in Figure 3. First note that the top Figure,
 
 As noted in the research paper, two actual physical plasma accelerators were studied, one with a Lithium vapor length of 85 cm and a second longer one of 113 cm. The longer accelerator was to measure what happens when the effective acceleration ends and the bunch continues through more Lithium vapor. The orange circles in Figure 3c plot the simulated amount of maximum energy the electrons acquired at various distances into a simulated Lithium column 120 cm long. The simulation shows the energy increases as the bunch progresses through the plasma to a maximum just above 80 GeV and then drops off past this point just beyond 80 cm into the plasma indicating that the most accelerated electrons begin to lose energy after 80 cm. The blue squares are the actual values measured in the two different length real accelerators and they are pretty close to the simulated expectation. The simulation is known to be imperfect in that it does not account for all known effects, so exact agreement is not to be expected between simulation and experimentally measured data. Remember, this was a proof of principle experiment, not a precision measurement. The vertical scale on the left hand side of the plot refers to the plotted energy of the electrons. The vertical scale on the right hand side refers to the dashed line at the bottom of the plot which represents the profile of the density of the Lithium vapor assumed in the simulation.
 
-## Where to next?
+# Where to next?
 
 There is more about this plasma acceleration energy doubling experiment to be explained but we will do that in our explanations of some of the earlier experimental papers that led up to this result. The same basic issues and technologies were involved in those earlier papers, so by studying a few of the papers you should be able to get a pretty good grounding in the plasma research project at FACET. 
 
