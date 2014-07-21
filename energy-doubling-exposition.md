@@ -5,7 +5,7 @@ pagetype: explanation
 original: energy-doubling-slacpub.html
 ---
 
-### Overview
+## Overview
 
 The first section provides a suggestion on how to use all the explanatory material. Then there is a top-down presentation of the research paper. It begins with some background on the research facilities involved and some history. Then the research paper is described in increasing levels of detail. 
 
