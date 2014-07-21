@@ -15,7 +15,7 @@ To get started on learning more about the Plain English explanation approach to 
 
 ### Plain English explanations of research papers:
 
-[Energy doubling research paper explained](/energy-doubling-exposition.html)
+[Energy doubling research paper explained](/energy-doubling-explained.html)
 
 
 ### Physics tutorials:
