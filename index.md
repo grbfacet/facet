@@ -20,13 +20,13 @@ To get started on learning more about the Plain English explanation approach to 
 
 ### Physics tutorials:
 
-[Some fundamentals of physics](/principles-of-physics-tutorial.html)
+[Some fundamental concepts of physics](/principles-of-physics-tutorial.html)
 
-[Acceleration of particle beams](/beam-acceleration-tutorial.html)
+[The acceleration of particle beams](/beam-acceleration-tutorial.html)
 
 [Relativity and high energy particle beams](/relativity-tutorial.html)
 
-[Guiding the particle beam trajectory](/beam-control-tutorial.html)
+[Guiding the particle beam trajectory with magnets](/beam-control-tutorial.html)
 
 
 ### Plain English Concepts:
