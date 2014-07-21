@@ -163,7 +163,7 @@ By comparison, if the Newtonian formula were correct, any time you double the en
 
 Thus, our initial little electron bunch 12 µm long with all the electrons at same energy, 42 GeV, when it entered the plasma accelerator left the plasma accelerator with with electron energies as high as 84 GeV, some at the original 42 GeV, and many that have lost energy to well below 42 GeV. But because they are already nearly the speed of light, the speed difference between them is so small that the bunch stays pretty much the same size (more on this later). This is, of course, not at all how we think about objects that are accelerated. The Porsche leaves the Prius in the dust with its more powerful engine. This is a great example of how what we know under conditions that our body size and our senses are familiar with may not at all be normal at more extreme conditions of speed where relativity replaces Newtonian laws or small size where quantum mechanics replaces Newtonian laws. And most subatomic physics processes require the simultaneous use of both new theories, relativity and quantum mechanics, to correctly explain what happens. 
 
-#### Where Newton approximates Einstein:
+#### Where Newton approximates Einstein
 
 We stated above that Newtonian theory is an approximation to relativity theory. But when we look at the two formulas for energy, 
 
@@ -378,7 +378,7 @@ Expressed mathematically, this is the difference between
 If you have followed the math in the tutorial you should have a sense of how this strange formula creates this marvelous relativistic effect. 
 
 
-# To summarize
+# Summary
 
 According to Newtonian theory the energy of motion of an object is 
 
