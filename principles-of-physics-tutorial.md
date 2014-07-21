@@ -4,25 +4,25 @@ title: Tutorial - Principles of physics
 pagetype: tutorial
 ---
 
-### Overview
+# Overview
 
 In this tutorial we discuss the outlook and approach of modern physics, physics since roughly Newton. We look at methods and practices of physics as a science. Other tutorials delve into various specific physics subjects. 
 
 
 
-### The terms “classical”, “quantum” and “modern” as used by physicists:
+# The terms “classical”, “quantum” and “modern” as used by physicists:
 
 The term “classical” as in “classical physics” or “classical mechanics” or “classical electrodynamics” or “classical statistical mechanics” or many other uses is contrasted with the term “quantum” as in “quantum physics” or “quantum mechanics” or “quantum electrodynamics” or “quantum statistical mechanics”. This usage has a precisely understood meaning among physicists. Classical physics is all of physics that does not require consideration of quantum effects. Quantum effects are generally only noticeable when we are dealing with very tiny energy effects on the level of atomic phenomena. The term “classical” does not refer to a historical era although its etymological origin is related to a historical reference. Even today, there are new discoveries in many areas of classical physics. The revolutionary Einstein theories of relativity and gravitation are part of classical physics since quantum effects are not part of those theories. 
 
 In western culture at large, “classical” as a historical term refers to the Greco-Roman era two millennia ago. In western culture at large the term “modern” has a multitude of historical period references. Perhaps a good example of the confusion possible about this adjective is when we consider that the modernist period in English literature ended sometime before World War II, followed by the post-modernist period which also has had its zenith and is essentially over today. In other uses in western culture, the term “modern” often refers generally to a time that began with the Renaissance, creating the three western periods classical, medieval and modern. In physics the term “modern” is also used in contradictory ways but one important usage is when it is said that modern physics began with Newton. 
 
-### Calculus and modern physics
+# Calculus and modern physics
 
 Although we will use very little calculus in this physics tutorial it will be helpful to understand what calculus, invented by Newton, did for physics. Newton’s calculus is the mathematics of change and accumulation. Modern physics began with Newton’s invention of calculus. From, at least, the time of the ancient Greeks, people have tried to understand change but until there was a mathematical tool available to describe change quantitatively, the study of change was essentially limited. 
 
 One could concoct any manner of explanation for change, or a more specific form of change, motion, but without the ability to make numeric predictions, one was left with only trying to demonstrate the logic and consistency of a theory in a qualitative way. Newton changed all that with his invention of differential and integral calculus. Differential calculus is the mathematics of change, more specifically, rate of change and integral calculus is the mathematics of accumulation, or again, accumulation relative to some amount of change. 
 
-##### Change and accumulation 
+#### Change and accumulation 
 
 Some important points are implied in these two paragraphs. Suppose someone said something changed by 5 feet or 5 dollars or 5 seconds or 5 gallons. Implicit in change is a starting point and an end point, i.e., change is always relative to two events, a beginning event or place and an ending event or place. It is 5 miles from town A to town B. The stock price increased 5 dollars from Feb 1 to March 1. It took 5 years to transform the grapes from ripe on the vine to the wine in our glass. It took 5 gallons of gas to make the trip from Los Angeles to San Diego. 
 
@@ -30,7 +30,7 @@ When the two points of reference differ by some kind of quantitative measure we 
 
 Let’s look at the idea of accumulation. If something has a rate of change, 30 mph, 60% per year, or 20 miles per gallon we can apply that over a specific amount of the denominator quantity. If we drive at 30 miles per hour and we do that for six hours we accumulate 180 miles traveled. If we hold the stock for three years at a rate of increase of 60% per year the stock will accumulate an increase of 180% (we ignore compounding here). If we want to travel (accumulate) 400 miles at a gas usage rate of 20 mpg it will take 20 gallons of gas. If gas sells at the rate of $3.00 per gallon we will accumulate a gas cost of $60 for our 400 mile trip. 
 
-##### Instantaneous rate of change 
+#### Instantaneous rate of change 
 
 Rate of change and accumulation are two sides of the same coin, if you have one, you have the other. This is what’s known as the fundamental theorem of calculus, that differential calculus is the inverse of integral calculus. Let’s talk about calculus. In the examples we have given, we might call them difference calculations, calculations based on a constant rate of change over a fixed amount of change. For example 30 mph was a rate of change and if we applied it over 3 hours we would cover 90 miles. But in real life a car’s speed is constantly changing, a stock price is moving up and down at a changing rate and even our gas mileage varies somewhat with driving conditions which is exemplified in the citation of city and highway gas usage rates provided on all new car stickers. 
 
@@ -50,7 +50,7 @@ Without going into the history we should be careful not to disparage the ideas o
 
 However, the ancients noticed steady motion without any apparent force in the heavens where the sun, moon, planets and stars moved across the sky at a steady speed with nothing pushing them. But another of Newton’s great accomplishments was to assert that the laws of motion on the earth were the same as those in the heavens whereas it is obvious to common sense that the sky is an entirely different kind of place than around the surface of the earth. So Newton unified many different phenomena under one set of laws. 
 
-### Quantitative laws
+#### Quantitative laws
 
 Newton gave a quantitative law of gravity. Not just that the gravity of the earth pulled objects to it but he said quantitatively how strong the pull was. The further you go from the earth into space the weaker the force. In particular, he said, the force gets weaker as the square of the distance. If the force is a certain amount at 100,000 miles from the earth then it will be four times as weak at twice the distance, 200,000 miles and nine times as weak at three times the distance, 300,000 miles. 
 
@@ -62,7 +62,7 @@ As you can see, all the different possible gravity force laws predict different 
 
 Let’s look at Newton’s monumental motion law, the second law that says a force produces a change of speed and the change in speed is proportional to the force. It could be that the change of speed is proportional to the force squared or that force squares the speed or cubes it or any other possible mathematical relationship. An infinite number of force laws are mathematically possible but the aim is to find the law that matches reality. Let’s consider the gravity force acting on an object near the earth’s surface. We won’t show why but when you calculate the force of gravity using the inverse square of the distance law, the distance to be used is the distance of the object from the center of the earth, not from the surface of the earth. 
 
-### Example: A Falling object
+#### Example: A Falling object
 
 For an object just a few feet above the surface we calculate the force based on the fact that the object is about 4000 miles from the center of the earth not based on a few feet. Now suppose we are interested in the motion of an object dropped out of a helicopter hovering two miles in the air. As it falls two miles the force of gravity on it will be a tiny bit stronger when it reaches the last, say, one foot from the ground. It would be the difference between the inverse square of 4002 miles and 4000 miles. This is a very small difference so we usually just say the force of gravity near the earth’s surface is the same at any point above the surface but within a few miles. If we were doing a very precise measurement we would need to calculate with a changing strength of the force as we got closer to the earth and notice the words, “change of force”, and that should tell us that to do the problem right it will require the mathematics of change, calculus! 
 
@@ -122,7 +122,7 @@ It is interesting to note that Archimedes actually developed the beginnings of i
 
 
 
-### Theories and measurement errors: 
+# Theories and measurement errors: 
 
 In the relativity tutorial we will discuss Einstein's Relativity Theory which improved Newton's theory of motion. When this transition from Newton to Einstein is normally described it is referred to as Einstein disproving Newton's theory. We take the view that Einstein improved Newton's theory in the sense that Newton's theory turned out to be only an approximation to a more inclusive theory. This brings up the crucial role of measurement error in experimental science. A quantitative theory is used to make a numerical prediction about what will happen in a particular situation. The prediction is normally a number that can be measured. Let’s say the theory predicts 2.7 inches and a series of measurements are made and the result is a series of numbers like 
 
@@ -141,7 +141,7 @@ We apply theories to specific situations when we make a measurement. Newton’s 
 
 A related consideration applies when two theories differ significantly only in more extreme conditions. Newtonian and relativity physics only show significant differences in their predictions when we are dealing with objects with speeds near the speed of light. Cars, planes, rockets, bullets, even meteors, planets and stars move at much less than a thousandth the speed of light and the relativistic effects for those are only noticeable with very precise measurements. 
 
-##### Precision, accuracy, random errors and systematic errors
+#### Precision, accuracy, random errors and systematic errors
 
 In the erergy doubling experiment, it was not essential to precisely measure the electrons' energies. In general, development of plasma acceleration technology did not usually require careful attention to exacting measurement standards. Nevertheless, it is helpful to understand the relevant error concepts because quantitative numerical measurements are crucial to the progress of physics and are crucial to the progress of any study that involves numerical measurements. 
 
