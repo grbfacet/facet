@@ -4,7 +4,7 @@ title: Tutorial - The Theory of Relativity
 pagetype: tutorial
 ---
 
-### Overview
+# Overview
 
 This tutorial on relativity theory depends on material developed in two other tutorials: [principles of physics] and [beam acceleration]. They should be read before this tutorial.
 
@@ -25,7 +25,7 @@ We will also present a series of calculations of numerical examples, which incre
 We have indicated extended calculations by noting when a calculation begins and ends. The idea is that you may skip over the details, especially on a first reading of the tutorial. But to get a real feeling for what it is like to actually do physics calculations we encourage you to eventually take pencil, paper and calculator and work through each step in a calculation. Take your time and enjoy the experience of understanding how it is done. 
 
 
-### Force, energy, work, potential energy, energy of motion (kinetic energy), electric potential and all that… 
+# Force, energy, work, potential energy, energy of motion (kinetic energy), electric potential and all that… 
 
 One of the challenges of understanding physics is keeping in mind several interrelated concepts simultaneously. This problem is not restricted to physics. To understand such things as economic and biological systems the interplay of many concepts occurs. The ability to think in abstract ideas is widely believed to be a skill possessed only by humans. Perhaps other animals can form abstract ideas but what does seem to be unique to us is the ability to think not only about abstract ideas but to go a level further and think in terms of abstract relations between abstract ideas. For example, force, mass and acceleration are abstract ideas. Newton’s famous 2nd law, F = ma, is an abstract relation between three abstract concepts. To understand his law we first have to understand each of the three component ideas and then we have to understand the relationship the law expresses. And we will see that some of Einstein’s relativistic concepts and relations are even more complex. So we want to spend a little time emphasizing the differences and relationships between several basic concepts involved in describing objects in motion. 
 
@@ -46,12 +46,12 @@ A clarification may be in order here about the concepts of force and work. Work 
 This seems counter-intuitive because when we lift something heavy and hold it motionless in the air we certainly feel like we are expending energy and doing work. And in fact we are doing work while we hold it still in the air, but the work is not done on moving the object we are holding. The work is being done in our muscle tissues consisting of millions of tiny rubber bands that repeatedly tighten and relax. Each tiny rubber band contraction does indeed do work and we use up the energy stored chemically in ATP molecules, which is eventually converted to heat energy. A force only does work when it moves something.  
 
 
-### Relativity Theory 
+# Relativity Theory 
 
 (This discussion of relativity focuses only on the aspects that are essential to understand high energy particle beams. We will not go into many famous aspects of relativity theory such as time dilation, length contraction, the twin paradox and others.) We begin with a mostly English exposition but we gradually add some math to get actual numbers to give a better feeling for the sizes of the effects involved. On a first reading you can skip over the calculations without a problem but if you desire to know how a physicist understands relativity, come back to the calculations and not only step through them in your mind but reproduce them yourself on a piece of paper using a calculator to do some of the arithmetic. It may take a little time and sometimes require figuring out exactly how a calculation was done, but that is when you will really get your ideas right. The education of a physicist through course work always involves an extensive amount of mathematical problem solving both in homework and tests, not to mention in the classroom lectures. 
 
 
-##### The Newtonian theory of the energy of motion 
+#### The Newtonian theory of the energy of motion 
 
 Before the discovery of the theory of relativity in 1905, the Newtonian theory was always used and it said the energy, E, of a body with mass, m<sub>0</sub>, moving with the speed v, was 
 
@@ -60,7 +60,7 @@ Before the discovery of the theory of relativity in 1905, the Newtonian theory w
 This was believed to be accurate for all speeds. This demonstrates an important feature of physics. Theories that are quantitative supersede older theories, not by discovering that they were wrong in all cases but rather, by discovering that the older theory is actually an approximation to the newer theory, where the newer theory covers a wider range of situations than was available for experimentation during the reign of the older theory. This general rule only applies for theories which make numerical predictions. There must be numbers involved to give meaning to the idea of an approximation. For example, the theory that the earth was the center of the universe is not a numerical theory and it is not an approximation to our current view. The difference between, “the earth is the center of the universe” and “the universe has no center” are clearly not different by a mere approximation error.  
 
 
-##### E=mc<sup>2</sup>: Einstein’s formula for the energy of motion
+#### E=mc<sup>2</sup>: Einstein’s formula for the energy of motion
 
 What formula superseded 
 
@@ -103,7 +103,7 @@ Since the speed of light, c = 3 x 10<sup>8</sup> m/sec
 
 If Newton’s formula still was accurate at 42 GeV the electron coming out of the Linac would be going 400 times the speed of light! Since relativity tells us nothing can be accelerated to surpass the speed of light,we can see that the m term must be increasing a very great deal to thwart surpassing c. In fact, it will have to approach infinity as the speed approaches c, as we will see shortly.
 
-##### The relativistic inertial mass formula
+#### The relativistic inertial mass formula
 
 In relativity theory we denote the mass of an object at rest (not moving) as m<sub>0</sub> and call it the object’s rest mass. We denote the mass of the object as it moves simply by m and relativity tells us m gets bigger as the speed of the body increases. The formula is 
 
@@ -163,7 +163,7 @@ By comparison, if the Newtonian formula were correct, any time you double the en
 
 Thus, our initial little electron bunch 12 µm long with all the electrons at same energy, 42 GeV, when it entered the plasma accelerator left the plasma accelerator with with electron energies as high as 84 GeV, some at the original 42 GeV, and many that have lost energy to well below 42 GeV. But because they are already nearly the speed of light, the speed difference between them is so small that the bunch stays pretty much the same size (more on this later). This is, of course, not at all how we think about objects that are accelerated. The Porsche leaves the Prius in the dust with its more powerful engine. This is a great example of how what we know under conditions that our body size and our senses are familiar with may not at all be normal at more extreme conditions of speed where relativity replaces Newtonian laws or small size where quantum mechanics replaces Newtonian laws. And most subatomic physics processes require the simultaneous use of both new theories, relativity and quantum mechanics, to correctly explain what happens. 
 
-### Where Newton approximates Einstein:
+#### Where Newton approximates Einstein:
 
 We stated above that Newtonian theory is an approximation to relativity theory. But when we look at the two formulas for energy, 
 
@@ -292,7 +292,7 @@ Physicists commonly help their thinking by considering extreme cases. We did tha
 
 We said we wouldn't discuss relativity beyond simply applying the mass formula to electrons. But we need to alert you to avoid making some incorrect assumptions. You may get the impression that Mr. Tompkins himself is struggling to peddle but actually, he would not notice anything unusual. He would continue to peddle at the same rate _from his point of view on the bike_. From our point of view watching him go by he would seem to be peddling slower and slower because of increasing inertia. That is the famous time dilation effect, as we watch him his clocks seem to slow down since his steady peddling is just a kind of clock.
 
-### Relativity and the acceleration of electron bunches
+#### Relativity and the acceleration of electron bunches
 
 Particle accelerators get particles moving very near the speed of light and behavior is very different there than at speeds we are used to in daily life. We showed above that even for speeds of many miles per second the difference between the Newtonian and the relativistic behavior is almost indistinguishable. Now we want to have a look at near the speed of light where the particles in our accelerators operate. We have explained elsewhere that the plasma acceleration experiment involved 12 µm long bunches of electrons. The electrons at the front of the bunch gave up energy to create the ionized plasma and the plasma created the electric field which in turn accelerated electrons at the back of the bunch. 
 
@@ -361,7 +361,7 @@ Since β = v/c, and c = 3 x 10<sup>8</sup> m/s,
 The 7 GeV electron is only 0.75 m/sec slower than the speed of light! Even if the fastest electron were going at the speed of light (not possible), the “slow” 7 GeV electron would only be falling behind at the rate of 1 part in 10<sup>8</sup>. Over the one meter length of the plasma accelerator the 7 GeV electron would fall behind any faster electron by, at most, about 10<sup>-8</sup> meters ( 10<sup>-2</sup> µm)  which is about one thousandth of a bunch length ( 12 µm). Therefore, all the electrons stay pretty much in their same location in the bunch, those at the head stay at the head and continue to give up energy and those at the tail stay there and keep gaining energy. Thus, assuming the model of how plasma acceleration works is correct, this experiment demonstrates convincingly that Einstein’s improvement of Newton’s idea is correct. 
 
 
-##### The electron bunch stays together in the plasma accelerator
+#### The electron bunch stays together in the plasma accelerator
 
 Before entering the plasma accelerator, all the electrons experienced the same accelerating force in the Linac to get them all to 42 GeV. Once they enter the plasma accelerator, things change drastically. The electrons at the head of the bunch experience a force against their motion as they give up energy to create the ionized plasma surrounding the bunch and the electrons at the tail of the bunch are accelerated forward by the field of the ionized plasma cloud of electrons. Unlike in the Linac where all the electrons get the same push forward and thus have the same energy and same speed, in the plasma accelerator they start getting different pushes and we asked why the bunch stayed together.
 
@@ -378,7 +378,7 @@ Expressed mathematically, this is the difference between
 If you have followed the math in the tutorial you should have a sense of how this strange formula creates this marvelous relativistic effect. 
 
 
-### To summarize
+# To summarize
 
 According to Newtonian theory the energy of motion of an object is 
 
