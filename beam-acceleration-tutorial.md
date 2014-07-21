@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tutorial - Beam Acceleration
+title: The acceleration of particle beams
 pagetype: tutorial
 ---
 
