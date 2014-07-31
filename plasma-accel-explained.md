@@ -40,7 +40,7 @@ After you have studied the energy doubling paper you can go in one of two direct
 
 
 
-<p>To begin studying the energy doubling research paper go here <a href="/energy-doubling-explained.html">Energy doubling research paper explained.</a></p>
+<p>To begin studying the energy doubling research paper go here to the <a href="/energy-doubling-explained.html">energy doubling research paper explained.</a></p>
 
 <p>Here is a link to <a href="/plain-english-papers.html">more about the history and philosophy of plain English explanations.</a></p>
 
