@@ -4,7 +4,7 @@ title: Relativity and high energy particle beams
 pagetype: tutorial
 ---
 
-# Overview
+## Overview
 
 This tutorial on relativity theory depends on material developed in the [beam acceleration tutorial.](/beam-acceleration-tutorial.html) That tutorial should be read before this tutorial.
 
@@ -25,7 +25,7 @@ We will also present a series of calculations of numerical examples, which incre
 We have indicated extended calculations by noting when a calculation begins and ends. The idea is that you may skip over the details, especially on a first reading of the tutorial. But to get a real feeling for what it is like to actually do physics calculations we encourage you to eventually take pencil, paper and calculator and work through each step in a calculation. Take your time and enjoy the experience of understanding how it is done. 
 
 
-# Force, energy, work, potential energy, energy of motion (kinetic energy), electric potential and all that… 
+## Force, energy, work, potential energy, energy of motion (kinetic energy), electric potential and all that… 
 
 One of the challenges of understanding physics is keeping in mind several interrelated concepts simultaneously. This problem is not restricted to physics. To understand such things as economic and biological systems the interplay of many concepts occurs. The ability to think in abstract ideas is widely believed to be a skill possessed only by humans. Perhaps other animals can form abstract ideas but what does seem to be unique to us is the ability to think not only about abstract ideas but to go a level further and think in terms of abstract relations between abstract ideas. For example, force, mass and acceleration are abstract ideas. Newton’s famous 2nd law, F = ma, is an abstract relation between three abstract concepts. To understand his law we first have to understand each of the three component ideas and then we have to understand the relationship the law expresses. And we will see that some of Einstein’s relativistic concepts and relations are even more complex. So we want to spend a little time emphasizing the differences and relationships between several basic concepts involved in describing objects in motion. 
 
@@ -46,7 +46,7 @@ A clarification may be in order here about the concepts of force and work. Work 
 This seems counter-intuitive because when we lift something heavy and hold it motionless in the air we certainly feel like we are expending energy and doing work. And in fact we are doing work while we hold it still in the air, but the work is not done on moving the object we are holding. The work is being done in our muscle tissues consisting of millions of tiny rubber bands that repeatedly tighten and relax. Each tiny rubber band contraction does indeed do work and we use up the energy stored chemically in ATP molecules, which is eventually converted to heat energy. A force only does work when it moves something.  
 
 
-# Relativity Theory 
+## Relativity Theory 
 
 (This discussion of relativity focuses only on the aspects that are essential to understand high energy particle beams. We will not go into many famous aspects of relativity theory such as time dilation, length contraction, the twin paradox and others.) We begin with a mostly English exposition but we gradually add some math to get actual numbers to give a better feeling for the sizes of the effects involved. On a first reading you can skip over the calculations without a problem but if you desire to know how a physicist understands relativity, come back to the calculations and not only step through them in your mind but reproduce them yourself on a piece of paper using a calculator to do some of the arithmetic. It may take a little time and sometimes require figuring out exactly how a calculation was done, but that is when you will really get your ideas right. The education of a physicist through course work always involves an extensive amount of mathematical problem solving both in homework and tests, not to mention in the classroom lectures. 
 
@@ -378,7 +378,7 @@ Expressed mathematically, this is the difference between
 If you have followed the math in the tutorial you should have a sense of how this strange formula creates this marvelous relativistic effect. 
 
 
-# Summary
+## Summary
 
 According to Newtonian theory the energy of motion of an object is 
 
