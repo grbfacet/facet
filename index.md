@@ -22,9 +22,9 @@ To get started on learning more about the Plain English Explanation approach to 
 
 [Some fundamental concepts of physics](/principles-of-physics-tutorial.html)
 
-[The acceleration of particle beams](/beam-acceleration-tutorial.html)
-
 [Guiding the particle beam trajectory with magnets](/beam-control-tutorial.html)
+
+[The acceleration of particle beams](/beam-acceleration-tutorial.html)
 
 [Relativity and high energy particle beams](/relativity-tutorial.html)
 
