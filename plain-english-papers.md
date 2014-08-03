@@ -4,11 +4,11 @@ title: More on the history and philosophy of Plain English Explanations
 pagetype: reference
 ---
 
-# Overview
+## Overview
 
 First, there is a discussion of the Plain English concept and some history behind it. Then there is an extended quote from a chairman of the Science Committee of the U.S. House of Representatives expressing his belief in the importance of scientists learning how to communicate their research to the public.
 
-# The Plain English concept and some history
+## The Plain English concept and some history
 
 This is an experiment in communicating detailed scientific research to the interested general public. It is based on a concept pursued by the DZero Collaboration at Fermilab in the 1990s, the Plain English Paper. They astutely recognized that science proceeds by establishing and publishing specific focused results and these results are self-contained packets of information. But they are written in arcane jargon. For each published research paper they wanted to write a Plain English version.
 
@@ -24,7 +24,7 @@ We want to give you a quantitative mathematical feel for the physics involved bu
 
 If you dislike studying material on a screen you can print out the research paper, the plain English explanation of the paper and/or the physics tutorials. Each can be read separately but the plain English explanation and the tutorials are linked by references (hyperlinks) from the English explanation into the physics tutorial. Your printed versions will allow you to follow these links. 
 
-# The view from the U.S. Congress
+## The view from the U.S. Congress
 
 The Science Committee in the U.S. House of Representatives recently held a series of hearings on science policy. The necessity for scientists to communicate their work to the public was highlighted. In the session, Communicating Science and Engineering in a Sound-Bite World, May 14, 1998.Chairman Sensenbrenner’s opening remarks include the following extended quote. (http://www.house.gov/science/hearing.htm#Science_Policy)
 
