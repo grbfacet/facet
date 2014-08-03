@@ -4,19 +4,19 @@ title: Some fundamental concepts of physics
 pagetype: tutorial
 ---
 
-# Overview
+## Overview
 
 In this tutorial we discuss the outlook and approach of modern physics, physics since roughly Newton. We look at methods and practices of physics as a science. Other tutorials delve into various specific physics subjects. 
 
 
 
-# The terms “classical”, “quantum” and “modern” as used by physicists
+## The terms “classical”, “quantum” and “modern” as used by physicists
 
 The term “classical” as in “classical physics” or “classical mechanics” or “classical electrodynamics” or “classical statistical mechanics” or many other uses is contrasted with the term “quantum” as in “quantum physics” or “quantum mechanics” or “quantum electrodynamics” or “quantum statistical mechanics”. This usage has a precisely understood meaning among physicists. Classical physics is all of physics that does not require consideration of quantum effects. Quantum effects are generally only noticeable when we are dealing with very tiny energy effects on the level of atomic phenomena. The term “classical” does not refer to a historical era although its etymological origin is related to a historical reference. Even today, there are new discoveries in many areas of classical physics. The revolutionary Einstein theories of relativity and gravitation are part of classical physics since quantum effects are not part of those theories. 
 
 In western culture at large, “classical” as a historical term refers to the Greco-Roman era two millennia ago. In western culture at large the term “modern” has a multitude of historical period references. Perhaps a good example of the confusion possible about this adjective is when we consider that the modernist period in English literature ended sometime before World War II, followed by the post-modernist period which also has had its zenith and is essentially over today. In other uses in western culture, the term “modern” often refers generally to a time that began with the Renaissance, creating the three western periods classical, medieval and modern. In physics the term “modern” is also used in contradictory ways but one important usage is when it is said that modern physics began with Newton. 
 
-# Calculus and modern physics
+## Calculus and modern physics
 
 Although we will use very little calculus in this physics tutorial it will be helpful to understand what calculus, invented by Newton, did for physics. Newton’s calculus is the mathematics of change and accumulation. Modern physics began with Newton’s invention of calculus. From, at least, the time of the ancient Greeks, people have tried to understand change but until there was a mathematical tool available to describe change quantitatively, the study of change was essentially limited. 
 
@@ -122,7 +122,7 @@ It is interesting to note that Archimedes actually developed the beginnings of i
 
 
 
-# Theories and measurement errors 
+## Theories and measurement errors 
 
 In the relativity tutorial we will discuss Einstein's Relativity Theory which improved Newton's theory of motion. When this transition from Newton to Einstein is normally described it is referred to as Einstein disproving Newton's theory. We take the view that Einstein improved Newton's theory in the sense that Newton's theory turned out to be only an approximation to a more inclusive theory. This brings up the crucial role of measurement error in experimental science. A quantitative theory is used to make a numerical prediction about what will happen in a particular situation. The prediction is normally a number that can be measured. Let’s say the theory predicts 2.7 inches and a series of measurements are made and the result is a series of numbers like 
 
