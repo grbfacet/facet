@@ -308,11 +308,11 @@ At ten times the velocity of the 1 GeV electrons, the 100 GeV electron would cov
 
 Calculation: Let’s now look at the situation from Einstein’s point of view.
 
-<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>/( 1 – β<sup>2</sup> )<sup>1/2</sup>, where β = v/c.</span>
+<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>/(1 – β<sup>2</sup>)<sup>1/2</sup>, where β = v/c.</span>
 
 Let’s rewrite that as
 
-<span class="eq">E<sub>Einstein</sub>/m<sub>0</sub>c<sup>2</sup> = 1/( 1 – β<sup>2</sup> )<sup>1/2</sup> .</span>
+<span class="eq">E<sub>Einstein</sub>/m<sub>0</sub>c<sup>2</sup> = 1/(1 – β<sup>2</sup>)<sup>1/2</sup> .</span>
 
 If we plug in the mass of an electron and multiple it by c<sup>2</sup> and convert units we find 
 
@@ -320,7 +320,7 @@ If we plug in the mass of an electron and multiple it by c<sup>2</sup> and conve
 
 The electron rest mass of 0.5 MeV is a number every particle physicist knows better than they know their spouse's birthday. Let’s consider a 7 GeV electron just to make the math simple later
 
-<span class="eq">E<sub>Einstein</sub>/m<sub>0</sub>c<sup>2</sup> = 7 x 10<sup>9</sup> eV/ 0.5 x 10<sup>6</sup> eV = 1.4 x 10<sup>4</sup> = 1/( 1 – β<sup>2</sup> )<sup>1/2</sup> .</span>
+<span class="eq">E<sub>Einstein</sub>/m<sub>0</sub>c<sup>2</sup> = 7 x 10<sup>9</sup> eV/ 0.5 x 10<sup>6</sup> eV = 1.4 x 10<sup>4</sup> = 1/(1 – β<sup>2</sup>)<sup>1/2</sup> .</span>
 
 Square both sides and do a little arithmetic
 
@@ -328,23 +328,23 @@ Square both sides and do a little arithmetic
 	
 <span class="eq">β<sup>2</sup> = 1 - 0.5 x 10<sup>-8</sup>,</span>
 	
-<span class="eq">β = ( 1 – 0.5 x10<sup>-8</sup> )<sup>1/2</sup>.</span>
+<span class="eq">β = (1 – 0.5 x10<sup>-8</sup>)<sup>1/2</sup>.</span>
 
 We saw earlier using a Taylor expansion that 
 
-<span class="eq">f(x) = ( 1 + x )<sup>1/2</sup> ≈ 1 + ½x – ¼ x<sup>2</sup>.</span>
+<span class="eq">f(x) = (1 + x)<sup>1/2</sup> ≈ 1 + ½x – ¼ x<sup>2</sup>.</span>
 
 Now we will modify this slightly replacing x with –x:
 
-<span class="eq">f(-x) = ( 1 + (-x) )<sup>1/2</sup> ≈ 1 + ½(-x) – ¼(-x)<sup>2</sup>,</span>
+<span class="eq">f(-x) = (1 + (-x))<sup>1/2</sup> ≈ 1 + ½(-x) – ¼(-x)<sup>2</sup>,</span>
 
 to get
 
-<span class="eq">( 1 - x )<sup>1/2</sup> ≈ 1 - ½x – ¼x<sup>2</sup>.</span>
+<span class="eq">(1 - x)<sup>1/2</sup> ≈ 1 - ½x – ¼x<sup>2</sup>.</span>
 
 Let’s use this to evaluate 
 
-<span class="eq">β = ( 1 – 0.5 x 10<sup>-8</sup> )<sup>1/2</sup>.</span>
+<span class="eq">β = (1 – 0.5 x 10<sup>-8</sup>)<sup>1/2</sup>.</span>
 
 The third term, the x<sup>2</sup> term will be 10<sup>-8</sup> smaller than the x term so we discard it to get,
 
@@ -356,24 +356,24 @@ Since β = v/c, and c = 3 x 10<sup>8</sup> m/s,
 
 <span class="eq"> v ≈ c – 0.25 x 10<sup>-8</sup> x 3 x 10<sup>8</sup> m/s.</span>
 
-<span class="eq"> v ≈ c – 0.75 m/s.End of calculation</span>
+<span class="eq"> v ≈ c – 0.75 m/s. End of calculation</span>
 
-The 7 GeV electron is only 0.75 m/sec slower than the speed of light! Even if the fastest electron were going at the speed of light (not possible), the “slow” 7 GeV electron would only be falling behind at the rate of 1 part in 10<sup>8</sup>. Over the one meter length of the plasma accelerator the 7 GeV electron would fall behind any faster electron by, at most, about 10<sup>-8</sup> meters ( 10<sup>-2</sup> µm)  which is about one thousandth of a bunch length ( 12 µm). Therefore, all the electrons stay pretty much in their same location in the bunch, those at the head stay at the head and continue to give up energy and those at the tail stay there and keep gaining energy. Thus, assuming the model of how plasma acceleration works is correct, this experiment demonstrates convincingly that Einstein’s improvement of Newton’s idea is correct. 
+The 7 GeV electron is only 0.75 m/sec slower than the speed of light! Even if the fastest electron were going at the speed of light (not possible), the “slow” 7 GeV electron would only be falling behind at the rate of 1 part in 10<sup>8</sup>. Over the one meter length of the plasma accelerator the 7 GeV electron would fall behind any faster electron by, at most, about 10<sup>-8</sup> meters (10<sup>-2</sup> µm)  which is about one thousandth of a bunch length (12 µm). Therefore, all the electrons stay pretty much in their same location in the bunch, those at the head stay at the head and continue to give up energy and those at the tail stay there and keep gaining energy. Thus, assuming the model of how plasma acceleration works is correct, this experiment demonstrates convincingly that Einstein’s improvement of Newton’s idea is correct. 
 
 
 #### The electron bunch stays together in the plasma accelerator
 
-Before entering the plasma accelerator, all the electrons experienced the same accelerating force in the Linac to get them all to 42 GeV. Once they enter the plasma accelerator, things change drastically. The electrons at the head of the bunch experience a force against their motion as they give up energy to create the ionized plasma surrounding the bunch and the electrons at the tail of the bunch are accelerated forward by the field of the ionized plasma cloud of electrons. Unlike in the Linac where all the electrons get the same push forward and thus have the same energy and same speed, in the plasma accelerator they start getting different pushes and we asked why the bunch stayed together.
+Before entering the plasma accelerator, all the electrons experienced the same accelerating force in the Linac to get them all to 42 GeV. Once they enter the plasma accelerator, things change drastically. The electrons at the head of the bunch experience a force against their motion as they give up energy to create the ionized plasma surrounding the bunch, and the electrons at the tail of the bunch are accelerated forward by the field of the ionized plasma cloud of electrons. Unlike in the Linac where all the electrons get the same push forward and thus have the same energy and same speed, in the plasma accelerator they start getting different pushes and we asked why the bunch stayed together.
 
 We have seen that the Einstein theory of relativity reduces to the Newtonian theory at low speeds relative to the speed of light, speeds we are familiar with in our normal lives. But at speeds nearing the speed of light, the Newtonian theory is completely wrong. The Newtonian theory says a force applied over a distance does work on an object thus increasing both the energy and the speed of the object. But as we approach the speed of light and relativity comes into play, more and more of the work done by the accerating force goes into increasing the inertial mass of the object and less and less goes into increasing its speed. 
 
-This explains how the electron bunch stays together despite some electrons losing energy while others gain energy. We make an analogy with a pack of marathon runners nearing the finish line after all running at the same speed for most of the race (metaphorically equivalent to traveling in the Linac). (Metaphorically entering the plasma accelerator) some at the front of the pack start to run out of energy reserves and have less energy to put into running while others at the back of the pack stage a finishing kick by drawing on remaining energy reserves. In our world where they are running about 12 miles an hour the pack spreads out. But in a Gamowian Mr. Tompkins world where the speed of light is just barely above the speed of the pack, let’s say, 12.01 miles per hour we would find that the tiring runners (at the front of the pack) having less ability to push themselves don’t actually slow down very much, instead they seem to lose weight allowing them to maintain the speed of the pack with less effort!!! And the ones (at the back of the pack) with the finishing kick that push themselves harder don’t speed up much and thus don’t gain much on the runners at the front of the pack. Instead they seem to become heavier requiring more effort to maintain their pace!!! To be precise, the lead runners do lose a tiny amount of of their lead and the tail runners gain a tiny amount on the leaders but the changes are a tiny fraction of the lenght of the pack. Such is the world of near light speed phenomena. And plasma acceleration would not work without this peculiar effect of nature keeping the electron bunch intact and in the same order! 
+This explains how the electron bunch stays together despite some electrons losing energy while others gain energy. We make an analogy with a pack of marathon runners nearing the finish line after all running at the same speed for most of the race (metaphorically equivalent to traveling in the Linac). (Metaphorically entering the plasma accelerator) some at the front of the pack start to run out of energy reserves and have less energy to put into running while others at the back of the pack stage a finishing kick by drawing on remaining energy reserves. In our world where they are running about 12 miles an hour the pack spreads out. But in a Gamowian Mr. Tompkins world where the speed of light is just barely above the speed of the pack, let’s say, 12.01 miles per hour we would find that the tiring runners (at the front of the pack) having less ability to push themselves don’t actually slow down very much, instead they seem to lose weight allowing them to maintain the speed of the pack with less effort!!! And the ones (at the back of the pack) with the finishing kick that push themselves harder don’t speed up much and thus don’t gain much on the runners at the front of the pack. Instead they seem to become heavier requiring more effort to maintain their pace!!! To be precise, the lead runners do lose a tiny amount of their lead and the tail runners gain a tiny amount on the leaders but the changes are a tiny fraction of the length of the pack. Such is the world of near light speed phenomena. And plasma acceleration would not work without this peculiar effect of nature keeping the electron bunch intact and in the same order! 
 
 Expressed mathematically, this is the difference between
 
 <span class="eq">E<sub>Newton</sub> = ½ m<sub>0</sub>v<sup>2</sup> and</span>
 
-<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>/( 1- (v/c)<sup>2</sup> )<sup>1/2</sup>.</span>
+<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>/(1- (v/c)<sup>2</sup>)<sup>1/2</sup>.</span>
 
 If you have followed the math in the tutorial you should have a sense of how this strange formula creates this marvelous relativistic effect. 
 
@@ -398,27 +398,27 @@ Where
 
 <span class="eq">m = m<sub>0</sub>γ(β) and</span>
 
-<span class="eq">γ(β) = 1/( 1 - β<sup>2</sup> )<sup>1/2</sup> and</span> 
+<span class="eq">γ(β) = 1/(1 - β<sup>2</sup>)<sup>1/2</sup> and</span> 
 
 <span class="eq">β = v/c .</span>
 
 Writing it all out without the gamma and beta
 
-<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>/( 1 - (v/c)<sup>2</sup> )<sup>1/2</sup> and we solve for the inertial mass, m,</span> 
+<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>/(1 - (v/c)<sup>2</sup>)<sup>1/2</sup> and we solve for the inertial mass, m,</span> 
 
-<span class="eq">m = m<sub>0</sub>/( 1 – (v/c)<sup>2</sup> )<sup>1/2</sup>.</span>
+<span class="eq">m = m<sub>0</sub>/(1 – (v/c)<sup>2</sup>)<sup>1/2</sup>.</span>
 
 When v = 0, when the particle is not moving, m = m<sub>0</sub>, the rest mass.
 
 When v approaches c, m and hence E<sub>Einstein</sub> become infinitely large.
 
-When v is greater than c the Einstein formula tells us the numbers for the energy and the mass are so-called imaginary numbers, a number with a √(-1), which is hard to understand what that might mean. And we can see that you can’t get a particle to v greater than c by starting with v less than c and pushing it because it has to pass through a stage of infinite mass which takes an infinite amount of energy.
+When v is greater than c the Einstein formula tells us the numbers for the energy and the mass are so-called imaginary numbers, a number with a √(-1), which may be hard to understand. And we can see that you can’t get a particle to v greater than c by starting with v less than c and pushing it because it has to pass through a stage of infinite mass which takes an infinite amount of energy.
 
 Then we went on to look at what happens between v = 0 and v = c, the realm of objects we deal with in life and science. We found that for an object traveling at speeds in the range of a comet hitting the earth, v ~ 18.6 miles/sec that even at this very high speed m is little changed
 
 <span class="eq">m ≈ 1.0000005m<sub>0</sub>, a one half millionth increase.</span>
 
-To make a noticeable difference in the mass, say to double the inrtial mass, we found we needed
+To make a noticeable difference in the mass, say to double the inertial mass, we found we needed
 
 <span class="eq">v ≈ 0.87c, the particle moving at 87% of the speed of light.</span>
 
@@ -428,7 +428,7 @@ For a tenfold increase of inertial mass
 
 Since the rest mass of an electron is 0.5 MeV the velocity of a 7 GeV electron is
 
-<span class="eq">v ≈ ( 1 – 0.25 x 10<sup>-8</sup> )c, about one quarter of a millionth of one percent shy of the speed of light.</span>
+<span class="eq">v ≈ (1 – 0.25 x 10<sup>-8</sup>)c, about one quarter of a millionth of one percent shy of the speed of light.</span>
 
 Finally, we noted that according to Newton any time you double the energy of motion you increase speed by about 40%. In the energy doubling experiment, the particle bunch is tiny and all the electrons are at essentially the same energy when they enter the plasma accelerator. After traveling one meter in the plasma accelerator the electrons’ energies ranged from around 84 GeV down to 5 GeV. Intuitively this should cause the bunch to spread out a great deal, yet we found that the velocity difference between the electrons was about one part in 10<sup>8</sup> and over the distance of one meter this hardly affects the particle’s location in the bunch. 
 
