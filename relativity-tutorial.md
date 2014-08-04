@@ -20,7 +20,7 @@ To lead up to this final result we present information on the Newtonian theory o
 
 The approach of focusing on a very specific result, the bunch integrity, is in harmony with the idea of looking at a journal paper as focused on [one very specific result.](/plain-english-papers.html#the-concept-and-some-history) We aim to have a very narrow focus and to drill down deep in the tutorials rather than describing a broad array of topics as is typical of textbooks and most scientific expositions written for a lay audience.
 
-We will also present a series of calculations of numerical examples, which increase in difficulty, for the reader who wants to experience the kind of calculations physicists actually do to get quick rough numerical estimations (so called “back of the envelop” or “paper napkin” calculations - called napkin calculations because they take place during lunch.)
+We will also present a series of calculations with numerical examples, which increase in difficulty. These are examples of the kinds of calculations physicists actually do to get quick rough numerical estimations (so-called “back of the envelop” or “paper napkin” calculations - they are called napkin calculations because they take place during lunch.)
 
 We have indicated extended calculations by noting when a calculation begins and ends. The idea is that you may skip over the details, especially on a first reading of the tutorial. But to get a real feeling for what it is like to actually do physics calculations we encourage you to eventually take pencil, paper and calculator and work through each step in a calculation. Take your time and enjoy the experience of understanding how it is done. 
 
@@ -33,13 +33,13 @@ From the most general point of view, physics is often about how things change wh
 
 We will discuss a variety of related concepts from what is called "dynamics of motion" and we will discuss both Newtonian dynamics and the Einstein Relativistic dynamics. It is important to keep track of which specific dynamic concept is being referred to in a particular situation. You are probably familiar with the Newtonian theory of motion that a force causes a mass to accelerate. The same is true in relativistic theory but the details are different. In Newtonian theory, the object being accelerated has an unchanging inertial mass but in relativistic theory, the inertia of an object increases with its speed. In both theories, the amount of material in the object is unchanged in the sense that it still contains the same number of atoms but, in the relativistic version theory,the atoms each get “heavier” or more resistant to being accelerated the faster they move. This does not happen in the Newtonian theory.
 
-In Newtonian theory, with enough force applied for long enough time, an object can be accelerated to any desired speed, in particular it can be accelerated beyond the speed of light. However, Relativity says the object's speed is limited to only approaching the speed of light. Both theories would see the same force being applied but the result would be different. The relativistic increase of inertial mass is such that the closer its speed gets to the speed of light, the heavier it gets and its inertial mass approaches infinitely heavy as its speed approaches the speed of light. 
+In Newtonian theory, with enough force applied for a long enough time, an object can be accelerated to any desired speed, in particular it can be accelerated beyond the speed of light. However, Relativity says the object's speed is limited to only approaching the speed of light. Both theories would see the same force being applied but the result would be different. The relativistic increase of inertial mass is such that the closer its speed gets to the speed of light, the heavier it gets and its inertial mass approaches infinitely heavy as its speed approaches the speed of light. 
 
 A body in motion has energy of motion, called kinetic energy in both theories. Energy can take various forms besides energy of motion. A stretched slingshot has potential energy that can be converted to the kinetic energy of the stone in motion when the sling is released. The stone, shot straight up in the air, will slow down (“decelerate”) because the force of gravity is pulling it down and that slows it until it stops rising at some height. Now all its energy of motion has been reconverted into potential energy of height in a gravitational field. As it begins to fall it picks up speed, and thus kinetic energy, as it goes lower and it loses its gravitational potential energy of height. According to the law of conservation of energy, the total of both kinetic and potential energy is constant as energy swings from one form to the other. 
 
 Of course, we are disregarding loss of motion energy to friction with the atmosphere which is converting motion energy into heat energy of the air. Once the increased temperature of the friction heated air is accounted for, the law of conservation of energy is maintained. Thus, the energy swings from the potential energy in a stretched rubber band to the kinetic energy of motion to the potential energy of an object in a gravitational field back to kinetic energy of motion and when the stone hits the ground and stops, the energy is transferred into shock waves in the stone and the ground and the shock waves dissipate into heating the stone and the ground. Think of the extreme case of a meteor hitting the earth.
 
-The force of gravity is something we experience as a force every time we pick something up. But we just mentioned that an object raised in the air has potential energy. There are a cluster of related ideas lurking here. When we lift the object we are applying our own force to counteract the force of gravity. We apply the force over a distance, the distance we lift the object, and the technical term for that is “work” and it is simply the amount of force times the distance the force is applied. When released, the slingshot applies a force to the stone to give it motion. The force of the sling shot is applied over a distance of perhaps a foot or so until the stone leaves the sling. That's a force applied over a distance to an object, hence it is work. Work creates either potential energy (raising an object or stretching a slingshot) or kinetic energy (a falling object or a stone from a slingshot). Since work, the product of a force, F, and a distance,d, is changing energy from one form to another we might turn things around mathematically from E = F x d and note that F = E/d. When E is potential energy, E/d is sometimes thought of as a potential energy gradient. 
+The force of gravity is something we experience as a force every time we pick something up. But we just mentioned that an object raised in the air has potential energy. There are a cluster of related ideas lurking here. When we lift the object we are applying our own force to counteract the force of gravity. We apply the force over a distance, the distance we lift the object, and the technical term for that is “work” and it is simply the amount of force times the distance the force is applied. When released, the slingshot applies a force to the stone to give it motion. The force of the sling shot is applied over a distance of perhaps a foot or so until the stone leaves the sling. That's a force applied over a distance to an object, hence it is work. Work creates either potential energy (raising an object or stretching a slingshot) or kinetic energy (a falling object or a stone from a slingshot). Since work, the product of a force, F, and a distance, d, is changing energy from one form to another we might turn things around mathematically from E = F x d and note that F = E/d. When E is potential energy, E/d is sometimes thought of as a potential energy gradient. 
 
 A clarification may be in order here about the concepts of force and work. Work is a transfer of energy of one form into another form and work occurs when a force acts over a distance, which is when it moves something. A stone pillar that holds a marble statue in the air motionless for centuries is not doing any work even though the force is always there balancing the ever present force of gravity pulling down on the statue. Gravity is not doing any work either because nothing is moving. 
 
@@ -90,24 +90,24 @@ and we need the rest mass of an electron,
 
 The powers of ten involved in these numbers show the vast difference between the scale of ordinary human level phenomena and sub-atomic particles. Plugging in these two factors and doing some arithmetic we get
 
-<span class="eq">v = ( 2 x 42 GeV / 9.1 x 10<sup>-31</sup> kg )<sup>1/2</sup> ,</span>
+<span class="eq">v = (2 x 42 GeV / 9.1 x 10<sup>-31</sup> kg)<sup>1/2</sup> ,</span>
 	
-<span class="eq">v = ( 2 x 4.2 x 10<sup>10</sup> eV x 1.6 x 10<sup>-19</sup> J/eV / 9.1 x 10<sup>-31</sup> kg )<sup>1/2</sup>,</span>
+<span class="eq">v = (2 x 4.2 x 10<sup>10</sup> eV x 1.6 x 10<sup>-19</sup> J/eV / 9.1 x 10<sup>-31</sup> kg)<sup>1/2</sup>,</span>
 
-<span class="eq">v ≈ ( 1.5 x 10<sup>22</sup> m<sup>2</sup>/sec<sup>2</sup> )<sup>1/2</sup> ≈ 1.2 x 10<sup>11</sup>m/sec.</span>
+<span class="eq">v ≈ (1.5 x 10<sup>22</sup> m<sup>2</sup>/sec<sup>2</sup>)<sup>1/2</sup> ≈ 1.2 x 10<sup>11</sup>m/sec.</span>
 
 
 Since the speed of light, c = 3 x 10<sup>8</sup> m/sec 
 
 <span class="eq">v ≈ 1.2 x 10<sup>11</sup> / 3 x 10<sup>8</sup> ≈ 400 times the speed of light. End of calculation.</span>
 
-If Newton’s formula still was accurate at 42 GeV the electron coming out of the Linac would be going 400 times the speed of light! Since relativity tells us nothing can be accelerated to surpass the speed of light,we can see that the m term must be increasing a very great deal to thwart surpassing c. In fact, it will have to approach infinity as the speed approaches c, as we will see shortly.
+If Newton’s formula was still accurate at 42 GeV, the electron coming out of the Linac would be going 400 times the speed of light! Since relativity tells us nothing can be accelerated to surpass the speed of light, we can see that the m term must be increasing a very great deal to thwart surpassing c. In fact, it will have to approach infinity as the speed approaches c, as we will see shortly.
 
 #### The relativistic inertial mass formula
 
 In relativity theory we denote the mass of an object at rest (not moving) as m<sub>0</sub> and call it the object’s rest mass. We denote the mass of the object as it moves simply by m and relativity tells us m gets bigger as the speed of the body increases. The formula is 
 
-<span class="eq">m = m<sub>0</sub>/( 1 – (v/c)<sup>2</sup> )<sup>1/2</sup>,</span>  [add plot]
+<span class="eq">m = m<sub>0</sub>/(1 – (v/c)<sup>2</sup>)<sup>1/2</sup>,</span>  [add plot]
 
 where c is the speed of light, 300,000 km/sec (186,000 mi/sec). 
 
@@ -127,13 +127,13 @@ Let’s have a look at what happens between v = 0 and v = c. What about v = 18.6
 
 Calculation: Let’s plug v/c = 0.001 in the mass formula and see what we get. 
 
-<span class="eq">m = m<sub>0</sub>/( 1 - (0.001)<sup>2</sup> )<sup>1/2</sup> ,</span>
+<span class="eq">m = m<sub>0</sub>/(1 - (0.001)<sup>2</sup>)<sup>1/2</sup> ,</span>
 
-<span class="eq">m = m<sub>0</sub>/( 1 – 0.000001 )<sup>1/2</sup> ,</span>
+<span class="eq">m = m<sub>0</sub>/(1 – 0.000001)<sup>1/2</sup>,</span>
 
-<span class="eq">m = m<sub>0</sub>/0.999999<sup>1/2</sup> ,</span>
+<span class="eq">m = m<sub>0</sub>/0.999999<sup>1/2</sup>,</span>
 
-<span class="eq">m = m<sub>0</sub>/0.9999995 ,</span>
+<span class="eq">m = m<sub>0</sub>/0.9999995,</span>
 
 <span class="eq">m = 1.0000005m<sub>0</sub>. End calculation.</span> 
 
@@ -141,17 +141,17 @@ The inertia is only increased by a factor of one half of a millionth even at a s
 
 Calculation: Now let’s work backwards to find out how fast m<sub>0</sub> must be going to double its inertia. We want 
 
-<span class="eq">m = m<sub>0</sub>/( 1 - (v/c)<sup>2</sup> )<sup>1/2</sup> = 2m<sub>0</sub>.</span> 
+<span class="eq">m = m<sub>0</sub>/(1 - (v/c)<sup>2</sup>)<sup>1/2</sup> = 2m<sub>0</sub>.</span> 
 
 The two m<sub>0</sub> factors cancel and we want to solve for v starting with 
 
-<span class="eq">1/( 1 – (v/c)<sup>2</sup> )<sup>1/2</sup> = 2. Let’s move things around a little to get</span>
+<span class="eq">1/(1 – (v/c)<sup>2</sup>)<sup>1/2</sup> = 2. Let’s move things around a little to get</span>
 
-<span class="eq">( 1 - (v/c)<sup>2</sup> )<sup>1/2</sup> = ½. Let’s square both sides to get</span>
+<span class="eq">(1 - (v/c)<sup>2</sup>)<sup>1/2</sup> = ½. Let’s square both sides to get</span>
 
-<span class="eq">1 – ( v/c )<sup>2</sup> = ¼. Let’s rearrange to get</span>
+<span class="eq">1 – (v/c)<sup>2</sup> = ¼. Let’s rearrange to get</span>
 
-<span class="eq">( v/c )<sup>2</sup> = ¾. Now let’s take the square root of both sides to get</span>
+<span class="eq">(v/c)<sup>2</sup> = ¾. Now let’s take the square root of both sides to get</span>
 
 <span class="eq">v/c = (3/4)<sup>1/2</sup> ≈ .87 or</span>
 
@@ -161,7 +161,7 @@ The inertia of an object only doubles by the time it reaches 87% of the speed of
 
 By comparison, if the Newtonian formula were correct, any time you double the energy of motion of an object you will increase its speed from v to √2v which is about a 40% increase for each doubling of the energy. Our normal expectation that things really speed up as you push them harder is not true near the speed of light. Instead of going faster, they just get harder to push. It’s a little bit like eating. We eat for energy and up to a point a meal gives us some energy to move around. But if we eat a lot, our body just stores it as weight and a lot of weight makes it harder for us to move. 
 
-Thus, our initial little electron bunch 12 µm long with all the electrons at same energy, 42 GeV, when it entered the plasma accelerator left the plasma accelerator with with electron energies as high as 84 GeV, some at the original 42 GeV, and many that have lost energy to well below 42 GeV. But because they are already nearly the speed of light, the speed difference between them is so small that the bunch stays pretty much the same size (more on this later). This is, of course, not at all how we think about objects that are accelerated. The Porsche leaves the Prius in the dust with its more powerful engine. This is a great example of how what we know under conditions that our body size and our senses are familiar with may not at all be normal at more extreme conditions of speed where relativity replaces Newtonian laws or small size where quantum mechanics replaces Newtonian laws. And most subatomic physics processes require the simultaneous use of both new theories, relativity and quantum mechanics, to correctly explain what happens. 
+Thus, our initial little electron bunch 12 µm long with all the electrons at same energy, 42 GeV, when it entered the plasma accelerator left the plasma accelerator with electron energies as high as 84 GeV, some at the original 42 GeV, and many that have lost energy to well below 42 GeV. But because they are already nearly the speed of light, the speed difference between them is so small that the bunch stays pretty much the same size (more on this later). This is, of course, not at all how we think about objects that are accelerated. The Porsche leaves the Prius in the dust with its more powerful engine. This is a great example of how what we know under conditions that our body size and our senses are familiar with may not be at all normal at more extreme conditions of speed where relativity replaces Newtonian laws or small size where quantum mechanics replaces Newtonian laws. And most subatomic physics processes require the simultaneous use of both new theories, relativity and quantum mechanics, to correctly explain what happens. 
 
 #### Where Newton approximates Einstein
 
@@ -169,9 +169,9 @@ We stated above that Newtonian theory is an approximation to relativity theory. 
 
 <span class="eq">E<sub>Newton</sub> = 1/2 m<sub>0</sub>v<sup>2</sup> and</span> 
 
-<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>/( 1 - (v/c)<sup>2</sup> )<sup>1/2</sup>.</span> 
+<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>/(1 - (v/c)<sup>2</sup>)<sup>1/2</sup>,</span> 
 
-It’s not at all obvious that the first is an approximation to the second. The way to make this more precise is that we want to see that the second one looks more and more like the first one when v/c gets smaller and smaller. We already noted that at v = 0 E<sub>Einstein</sub> does not equal 0 but E<sub>Newton</sub> does equal 0. So what is that about? We can use a Taylor series expansion of E<sub>Einstein</sub> to explore this issue. 
+it’s not at all obvious that the first is an approximation to the second. The way to make this more precise is that we want to see that the second one looks more and more like the first one when v/c gets smaller and smaller. We already noted that at v = 0 E<sub>Einstein</sub> does not equal 0 but E<sub>Newton</sub> does equal 0. So what is that about? We can use a Taylor series expansion of E<sub>Einstein</sub> to explore this issue. 
 
 A function of a variable x, f(x), can be proved to be equal to an infinite sum of terms, called a Taylor series expansion.
 
@@ -179,7 +179,7 @@ A function of a variable x, f(x), can be proved to be equal to an infinite sum o
 
 Notice the formula is saying you can calculate the value of f for some value of x, not zero, by knowing the values of f and its derivatives at x = 0.
 
-The nice thing for us about Mr. Taylor’s formula can be seen if you consider a case where x is much smaller than 1 and close to 0. When you take a number smaller than 1 and near zero and calculate it’s powers (multiples of itself), those powers rapidly get much smaller. If 
+The nice thing for us about Taylor’s formula can be seen if you consider a case where x is much smaller than 1 and close to 0. When you take a number smaller than 1 and near zero and calculate it’s powers (multiples of itself), those powers rapidly get much smaller. If 
 
 <span class="eq">x = 0.1, then</span>
 
@@ -197,33 +197,33 @@ And this means as you go further out in the sum of the Taylor series those terms
 
 Calculation: Let’s apply the series to something fairly simple to see how it works. Consider a formula like 
 
-<span class="eq">f(x) = ( 1 + x )<sup>1/2.</sup></span>
+<span class="eq">f(x) = (1 + x)<sup>1/2.</sup></span>
  
 The first term in the series, f(0) means to replace x with 0 in the formula giving
 
-<span class="eq">f(0) = ( 1 + 0 )<sup>1/2</sup> = 1<sup>1/2</sup>  = 1.</span>
+<span class="eq">f(0) = (1 + 0)<sup>1/2</sup> = 1<sup>1/2</sup>  = 1.</span>
 
 From calculus f’(x) the first derivative of f(x) is given by
 
-<span class="eq">f’(x) = d/dx( 1 + x )<sup>1/2</sup> = ½(1 + x)<sup>-1/2</sup> and thus</span>
+<span class="eq">f’(x) = d/dx(1 + x)<sup>1/2</sup> = ½(1 + x)<sup>-1/2</sup> and thus</span>
 	
-<span class="eq">f’(0) = ½( 1 + 0 )<sup>-1/2</sup> = ½(1)<sup>-1/2</sup> = ½.</span>
+<span class="eq">f’(0) = ½(1 + 0)<sup>-1/2</sup> = ½(1)<sup>-1/2</sup> = ½.</span>
  
 Going one more term
 
-<span class="eq">f’’(x) = d/dx( 1/2( 1 + x )<sup>-1/2</sup>) = (1/2)(-1/2)( 1 + x )<sup>-3/2</sup> and thus</span>
+<span class="eq">f’’(x) = d/dx(1/2(1 + x)<sup>-1/2</sup>) = (1/2)(-1/2)(1 + x)<sup>-3/2</sup> and thus</span>
 
 <span class="eq">f’’(0) = (1/2)(-1/2)(1) = -1/4.</span>
 
-Then the first three terms of the Taylor expansion for ( 1 + x )<sup>1/2</sup> are
+Then the first three terms of the Taylor expansion for (1 + x)<sup>1/2</sup> are
 
-<span class="eq">f(x) = ( 1 + x )<sup>1/2</sup> ≈ 1 + ½x – ¼ x<sup>2</sup> .</span>
+<span class="eq">f(x) = (1 + x)<sup>1/2</sup> ≈ 1 + ½x – ¼ x<sup>2</sup> .</span>
 
-For x = 0.1 according to Mr. Taylor,
+For x = 0.1 according to Taylor,
 
-<span class="eq">f( 0.1 ) ≈  1 + ½ x 0.1 – ¼ x (0.1)<sup>2</sup> = 1 + 0.05 - 0.0025 = 1.0475.</span>
+<span class="eq">f(0.1) ≈  1 + ½ x 0.1 – ¼ x (0.1)<sup>2</sup> = 1 + 0.05 - 0.0025 = 1.0475.</span>
 
-Plugging x = 0.1 in the original formula, f(x) = ( 1 + x )<sup>1/2</sup> and using a calculator good to several decimal places
+Plugging x = 0.1 in the original formula, f(x) = (1 + )<sup>1/2</sup> and using a calculator good to several decimal places
 
 <span class="eq">f( 0.1 ) =  ( 1 + 0.1 )<sup>1/2</sup> = √(1.1) = 1.0488.</span>
 
@@ -236,11 +236,11 @@ or about one part in a thousand and we only took the first three terms of the Ta
 
 What happens when we apply the Taylor expansion to 
 
-<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>/( 1 - (v/c)<sup>2</sup> )<sup>1/2</sup> ?</span> 
+<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>/(1 - (v/c)<sup>2</sup>)<sup>1/2</sup> ?</span> 
  
-What plays the role of x here? We are interested in what E<sub>Einstein</sub> looks like at low Newtonian speeds, that is when v is much smaller than c.  For those v, v/c will be close to 0. So We want to do a Taylor expansion of E(v/c), that is, v/c will be our x, except instead of "x" will will call it "β" because that is the standard name for v/c used by physicists when they are doing relativistic calculations. 
+What plays the role of x here? We are interested in what E<sub>Einstein</sub> looks like at low Newtonian speeds, that is when v is much smaller than c.  For those v, v/c will be close to 0. Thus, we want to do a Taylor expansion of E(v/c), that is, v/c will be our x, except instead of "x" will will call it "β" because that is the standard name for v/c used by physicists when they are doing relativistic calculations. 
 
-Calculation: Let’s rewrite in the standarad way it is written by physicistst as
+Calculation: Let’s rewrite in the standarad way it is written by physicists as
 
 <span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>γ(β) where </span> 
 
@@ -248,9 +248,9 @@ Calculation: Let’s rewrite in the standarad way it is written by physicistst a
 
 <span class="eq">β= v/c</span>
 
-and let’s expand γ(β) using Mr. Taylor’s expansion. If you know some calculus check the math, we will just give the result
+and let’s expand γ(β) using Taylor’s expansion. If you know some calculus check the math, we will just give the result
 
-<span class="eq">γ(β) = ( 1 – β<sup>2</sup> )<sup>-1/2</sup> = 1 + 1/2β<sup>2</sup> + 3/8β<sup>4</sup> + …</span>
+<span class="eq">γ(β) = (1 – β<sup>2</sup>)<sup>-1/2</sup> = 1 + 1/2β<sup>2</sup> + 3/8β<sup>4</sup> + …</span>
 
 Now let’s plug in 
 
@@ -266,11 +266,11 @@ This tells us that the first two terms, 1 and 0.00005, dominate all the rest (ac
 
 Let’s put this back in E<sub>Einstein</sub>:
 
-<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>γ(β) ≈ m<sub>0</sub>c<sup>2</sup> ( 1 + 1/2β<sup>2</sup> ) ≈  m<sub>0</sub>c<sup>2</sup> + 1/2 m<sub>0</sub>v<sup>2</sup>.</span>
+<span class="eq">E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>γ(β) ≈ m<sub>0</sub>c<sup>2</sup> (1 + 1/2β<sup>2</sup>) ≈  m<sub>0</sub>c<sup>2</sup> + 1/2 m<sub>0</sub>v<sup>2</sup>.</span>
 
 We can rewrite that as
 
-<span class="eq">E<sub>Einstein</sub> ≈ m<sub>0</sub>c<sup>2</sup> + E<sub>Newton</sub> ! </span>
+<span class="eq">E<sub>Einstein</sub> ≈ m<sub>0</sub>c<sup>2</sup> + E<sub>Newton</sub>!</span>
 
 This tells us that when a body is standing still, i.e. when v = 0, i.e. when E<sub>Newton</sub> = 0 that E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>. This is the best way to understand the idea that mass and energy are inter-convertible. Given that c<sup>2</sup> is a very big number it tells us that a small amount of mass might be convertible into a large amount of energy and that is the basis of the nuclear reactions of fission (atomic bombs and nuclear reactors) and fusion (hydrogen bombs and the energy released by a star’s “burning” of hydrogen and other elements). When a uranium atom fissions into parts, the sum of the weights of the parts is less than the weight of the original atom and that tiny missing weight is converted to very rapid motion, kinetic energy of motion, of the resulting pieces of the break up (fission) of the uranium atom. Similarly, when two atoms fuse into one in the fusion process the final atom weighs less than the original two atoms and the "disappeared" weight goes into energy released in the form of radiation. 
 
