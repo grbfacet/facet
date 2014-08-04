@@ -274,9 +274,9 @@ We can rewrite that as
 
 This tells us that when a body is standing still, i.e. when v = 0, i.e. when E<sub>Newton</sub> = 0 that E<sub>Einstein</sub> = m<sub>0</sub>c<sup>2</sup>. This is the best way to understand the idea that mass and energy are inter-convertible. Given that c<sup>2</sup> is a very big number it tells us that a small amount of mass might be convertible into a large amount of energy and that is the basis of the nuclear reactions of fission (atomic bombs and nuclear reactors) and fusion (hydrogen bombs and the energy released by a star’s “burning” of hydrogen and other elements). When a uranium atom fissions into parts, the sum of the weights of the parts is less than the weight of the original atom and that tiny missing weight is converted to very rapid motion, kinetic energy of motion, of the resulting pieces of the break up (fission) of the uranium atom. Similarly, when two atoms fuse into one in the fusion process the final atom weighs less than the original two atoms and the "disappeared" weight goes into energy released in the form of radiation. 
 
-For most processes we study, chemically rocket ships, accelerated electrons, etc. the first term, the rest energy, is unchanged in the process as we are not changing the particle composition of, say the electron, we are only accelerating it so that term is the same before and after acceleration and the difference is only in the terms that involve a power of the velocity so we can rewrite 
+For many processes we study, i.e., chemically powered rockets, accelerated electrons, etc. the first term, the "rest energy", m<sub>0</sub>, is unchanged by the process as we are not changing the particle composition of, say the electron, we are only accelerating it so that mass term is the same before and after acceleration. The difference is only in the terms that involve the velocity so we can rewrite 
 
-<span class="eq">E<sub>Einstein</sub> of motion = E<sub>Newton</sub> + 3/8 m<sub>0</sub>c<sup>2</sup>β<sup>4</sup></span>
+<span class="eq">E<sub>Einstein</sub> _of motion_ = E<sub>Newton</sub> + 3/8 m<sub>0</sub>c<sup>2</sup>β<sup>4</sup></span>
 
 <span class="eq">= 1/2 m<sub>0</sub>v<sup>2</sup> + 3/8 m<sub>0</sub>v<sup>4</sup>/c<sup>2</sup> + even smaller terms when v/c is small.</span>
 
