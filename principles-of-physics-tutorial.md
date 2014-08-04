@@ -108,13 +108,13 @@ If we were Newton, we might have wondered about integrating the new formula invo
 <span class="eq">1/4 x 1/3 x 1/2gt<sup>4</sup>.</span>
 
 
-We would have found that the integral of gt<sup>n</sup> over t is 
+And we would see a pattern develop. We would have found for an arbitrary power, n, that the integral of gt<sup>n</sup> over t is 
 
 <span class="eq">1/(n+1)gt<sup>n+1</sup>.</span>
 
-Differentiation is going the opposite direction. Just from a mathematical point of view, if you have a formula for the accumulation of distance and you want to know how fast you are accumulating you go the opposite way. If you accumulate kx<sup>n</sup> after x units of total accumulation, then at that moment you are accumulating at the rate of 
+Differentiation is going the opposite direction. Just from a mathematical point of view, if you have a formula like gt<sup>n</sup> for the accumulation of something and you want to know how fast you are accumulating you go the opposite way. You are accumulating at the rate of 
 
-<span class="eq">nkx<sup>n-1</sup>.</span>
+<span class="eq">ngt<sup>n-1</sup>.</span>
 
 Newton’s achievements in physics were staggering but without his achievement of the calculus, none of what we know as physics today would have been possible because physics, the laws governing the material world, almost always involve relations between changing and accumulating variables. And that is calculus. 
 
