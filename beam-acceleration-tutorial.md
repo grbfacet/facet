@@ -66,13 +66,13 @@ Calculation: Solve the Newtonian kinetic energy formula for velocity squared and
 
 Plug in the values for E and m<sub>e</sub> of the 1.5 eV electron and the energy units conversion factor;
 
-<span class="eq">v = ( 2 x 1.5 eV x 1.6 x 10<sup>-19</sup> J/eV / 9.1 x 10<sup>-31</sup> kg)<sup>1/2</sup> .</span>
+<span class="eq">v = (2 x 1.5 eV x 1.6 x 10<sup>-19</sup> J/eV / 9.1 x 10<sup>-31</sup> kg)<sup>1/2</sup> .</span>
 
-<span class="eq">v = ( 0.525 x 10<sup>12</sup> J/kg )<sup>1/2</sup> .</span>  
+<span class="eq">v = (0.525 x 10<sup>12</sup> J/kg)<sup>1/2</sup> .</span>  
 
 Since 1 J = 1 kg-m<sup>2</sup>/sec<sup>2</sup>, J/kg = m<sup>2</sup>/sec<sup>2</sup> .
 
-<span class="eq">v = ( 0.525 x 10<sup>12</sup>  m<sup>2</sup>/sec<sup>2</sup>)<sup>1/2</sup>,</span>
+<span class="eq">v = (0.525 x 10<sup>12</sup>  m<sup>2</sup>/sec<sup>2</sup>)<sup>1/2</sup>,</span>
 
 <span class="eq">v = 0.72 x 10<sup>6</sup> m/sec = 720km/sec ≈ 450 miles/second. End calculation.</span>
 
