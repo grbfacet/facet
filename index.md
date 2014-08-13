@@ -8,7 +8,7 @@ This is the home page for the Plain English approach to a detailed layman's expl
 If this is your first visit please **BEGIN HERE**: [Plain English Explanations of plasma acceleration research papers](/plasma-accel-explained.html).
 
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 ## The published research papers:
