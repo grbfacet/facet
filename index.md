@@ -5,7 +5,7 @@ title: Home page
 
 This is the home page for the Plain English approach to a detailed layman's explanation of FACET's plasma acceleration research program.
 
-If this is your first visit please BEGIN HERE: [Plain English Explanations of plasma acceleration research papers](/plasma-accel-explained.html).
+If this is your first visit please **BEGIN HERE**: [Plain English Explanations of plasma acceleration research papers](/plasma-accel-explained.html).
 
 
 ## Research Papers:
