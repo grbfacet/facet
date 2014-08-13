@@ -11,17 +11,17 @@ If this is your first visit please **BEGIN HERE**: [Plain English Explanations o
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
-## The published research papers:
+### The published research papers:
 
 [Energy doubling of 42 GeV electrons in a metre-scale plasma wakefield accelerator](/energy-doubling-slacpub.html)
 
 
-## The plain English explanations of the research papers:
+### The plain English explanations of the research papers:
 
 [The Plain English Explanation of the Beam Energy Doubling research paper](/energy-doubling-explained.html)
 
 
-## The physics tutorials:
+### The physics tutorials:
 
 [Some fundamental concepts of physics](/principles-of-physics-tutorial.html)
 
@@ -32,7 +32,7 @@ If this is your first visit please **BEGIN HERE**: [Plain English Explanations o
 [Relativity and high energy particle beams](/relativity-tutorial.html)
 
 
-## The plain English concepts:
+### The plain English concepts:
 
 [Plain English Explanations of plasma acceleration research papers](/plasma-accel-explained.html).
 
