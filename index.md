@@ -8,17 +8,17 @@ This is the home page for the Plain English approach to a detailed layman's expl
 If this is your first visit please **BEGIN HERE**: [Plain English Explanations of plasma acceleration research papers](/plasma-accel-explained.html).
 
 
-## Research Papers:
+## The published research papers:
 
 [Energy doubling of 42 GeV electrons in a metre-scale plasma wakefield accelerator](/energy-doubling-slacpub.html)
 
 
-## Plain English explanations of research papers:
+## The plain English explanations of the research papers:
 
 [The Plain English Explanation of the Beam Energy Doubling research paper](/energy-doubling-explained.html)
 
 
-## Physics tutorials:
+## The physics tutorials:
 
 [Some fundamental concepts of physics](/principles-of-physics-tutorial.html)
 
@@ -29,7 +29,7 @@ If this is your first visit please **BEGIN HERE**: [Plain English Explanations o
 [Relativity and high energy particle beams](/relativity-tutorial.html)
 
 
-## Plain English Concepts:
+## The plain English concepts:
 
 [Plain English Explanations of plasma acceleration research papers](/plasma-accel-explained.html).
 
